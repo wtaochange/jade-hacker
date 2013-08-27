@@ -1,0 +1,14 @@
+
+handle		jum
+mask		*!*@jum.users.DesireNET.Org
+prot		4
+aop
+channel		*
+access		100
+
+handle		jum`
+mask		*!*@jum.users.DesireNET.Org
+prot		4
+aop
+channel		*
+access		100

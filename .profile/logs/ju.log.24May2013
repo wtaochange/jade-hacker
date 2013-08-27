@@ -1,0 +1,4471 @@
+[00:00] Writing user file...
+[00:00] Writing info file ...
+[00:00] Writing channel file...
+[00:00] Trying server 134.60.4.198:6667
+[00:00] Connected to 134.60.4.198
+[00:00] Disconnected from 134.60.4.198
+[00:01] Trying server 49.204.56.254:6667
+[00:01] Connected to 49.204.56.254
+[00:01] Disconnected from 49.204.56.254
+[00:02] Trying server 134.60.4.198:6667
+[00:02] Connected to 134.60.4.198
+[00:02] Disconnected from 134.60.4.198
+[00:03] Trying server 134.60.4.198:6667
+[00:03] Connected to 134.60.4.198
+[00:03] Disconnected from 134.60.4.198
+[00:04] Trying server 49.204.56.254:6667
+[00:04] Connected to 49.204.56.254
+[00:04] Disconnected from 49.204.56.254
+[00:05] Trying server 134.60.4.198:6667
+[00:05] Connected to 134.60.4.198
+[00:05] Disconnected from 134.60.4.198
+[00:06] Trying server 134.60.4.198:6667
+[00:06] Connected to 134.60.4.198
+[00:06] Disconnected from 134.60.4.198
+[00:07] Trying server 49.204.56.254:6667
+[00:07] Connected to 49.204.56.254
+[00:07] Disconnected from 49.204.56.254
+[00:08] Trying server 134.60.4.198:6667
+[00:08] Connected to 134.60.4.198
+[00:08] Disconnected from 134.60.4.198
+[00:09] Trying server 134.60.4.198:6667
+[00:09] Connected to 134.60.4.198
+[00:09] Disconnected from 134.60.4.198
+[00:10] Trying server 49.204.56.254:6667
+[00:10] Connected to 49.204.56.254
+[00:10] Disconnected from 49.204.56.254
+[00:11] Trying server 134.60.4.198:6667
+[00:11] Connected to 134.60.4.198
+[00:11] Disconnected from 134.60.4.198
+[00:12] Backing up seen data...
+[00:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[00:12] Trying server 134.60.4.198:6667
+[00:12] Connected to 134.60.4.198
+[00:12] Disconnected from 134.60.4.198
+[00:13] Trying server 49.204.56.254:6667
+[00:13] Connected to 49.204.56.254
+[00:13] Disconnected from 49.204.56.254
+[00:14] Trying server 134.60.4.198:6667
+[00:14] Connected to 134.60.4.198
+[00:14] Disconnected from 134.60.4.198
+[00:15] Trying server 134.60.4.198:6667
+[00:15] Connected to 134.60.4.198
+[00:15] Disconnected from 134.60.4.198
+[00:16] Trying server 49.204.56.254:6667
+[00:16] Connected to 49.204.56.254
+[00:16] Disconnected from 49.204.56.254
+[00:17] Trying server 134.60.4.198:6667
+[00:17] Connected to 134.60.4.198
+[00:17] Disconnected from 134.60.4.198
+[00:18] Trying server 134.60.4.198:6667
+[00:18] Connected to 134.60.4.198
+[00:18] Disconnected from 134.60.4.198
+[00:19] Trying server 49.204.56.254:6667
+[00:19] Connected to 49.204.56.254
+[00:19] Disconnected from 49.204.56.254
+[00:20] Trying server 134.60.4.198:6667
+[00:20] Connected to 134.60.4.198
+[00:20] Disconnected from 134.60.4.198
+[00:21] Trying server 134.60.4.198:6667
+[00:21] Connected to 134.60.4.198
+[00:21] Disconnected from 134.60.4.198
+[00:22] Trying server 49.204.56.254:6667
+[00:22] Connected to 49.204.56.254
+[00:22] Disconnected from 49.204.56.254
+[00:23] Trying server 134.60.4.198:6667
+[00:23] Connected to 134.60.4.198
+[00:23] Disconnected from 134.60.4.198
+[00:24] Trying server 134.60.4.198:6667
+[00:24] Connected to 134.60.4.198
+[00:24] Disconnected from 134.60.4.198
+[00:25] Trying server 49.204.56.254:6667
+[00:25] Connected to 49.204.56.254
+[00:25] Disconnected from 49.204.56.254
+[00:26] Trying server 134.60.4.198:6667
+[00:26] Connected to 134.60.4.198
+[00:26] Disconnected from 134.60.4.198
+[00:27] Trying server 134.60.4.198:6667
+[00:27] Connected to 134.60.4.198
+[00:27] Disconnected from 134.60.4.198
+[00:28] Trying server 49.204.56.254:6667
+[00:28] Connected to 49.204.56.254
+[00:28] Disconnected from 49.204.56.254
+[00:29] Trying server 134.60.4.198:6667
+[00:29] Connected to 134.60.4.198
+[00:29] Disconnected from 134.60.4.198
+[00:30] Trying server 134.60.4.198:6667
+[00:30] Connected to 134.60.4.198
+[00:30] Disconnected from 134.60.4.198
+[00:31] Trying server 49.204.56.254:6667
+[00:31] Connected to 49.204.56.254
+[00:31] Disconnected from 49.204.56.254
+[00:32] Trying server 134.60.4.198:6667
+[00:32] Connected to 134.60.4.198
+[00:32] Disconnected from 134.60.4.198
+[00:33] Trying server 134.60.4.198:6667
+[00:33] Connected to 134.60.4.198
+[00:33] Disconnected from 134.60.4.198
+[00:34] Trying server 49.204.56.254:6667
+[00:34] Connected to 49.204.56.254
+[00:34] Disconnected from 49.204.56.254
+[00:35] Trying server 134.60.4.198:6667
+[00:35] Connected to 134.60.4.198
+[00:35] Disconnected from 134.60.4.198
+[00:36] Trying server 134.60.4.198:6667
+[00:36] Connected to 134.60.4.198
+[00:36] Disconnected from 134.60.4.198
+[00:37] Trying server 49.204.56.254:6667
+[00:37] Connected to 49.204.56.254
+[00:37] Disconnected from 49.204.56.254
+[00:38] Trying server 134.60.4.198:6667
+[00:38] Connected to 134.60.4.198
+[00:38] Disconnected from 134.60.4.198
+[00:39] Trying server 134.60.4.198:6667
+[00:39] Connected to 134.60.4.198
+[00:39] Disconnected from 134.60.4.198
+[00:40] Trying server 49.204.56.254:6667
+[00:40] Connected to 49.204.56.254
+[00:40] Disconnected from 49.204.56.254
+[00:41] Trying server 134.60.4.198:6667
+[00:41] Connected to 134.60.4.198
+[00:41] Disconnected from 134.60.4.198
+[00:42] Trying server 134.60.4.198:6667
+[00:42] Connected to 134.60.4.198
+[00:42] Disconnected from 134.60.4.198
+[00:43] Trying server 49.204.56.254:6667
+[00:43] Connected to 49.204.56.254
+[00:43] Disconnected from 49.204.56.254
+[00:44] Trying server 134.60.4.198:6667
+[00:44] Connected to 134.60.4.198
+[00:44] Disconnected from 134.60.4.198
+[00:45] Trying server 134.60.4.198:6667
+[00:45] Connected to 134.60.4.198
+[00:45] Disconnected from 134.60.4.198
+[00:46] Trying server 49.204.56.254:6667
+[00:46] Connected to 49.204.56.254
+[00:46] Disconnected from 49.204.56.254
+[00:47] Trying server 134.60.4.198:6667
+[00:47] Connected to 134.60.4.198
+[00:47] Disconnected from 134.60.4.198
+[00:48] Trying server 134.60.4.198:6667
+[00:48] Connected to 134.60.4.198
+[00:48] Disconnected from 134.60.4.198
+[00:49] Trying server 49.204.56.254:6667
+[00:49] Connected to 49.204.56.254
+[00:49] Disconnected from 49.204.56.254
+[00:50] Trying server 134.60.4.198:6667
+[00:50] Connected to 134.60.4.198
+[00:50] Disconnected from 134.60.4.198
+[00:51] Trying server 134.60.4.198:6667
+[00:51] Connected to 134.60.4.198
+[00:51] Disconnected from 134.60.4.198
+[00:52] Trying server 49.204.56.254:6667
+[00:52] Connected to 49.204.56.254
+[00:52] Disconnected from 49.204.56.254
+[00:53] Trying server 134.60.4.198:6667
+[00:53] Connected to 134.60.4.198
+[00:53] Disconnected from 134.60.4.198
+[00:54] Trying server 134.60.4.198:6667
+[00:54] Connected to 134.60.4.198
+[00:54] Disconnected from 134.60.4.198
+[00:55] Trying server 49.204.56.254:6667
+[00:55] Connected to 49.204.56.254
+[00:55] Disconnected from 49.204.56.254
+[00:56] Trying server 134.60.4.198:6667
+[00:56] Connected to 134.60.4.198
+[00:56] Disconnected from 134.60.4.198
+[00:57] Trying server 134.60.4.198:6667
+[00:57] Connected to 134.60.4.198
+[00:57] Disconnected from 134.60.4.198
+[00:58] Trying server 49.204.56.254:6667
+[00:58] Connected to 49.204.56.254
+[00:58] Disconnected from 49.204.56.254
+[00:59] Trying server 134.60.4.198:6667
+[00:59] Connected to 134.60.4.198
+[00:59] Disconnected from 134.60.4.198
+[01:00] <<ju>> TIMED ROUTINE -- 24 HOURS
+[01:00] <<ju>> AUTO CLEANING CHANNLESLIST ROUTINE -- 0 channels:  & 0 stats channels stats: 
+[01:00] <<ju>> AUTO CLEANING USERLIST ROUTINE -- 0 user(s) erased
+[01:00] Backing up user file...
+[01:00] Backing up channel file...
+[01:00] Backing up info file...
+[01:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[01:00] Writing user file...
+[01:00] Writing info file ...
+[01:00] Writing channel file...
+[01:00] Trying server 134.60.4.198:6667
+[01:00] Connected to 134.60.4.198
+[01:00] Disconnected from 134.60.4.198
+[01:01] Trying server 49.204.56.254:6667
+[01:01] Connected to 49.204.56.254
+[01:01] Disconnected from 49.204.56.254
+[01:02] Trying server 134.60.4.198:6667
+[01:02] Connected to 134.60.4.198
+[01:02] Disconnected from 134.60.4.198
+[01:03] Trying server 134.60.4.198:6667
+[01:03] Connected to 134.60.4.198
+[01:03] Disconnected from 134.60.4.198
+[01:04] Trying server 49.204.56.254:6667
+[01:04] Connected to 49.204.56.254
+[01:04] Disconnected from 49.204.56.254
+[01:05] Trying server 134.60.4.198:6667
+[01:05] Connected to 134.60.4.198
+[01:05] Disconnected from 134.60.4.198
+[01:06] Trying server 134.60.4.198:6667
+[01:06] Connected to 134.60.4.198
+[01:06] Disconnected from 134.60.4.198
+[01:07] Trying server 49.204.56.254:6667
+[01:07] Connected to 49.204.56.254
+[01:07] Disconnected from 49.204.56.254
+[01:08] Trying server 134.60.4.198:6667
+[01:08] Connected to 134.60.4.198
+[01:08] Disconnected from 134.60.4.198
+[01:09] Trying server 134.60.4.198:6667
+[01:09] Connected to 134.60.4.198
+[01:09] Disconnected from 134.60.4.198
+[01:10] Trying server 49.204.56.254:6667
+[01:10] Connected to 49.204.56.254
+[01:10] Disconnected from 49.204.56.254
+[01:11] Trying server 134.60.4.198:6667
+[01:11] Connected to 134.60.4.198
+[01:11] Disconnected from 134.60.4.198
+[01:12] Backing up seen data...
+[01:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[01:12] Trying server 134.60.4.198:6667
+[01:12] Connected to 134.60.4.198
+[01:12] Disconnected from 134.60.4.198
+[01:13] Trying server 49.204.56.254:6667
+[01:13] Connected to 49.204.56.254
+[01:13] Disconnected from 49.204.56.254
+[01:14] Trying server 134.60.4.198:6667
+[01:14] Connected to 134.60.4.198
+[01:14] Disconnected from 134.60.4.198
+[01:15] Trying server 134.60.4.198:6667
+[01:15] Connected to 134.60.4.198
+[01:15] Disconnected from 134.60.4.198
+[01:16] Trying server 49.204.56.254:6667
+[01:16] Connected to 49.204.56.254
+[01:16] Disconnected from 49.204.56.254
+[01:17] Trying server 134.60.4.198:6667
+[01:17] Connected to 134.60.4.198
+[01:17] Disconnected from 134.60.4.198
+[01:18] Trying server 134.60.4.198:6667
+[01:18] Connected to 134.60.4.198
+[01:18] Disconnected from 134.60.4.198
+[01:19] Trying server 49.204.56.254:6667
+[01:19] Connected to 49.204.56.254
+[01:19] Disconnected from 49.204.56.254
+[01:20] Trying server 134.60.4.198:6667
+[01:20] Connected to 134.60.4.198
+[01:20] Disconnected from 134.60.4.198
+[01:21] Trying server 134.60.4.198:6667
+[01:21] Connected to 134.60.4.198
+[01:21] Disconnected from 134.60.4.198
+[01:22] Trying server 49.204.56.254:6667
+[01:22] Connected to 49.204.56.254
+[01:22] Disconnected from 49.204.56.254
+[01:23] Trying server 134.60.4.198:6667
+[01:23] Connected to 134.60.4.198
+[01:23] Disconnected from 134.60.4.198
+[01:24] Trying server 134.60.4.198:6667
+[01:24] Connected to 134.60.4.198
+[01:24] Disconnected from 134.60.4.198
+[01:25] Trying server 49.204.56.254:6667
+[01:25] Connected to 49.204.56.254
+[01:25] Disconnected from 49.204.56.254
+[01:26] Trying server 134.60.4.198:6667
+[01:26] Connected to 134.60.4.198
+[01:26] Disconnected from 134.60.4.198
+[01:27] Trying server 134.60.4.198:6667
+[01:27] Connected to 134.60.4.198
+[01:27] Disconnected from 134.60.4.198
+[01:28] Trying server 49.204.56.254:6667
+[01:28] Connected to 49.204.56.254
+[01:28] Disconnected from 49.204.56.254
+[01:29] Trying server 134.60.4.198:6667
+[01:29] Connected to 134.60.4.198
+[01:29] Disconnected from 134.60.4.198
+[01:30] Trying server 134.60.4.198:6667
+[01:30] Connected to 134.60.4.198
+[01:30] Disconnected from 134.60.4.198
+[01:31] Trying server 49.204.56.254:6667
+[01:31] Connected to 49.204.56.254
+[01:31] Disconnected from 49.204.56.254
+[01:32] Trying server 134.60.4.198:6667
+[01:32] Connected to 134.60.4.198
+[01:32] Disconnected from 134.60.4.198
+[01:33] Trying server 134.60.4.198:6667
+[01:33] Connected to 134.60.4.198
+[01:33] Disconnected from 134.60.4.198
+[01:34] Trying server 49.204.56.254:6667
+[01:34] Connected to 49.204.56.254
+[01:34] Disconnected from 49.204.56.254
+[01:35] Trying server 134.60.4.198:6667
+[01:35] Connected to 134.60.4.198
+[01:35] Disconnected from 134.60.4.198
+[01:36] Trying server 134.60.4.198:6667
+[01:36] Connected to 134.60.4.198
+[01:36] Disconnected from 134.60.4.198
+[01:37] Trying server 49.204.56.254:6667
+[01:37] Connected to 49.204.56.254
+[01:37] Disconnected from 49.204.56.254
+[01:38] Trying server 134.60.4.198:6667
+[01:38] Connected to 134.60.4.198
+[01:38] Disconnected from 134.60.4.198
+[01:39] Trying server 134.60.4.198:6667
+[01:39] Connected to 134.60.4.198
+[01:39] Disconnected from 134.60.4.198
+[01:40] Trying server 49.204.56.254:6667
+[01:40] Connected to 49.204.56.254
+[01:40] Disconnected from 49.204.56.254
+[01:41] Trying server 134.60.4.198:6667
+[01:41] Connected to 134.60.4.198
+[01:41] Disconnected from 134.60.4.198
+[01:42] Trying server 134.60.4.198:6667
+[01:42] Connected to 134.60.4.198
+[01:42] Disconnected from 134.60.4.198
+[01:43] Trying server 49.204.56.254:6667
+[01:43] Connected to 49.204.56.254
+[01:43] Disconnected from 49.204.56.254
+[01:44] Trying server 134.60.4.198:6667
+[01:44] Connected to 134.60.4.198
+[01:44] Disconnected from 134.60.4.198
+[01:45] Trying server 134.60.4.198:6667
+[01:45] Connected to 134.60.4.198
+[01:45] Disconnected from 134.60.4.198
+[01:46] Trying server 49.204.56.254:6667
+[01:46] Connected to 49.204.56.254
+[01:46] Disconnected from 49.204.56.254
+[01:47] Trying server 134.60.4.198:6667
+[01:47] Connected to 134.60.4.198
+[01:47] Disconnected from 134.60.4.198
+[01:48] Trying server 134.60.4.198:6667
+[01:48] Connected to 134.60.4.198
+[01:48] Disconnected from 134.60.4.198
+[01:49] Trying server 49.204.56.254:6667
+[01:49] Connected to 49.204.56.254
+[01:49] Disconnected from 49.204.56.254
+[01:50] Trying server 134.60.4.198:6667
+[01:50] Connected to 134.60.4.198
+[01:50] Disconnected from 134.60.4.198
+[01:51] Trying server 134.60.4.198:6667
+[01:51] Connected to 134.60.4.198
+[01:51] Disconnected from 134.60.4.198
+[01:52] Trying server 49.204.56.254:6667
+[01:52] Connected to 49.204.56.254
+[01:52] Disconnected from 49.204.56.254
+[01:53] Trying server 134.60.4.198:6667
+[01:53] Connected to 134.60.4.198
+[01:53] Disconnected from 134.60.4.198
+[01:54] Trying server 134.60.4.198:6667
+[01:54] Connected to 134.60.4.198
+[01:54] Disconnected from 134.60.4.198
+[01:55] Trying server 49.204.56.254:6667
+[01:55] Connected to 49.204.56.254
+[01:55] Disconnected from 49.204.56.254
+[01:56] Trying server 134.60.4.198:6667
+[01:56] Connected to 134.60.4.198
+[01:56] Disconnected from 134.60.4.198
+[01:57] Trying server 134.60.4.198:6667
+[01:57] Connected to 134.60.4.198
+[01:57] Disconnected from 134.60.4.198
+[01:58] Trying server 49.204.56.254:6667
+[01:58] Connected to 49.204.56.254
+[01:58] Disconnected from 49.204.56.254
+[01:59] Trying server 134.60.4.198:6667
+[01:59] Connected to 134.60.4.198
+[01:59] Disconnected from 134.60.4.198
+[02:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[02:00] Writing user file...
+[02:00] Writing info file ...
+[02:00] Writing channel file...
+[02:00] Trying server 134.60.4.198:6667
+[02:00] Connected to 134.60.4.198
+[02:00] Disconnected from 134.60.4.198
+[02:01] Trying server 49.204.56.254:6667
+[02:01] Connected to 49.204.56.254
+[02:01] Disconnected from 49.204.56.254
+[02:02] Trying server 134.60.4.198:6667
+[02:02] Connected to 134.60.4.198
+[02:02] Disconnected from 134.60.4.198
+[02:03] Trying server 134.60.4.198:6667
+[02:03] Connected to 134.60.4.198
+[02:03] Disconnected from 134.60.4.198
+[02:04] Trying server 49.204.56.254:6667
+[02:04] Connected to 49.204.56.254
+[02:04] Disconnected from 49.204.56.254
+[02:05] Trying server 134.60.4.198:6667
+[02:05] Connected to 134.60.4.198
+[02:05] Disconnected from 134.60.4.198
+[02:06] Trying server 134.60.4.198:6667
+[02:06] Connected to 134.60.4.198
+[02:06] Disconnected from 134.60.4.198
+[02:07] Trying server 49.204.56.254:6667
+[02:07] Connected to 49.204.56.254
+[02:07] Disconnected from 49.204.56.254
+[02:08] Trying server 134.60.4.198:6667
+[02:08] Connected to 134.60.4.198
+[02:08] Disconnected from 134.60.4.198
+[02:09] Trying server 134.60.4.198:6667
+[02:09] Connected to 134.60.4.198
+[02:09] Disconnected from 134.60.4.198
+[02:10] Trying server 49.204.56.254:6667
+[02:10] Connected to 49.204.56.254
+[02:10] Disconnected from 49.204.56.254
+[02:11] Trying server 134.60.4.198:6667
+[02:11] Connected to 134.60.4.198
+[02:11] Disconnected from 134.60.4.198
+[02:12] Backing up seen data...
+[02:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[02:12] Trying server 134.60.4.198:6667
+[02:12] Connected to 134.60.4.198
+[02:12] Disconnected from 134.60.4.198
+[02:13] Trying server 49.204.56.254:6667
+[02:13] Connected to 49.204.56.254
+[02:13] Disconnected from 49.204.56.254
+[02:14] Trying server 134.60.4.198:6667
+[02:14] Connected to 134.60.4.198
+[02:14] Disconnected from 134.60.4.198
+[02:15] Trying server 134.60.4.198:6667
+[02:15] Connected to 134.60.4.198
+[02:15] Disconnected from 134.60.4.198
+[02:16] Trying server 49.204.56.254:6667
+[02:16] Connected to 49.204.56.254
+[02:16] Disconnected from 49.204.56.254
+[02:17] Trying server 134.60.4.198:6667
+[02:17] Connected to 134.60.4.198
+[02:17] Disconnected from 134.60.4.198
+[02:18] Trying server 134.60.4.198:6667
+[02:18] Connected to 134.60.4.198
+[02:18] Disconnected from 134.60.4.198
+[02:19] Trying server 49.204.56.254:6667
+[02:19] Connected to 49.204.56.254
+[02:19] Disconnected from 49.204.56.254
+[02:20] Trying server 134.60.4.198:6667
+[02:20] Connected to 134.60.4.198
+[02:20] Disconnected from 134.60.4.198
+[02:21] Trying server 134.60.4.198:6667
+[02:21] Connected to 134.60.4.198
+[02:21] Disconnected from 134.60.4.198
+[02:22] Trying server 49.204.56.254:6667
+[02:22] Connected to 49.204.56.254
+[02:22] Disconnected from 49.204.56.254
+[02:23] Trying server 134.60.4.198:6667
+[02:23] Connected to 134.60.4.198
+[02:23] Disconnected from 134.60.4.198
+[02:24] Trying server 134.60.4.198:6667
+[02:24] Connected to 134.60.4.198
+[02:24] Disconnected from 134.60.4.198
+[02:25] Trying server 49.204.56.254:6667
+[02:25] Connected to 49.204.56.254
+[02:25] Disconnected from 49.204.56.254
+[02:26] Trying server 134.60.4.198:6667
+[02:26] Connected to 134.60.4.198
+[02:26] Disconnected from 134.60.4.198
+[02:27] Trying server 134.60.4.198:6667
+[02:27] Connected to 134.60.4.198
+[02:27] Disconnected from 134.60.4.198
+[02:28] Trying server 49.204.56.254:6667
+[02:28] Connected to 49.204.56.254
+[02:28] Disconnected from 49.204.56.254
+[02:29] Trying server 134.60.4.198:6667
+[02:29] Connected to 134.60.4.198
+[02:29] Disconnected from 134.60.4.198
+[02:30] Trying server 134.60.4.198:6667
+[02:30] Connected to 134.60.4.198
+[02:30] Disconnected from 134.60.4.198
+[02:31] Trying server 49.204.56.254:6667
+[02:31] Connected to 49.204.56.254
+[02:31] Disconnected from 49.204.56.254
+[02:32] Trying server 134.60.4.198:6667
+[02:32] Connected to 134.60.4.198
+[02:32] Disconnected from 134.60.4.198
+[02:33] Trying server 134.60.4.198:6667
+[02:33] Connected to 134.60.4.198
+[02:33] Disconnected from 134.60.4.198
+[02:34] Trying server 49.204.56.254:6667
+[02:34] Connected to 49.204.56.254
+[02:34] Disconnected from 49.204.56.254
+[02:35] Trying server 134.60.4.198:6667
+[02:35] Connected to 134.60.4.198
+[02:35] Disconnected from 134.60.4.198
+[02:36] Trying server 134.60.4.198:6667
+[02:36] Connected to 134.60.4.198
+[02:36] Disconnected from 134.60.4.198
+[02:37] Trying server 49.204.56.254:6667
+[02:37] Connected to 49.204.56.254
+[02:37] Disconnected from 49.204.56.254
+[02:38] Trying server 134.60.4.198:6667
+[02:38] Connected to 134.60.4.198
+[02:38] Disconnected from 134.60.4.198
+[02:39] Trying server 134.60.4.198:6667
+[02:39] Connected to 134.60.4.198
+[02:39] Disconnected from 134.60.4.198
+[02:40] Trying server 49.204.56.254:6667
+[02:40] Connected to 49.204.56.254
+[02:40] Disconnected from 49.204.56.254
+[02:41] Trying server 134.60.4.198:6667
+[02:41] Connected to 134.60.4.198
+[02:41] Disconnected from 134.60.4.198
+[02:42] Trying server 134.60.4.198:6667
+[02:42] Connected to 134.60.4.198
+[02:42] Disconnected from 134.60.4.198
+[02:43] Trying server 49.204.56.254:6667
+[02:43] Connected to 49.204.56.254
+[02:43] Disconnected from 49.204.56.254
+[02:44] Trying server 134.60.4.198:6667
+[02:44] Connected to 134.60.4.198
+[02:44] Disconnected from 134.60.4.198
+[02:45] Trying server 134.60.4.198:6667
+[02:45] Connected to 134.60.4.198
+[02:45] Disconnected from 134.60.4.198
+[02:46] Trying server 49.204.56.254:6667
+[02:46] Connected to 49.204.56.254
+[02:46] Disconnected from 49.204.56.254
+[02:47] Trying server 134.60.4.198:6667
+[02:47] Connected to 134.60.4.198
+[02:47] Disconnected from 134.60.4.198
+[02:48] Trying server 134.60.4.198:6667
+[02:48] Connected to 134.60.4.198
+[02:48] Disconnected from 134.60.4.198
+[02:49] Trying server 49.204.56.254:6667
+[02:49] Connected to 49.204.56.254
+[02:49] Disconnected from 49.204.56.254
+[02:50] Trying server 134.60.4.198:6667
+[02:50] Connected to 134.60.4.198
+[02:50] Disconnected from 134.60.4.198
+[02:51] Trying server 134.60.4.198:6667
+[02:51] Connected to 134.60.4.198
+[02:51] Disconnected from 134.60.4.198
+[02:52] Trying server 49.204.56.254:6667
+[02:52] Connected to 49.204.56.254
+[02:52] Disconnected from 49.204.56.254
+[02:53] Trying server 134.60.4.198:6667
+[02:53] Connected to 134.60.4.198
+[02:53] Disconnected from 134.60.4.198
+[02:54] Trying server 134.60.4.198:6667
+[02:54] Connected to 134.60.4.198
+[02:54] Disconnected from 134.60.4.198
+[02:55] Trying server 49.204.56.254:6667
+[02:55] Connected to 49.204.56.254
+[02:55] Disconnected from 49.204.56.254
+[02:56] Trying server 134.60.4.198:6667
+[02:56] Connected to 134.60.4.198
+[02:56] Disconnected from 134.60.4.198
+[02:57] Trying server 134.60.4.198:6667
+[02:57] Connected to 134.60.4.198
+[02:57] Disconnected from 134.60.4.198
+[02:58] Trying server 49.204.56.254:6667
+[02:58] Connected to 49.204.56.254
+[02:58] Disconnected from 49.204.56.254
+[02:59] Trying server 134.60.4.198:6667
+[02:59] Connected to 134.60.4.198
+[02:59] Disconnected from 134.60.4.198
+[03:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[03:00] Writing user file...
+[03:00] Writing info file ...
+[03:00] Writing channel file...
+[03:00] Trying server 134.60.4.198:6667
+[03:00] Connected to 134.60.4.198
+[03:00] Disconnected from 134.60.4.198
+[03:01] Trying server 49.204.56.254:6667
+[03:01] Connected to 49.204.56.254
+[03:01] Disconnected from 49.204.56.254
+[03:02] Trying server 134.60.4.198:6667
+[03:02] Connected to 134.60.4.198
+[03:02] Disconnected from 134.60.4.198
+[03:03] Trying server 134.60.4.198:6667
+[03:03] Connected to 134.60.4.198
+[03:03] Disconnected from 134.60.4.198
+[03:04] Trying server 49.204.56.254:6667
+[03:04] Connected to 49.204.56.254
+[03:04] Disconnected from 49.204.56.254
+[03:05] Trying server 134.60.4.198:6667
+[03:05] Connected to 134.60.4.198
+[03:05] Disconnected from 134.60.4.198
+[03:06] Trying server 134.60.4.198:6667
+[03:06] Connected to 134.60.4.198
+[03:06] Disconnected from 134.60.4.198
+[03:07] Trying server 49.204.56.254:6667
+[03:07] Connected to 49.204.56.254
+[03:07] Disconnected from 49.204.56.254
+[03:08] Trying server 134.60.4.198:6667
+[03:08] Connected to 134.60.4.198
+[03:08] Disconnected from 134.60.4.198
+[03:09] Trying server 134.60.4.198:6667
+[03:09] Connected to 134.60.4.198
+[03:09] Disconnected from 134.60.4.198
+[03:10] Trying server 49.204.56.254:6667
+[03:10] Connected to 49.204.56.254
+[03:10] Disconnected from 49.204.56.254
+[03:11] Trying server 134.60.4.198:6667
+[03:11] Connected to 134.60.4.198
+[03:11] Disconnected from 134.60.4.198
+[03:12] Backing up seen data...
+[03:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[03:12] Trying server 134.60.4.198:6667
+[03:12] Connected to 134.60.4.198
+[03:12] Disconnected from 134.60.4.198
+[03:13] Trying server 49.204.56.254:6667
+[03:13] Connected to 49.204.56.254
+[03:13] Disconnected from 49.204.56.254
+[03:14] Trying server 134.60.4.198:6667
+[03:14] Connected to 134.60.4.198
+[03:14] Disconnected from 134.60.4.198
+[03:15] Trying server 134.60.4.198:6667
+[03:15] Connected to 134.60.4.198
+[03:15] Disconnected from 134.60.4.198
+[03:16] Trying server 49.204.56.254:6667
+[03:16] Connected to 49.204.56.254
+[03:16] Disconnected from 49.204.56.254
+[03:17] Trying server 134.60.4.198:6667
+[03:17] Connected to 134.60.4.198
+[03:17] Disconnected from 134.60.4.198
+[03:18] Trying server 134.60.4.198:6667
+[03:18] Connected to 134.60.4.198
+[03:18] Disconnected from 134.60.4.198
+[03:19] Trying server 49.204.56.254:6667
+[03:19] Connected to 49.204.56.254
+[03:19] Disconnected from 49.204.56.254
+[03:20] Trying server 134.60.4.198:6667
+[03:20] Connected to 134.60.4.198
+[03:20] Disconnected from 134.60.4.198
+[03:21] Trying server 134.60.4.198:6667
+[03:21] Connected to 134.60.4.198
+[03:21] Disconnected from 134.60.4.198
+[03:22] Trying server 49.204.56.254:6667
+[03:22] Connected to 49.204.56.254
+[03:22] Disconnected from 49.204.56.254
+[03:23] Trying server 134.60.4.198:6667
+[03:23] Connected to 134.60.4.198
+[03:23] Disconnected from 134.60.4.198
+[03:24] Trying server 134.60.4.198:6667
+[03:24] Connected to 134.60.4.198
+[03:24] Disconnected from 134.60.4.198
+[03:25] Trying server 49.204.56.254:6667
+[03:25] Connected to 49.204.56.254
+[03:25] Disconnected from 49.204.56.254
+[03:26] Trying server 134.60.4.198:6667
+[03:26] Connected to 134.60.4.198
+[03:26] Disconnected from 134.60.4.198
+[03:27] Trying server 134.60.4.198:6667
+[03:27] Connected to 134.60.4.198
+[03:27] Disconnected from 134.60.4.198
+[03:28] Trying server 49.204.56.254:6667
+[03:28] Connected to 49.204.56.254
+[03:28] Disconnected from 49.204.56.254
+[03:29] Trying server 134.60.4.198:6667
+[03:29] Connected to 134.60.4.198
+[03:29] Disconnected from 134.60.4.198
+[03:30] Trying server 134.60.4.198:6667
+[03:30] Connected to 134.60.4.198
+[03:30] Disconnected from 134.60.4.198
+[03:31] Trying server 49.204.56.254:6667
+[03:31] Connected to 49.204.56.254
+[03:31] Disconnected from 49.204.56.254
+[03:32] Trying server 134.60.4.198:6667
+[03:32] Connected to 134.60.4.198
+[03:32] Disconnected from 134.60.4.198
+[03:33] Trying server 134.60.4.198:6667
+[03:33] Connected to 134.60.4.198
+[03:33] Disconnected from 134.60.4.198
+[03:34] Trying server 49.204.56.254:6667
+[03:34] Connected to 49.204.56.254
+[03:34] Disconnected from 49.204.56.254
+[03:35] Trying server 134.60.4.198:6667
+[03:35] Connected to 134.60.4.198
+[03:35] Disconnected from 134.60.4.198
+[03:36] Trying server 134.60.4.198:6667
+[03:36] Connected to 134.60.4.198
+[03:36] Disconnected from 134.60.4.198
+[03:37] Trying server 49.204.56.254:6667
+[03:37] Connected to 49.204.56.254
+[03:37] Disconnected from 49.204.56.254
+[03:38] Trying server 134.60.4.198:6667
+[03:38] Connected to 134.60.4.198
+[03:38] Disconnected from 134.60.4.198
+[03:39] Trying server 134.60.4.198:6667
+[03:39] Connected to 134.60.4.198
+[03:39] Disconnected from 134.60.4.198
+[03:40] Trying server 49.204.56.254:6667
+[03:40] Connected to 49.204.56.254
+[03:40] Disconnected from 49.204.56.254
+[03:41] Trying server 134.60.4.198:6667
+[03:41] Connected to 134.60.4.198
+[03:41] Disconnected from 134.60.4.198
+[03:42] Trying server 134.60.4.198:6667
+[03:42] Connected to 134.60.4.198
+[03:42] Disconnected from 134.60.4.198
+[03:43] Trying server 49.204.56.254:6667
+[03:43] Connected to 49.204.56.254
+[03:43] Disconnected from 49.204.56.254
+[03:44] Trying server 134.60.4.198:6667
+[03:44] Connected to 134.60.4.198
+[03:44] Disconnected from 134.60.4.198
+[03:45] Trying server 134.60.4.198:6667
+[03:45] Connected to 134.60.4.198
+[03:45] Disconnected from 134.60.4.198
+[03:46] Trying server 49.204.56.254:6667
+[03:46] Connected to 49.204.56.254
+[03:46] Disconnected from 49.204.56.254
+[03:47] Trying server 134.60.4.198:6667
+[03:47] Connected to 134.60.4.198
+[03:47] Disconnected from 134.60.4.198
+[03:48] Trying server 134.60.4.198:6667
+[03:48] Connected to 134.60.4.198
+[03:48] Disconnected from 134.60.4.198
+[03:49] Trying server 49.204.56.254:6667
+[03:49] Connected to 49.204.56.254
+[03:49] Disconnected from 49.204.56.254
+[03:50] Trying server 134.60.4.198:6667
+[03:50] Connected to 134.60.4.198
+[03:50] Disconnected from 134.60.4.198
+[03:51] Trying server 134.60.4.198:6667
+[03:51] Connected to 134.60.4.198
+[03:51] Disconnected from 134.60.4.198
+[03:52] Trying server 49.204.56.254:6667
+[03:52] Connected to 49.204.56.254
+[03:52] Disconnected from 49.204.56.254
+[03:53] Trying server 134.60.4.198:6667
+[03:53] Connected to 134.60.4.198
+[03:53] Disconnected from 134.60.4.198
+[03:54] Trying server 134.60.4.198:6667
+[03:54] Connected to 134.60.4.198
+[03:54] Disconnected from 134.60.4.198
+[03:55] Trying server 49.204.56.254:6667
+[03:55] Connected to 49.204.56.254
+[03:55] Disconnected from 49.204.56.254
+[03:56] Trying server 134.60.4.198:6667
+[03:56] Connected to 134.60.4.198
+[03:56] Disconnected from 134.60.4.198
+[03:57] Trying server 134.60.4.198:6667
+[03:57] Connected to 134.60.4.198
+[03:57] Disconnected from 134.60.4.198
+[03:58] Trying server 49.204.56.254:6667
+[03:58] Connected to 49.204.56.254
+[03:58] Disconnected from 49.204.56.254
+[03:59] Trying server 134.60.4.198:6667
+[03:59] Connected to 134.60.4.198
+[03:59] Disconnected from 134.60.4.198
+[04:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[04:00] Writing user file...
+[04:00] Writing info file ...
+[04:00] Writing channel file...
+[04:00] Trying server 134.60.4.198:6667
+[04:00] Connected to 134.60.4.198
+[04:00] Disconnected from 134.60.4.198
+[04:01] Trying server 49.204.56.254:6667
+[04:01] Connected to 49.204.56.254
+[04:01] Disconnected from 49.204.56.254
+[04:02] Trying server 134.60.4.198:6667
+[04:02] Connected to 134.60.4.198
+[04:02] Disconnected from 134.60.4.198
+[04:03] Trying server 134.60.4.198:6667
+[04:03] Connected to 134.60.4.198
+[04:03] Disconnected from 134.60.4.198
+[04:04] Trying server 49.204.56.254:6667
+[04:04] Connected to 49.204.56.254
+[04:04] Disconnected from 49.204.56.254
+[04:05] Trying server 134.60.4.198:6667
+[04:05] Connected to 134.60.4.198
+[04:05] Disconnected from 134.60.4.198
+[04:06] Trying server 134.60.4.198:6667
+[04:06] Connected to 134.60.4.198
+[04:06] Disconnected from 134.60.4.198
+[04:07] Trying server 49.204.56.254:6667
+[04:07] Connected to 49.204.56.254
+[04:07] Disconnected from 49.204.56.254
+[04:08] Trying server 134.60.4.198:6667
+[04:08] Connected to 134.60.4.198
+[04:08] Disconnected from 134.60.4.198
+[04:09] Trying server 134.60.4.198:6667
+[04:09] Connected to 134.60.4.198
+[04:09] Disconnected from 134.60.4.198
+[04:10] Trying server 49.204.56.254:6667
+[04:10] Connected to 49.204.56.254
+[04:10] Disconnected from 49.204.56.254
+[04:11] Trying server 134.60.4.198:6667
+[04:11] Connected to 134.60.4.198
+[04:11] Disconnected from 134.60.4.198
+[04:12] Backing up seen data...
+[04:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[04:12] Trying server 134.60.4.198:6667
+[04:12] Connected to 134.60.4.198
+[04:12] Disconnected from 134.60.4.198
+[04:13] Trying server 49.204.56.254:6667
+[04:13] Connected to 49.204.56.254
+[04:13] Disconnected from 49.204.56.254
+[04:14] Trying server 134.60.4.198:6667
+[04:14] Connected to 134.60.4.198
+[04:14] Disconnected from 134.60.4.198
+[04:15] Trying server 134.60.4.198:6667
+[04:15] Connected to 134.60.4.198
+[04:15] Disconnected from 134.60.4.198
+[04:16] Trying server 49.204.56.254:6667
+[04:16] Connected to 49.204.56.254
+[04:16] Disconnected from 49.204.56.254
+[04:17] Trying server 134.60.4.198:6667
+[04:17] Connected to 134.60.4.198
+[04:17] Disconnected from 134.60.4.198
+[04:18] Trying server 134.60.4.198:6667
+[04:18] Connected to 134.60.4.198
+[04:18] Disconnected from 134.60.4.198
+[04:19] Trying server 49.204.56.254:6667
+[04:19] Connected to 49.204.56.254
+[04:19] Disconnected from 49.204.56.254
+[04:20] Trying server 134.60.4.198:6667
+[04:20] Connected to 134.60.4.198
+[04:20] Disconnected from 134.60.4.198
+[04:21] Trying server 134.60.4.198:6667
+[04:21] Connected to 134.60.4.198
+[04:21] Disconnected from 134.60.4.198
+[04:22] Trying server 49.204.56.254:6667
+[04:22] Connected to 49.204.56.254
+[04:22] Disconnected from 49.204.56.254
+[04:23] Trying server 134.60.4.198:6667
+[04:23] Connected to 134.60.4.198
+[04:23] Disconnected from 134.60.4.198
+[04:24] Trying server 134.60.4.198:6667
+[04:24] Connected to 134.60.4.198
+[04:24] Disconnected from 134.60.4.198
+[04:25] Trying server 49.204.56.254:6667
+[04:25] Connected to 49.204.56.254
+[04:25] Disconnected from 49.204.56.254
+[04:26] Trying server 134.60.4.198:6667
+[04:26] Connected to 134.60.4.198
+[04:26] Disconnected from 134.60.4.198
+[04:27] Trying server 134.60.4.198:6667
+[04:27] Connected to 134.60.4.198
+[04:27] Disconnected from 134.60.4.198
+[04:28] Trying server 49.204.56.254:6667
+[04:28] Connected to 49.204.56.254
+[04:28] Disconnected from 49.204.56.254
+[04:29] Trying server 134.60.4.198:6667
+[04:29] Connected to 134.60.4.198
+[04:29] Disconnected from 134.60.4.198
+[04:30] Trying server 134.60.4.198:6667
+[04:30] Connected to 134.60.4.198
+[04:30] Disconnected from 134.60.4.198
+[04:31] Trying server 49.204.56.254:6667
+[04:31] Connected to 49.204.56.254
+[04:31] Disconnected from 49.204.56.254
+[04:32] Trying server 134.60.4.198:6667
+[04:32] Connected to 134.60.4.198
+[04:32] Disconnected from 134.60.4.198
+[04:33] Trying server 134.60.4.198:6667
+[04:33] Connected to 134.60.4.198
+[04:33] Disconnected from 134.60.4.198
+[04:34] Trying server 49.204.56.254:6667
+[04:34] Connected to 49.204.56.254
+[04:34] Disconnected from 49.204.56.254
+[04:35] Trying server 134.60.4.198:6667
+[04:35] Connected to 134.60.4.198
+[04:35] Disconnected from 134.60.4.198
+[04:36] Trying server 134.60.4.198:6667
+[04:36] Connected to 134.60.4.198
+[04:36] Disconnected from 134.60.4.198
+[04:37] Trying server 49.204.56.254:6667
+[04:37] Connected to 49.204.56.254
+[04:37] Disconnected from 49.204.56.254
+[04:38] Trying server 134.60.4.198:6667
+[04:38] Connected to 134.60.4.198
+[04:38] Disconnected from 134.60.4.198
+[04:39] Trying server 134.60.4.198:6667
+[04:39] Connected to 134.60.4.198
+[04:39] Disconnected from 134.60.4.198
+[04:40] Trying server 49.204.56.254:6667
+[04:40] Connected to 49.204.56.254
+[04:40] Disconnected from 49.204.56.254
+[04:41] Trying server 134.60.4.198:6667
+[04:41] Connected to 134.60.4.198
+[04:41] Disconnected from 134.60.4.198
+[04:42] Trying server 134.60.4.198:6667
+[04:42] Connected to 134.60.4.198
+[04:42] Disconnected from 134.60.4.198
+[04:43] Trying server 49.204.56.254:6667
+[04:43] Connected to 49.204.56.254
+[04:43] Disconnected from 49.204.56.254
+[04:44] Trying server 134.60.4.198:6667
+[04:44] Connected to 134.60.4.198
+[04:44] Disconnected from 134.60.4.198
+[04:45] Trying server 134.60.4.198:6667
+[04:45] Connected to 134.60.4.198
+[04:45] Disconnected from 134.60.4.198
+[04:46] Trying server 49.204.56.254:6667
+[04:46] Connected to 49.204.56.254
+[04:46] Disconnected from 49.204.56.254
+[04:47] Trying server 134.60.4.198:6667
+[04:47] Connected to 134.60.4.198
+[04:47] Disconnected from 134.60.4.198
+[04:48] Trying server 134.60.4.198:6667
+[04:48] Connected to 134.60.4.198
+[04:48] Disconnected from 134.60.4.198
+[04:49] Trying server 49.204.56.254:6667
+[04:49] Connected to 49.204.56.254
+[04:49] Disconnected from 49.204.56.254
+[04:50] Trying server 134.60.4.198:6667
+[04:50] Connected to 134.60.4.198
+[04:50] Disconnected from 134.60.4.198
+[04:51] Trying server 134.60.4.198:6667
+[04:51] Connected to 134.60.4.198
+[04:51] Disconnected from 134.60.4.198
+[04:52] Trying server 49.204.56.254:6667
+[04:52] Connected to 49.204.56.254
+[04:52] Disconnected from 49.204.56.254
+[04:53] Trying server 134.60.4.198:6667
+[04:53] Connected to 134.60.4.198
+[04:53] Disconnected from 134.60.4.198
+[04:54] Trying server 134.60.4.198:6667
+[04:54] Connected to 134.60.4.198
+[04:54] Disconnected from 134.60.4.198
+[04:55] Trying server 49.204.56.254:6667
+[04:55] Connected to 49.204.56.254
+[04:55] Disconnected from 49.204.56.254
+[04:56] Trying server 134.60.4.198:6667
+[04:56] Connected to 134.60.4.198
+[04:56] Disconnected from 134.60.4.198
+[04:57] Trying server 134.60.4.198:6667
+[04:57] Connected to 134.60.4.198
+[04:57] Disconnected from 134.60.4.198
+[04:58] Trying server 49.204.56.254:6667
+[04:58] Connected to 49.204.56.254
+[04:58] Disconnected from 49.204.56.254
+[04:59] Trying server 134.60.4.198:6667
+[04:59] Connected to 134.60.4.198
+[04:59] Disconnected from 134.60.4.198
+[05:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[05:00] Writing user file...
+[05:00] Writing info file ...
+[05:00] Writing channel file...
+[05:00] Trying server 134.60.4.198:6667
+[05:00] Connected to 134.60.4.198
+[05:00] Disconnected from 134.60.4.198
+[05:01] Trying server 49.204.56.254:6667
+[05:01] Connected to 49.204.56.254
+[05:01] Disconnected from 49.204.56.254
+[05:02] Trying server 134.60.4.198:6667
+[05:02] Connected to 134.60.4.198
+[05:02] Disconnected from 134.60.4.198
+[05:03] Trying server 134.60.4.198:6667
+[05:03] Connected to 134.60.4.198
+[05:03] Disconnected from 134.60.4.198
+[05:04] Trying server 49.204.56.254:6667
+[05:04] Connected to 49.204.56.254
+[05:04] Disconnected from 49.204.56.254
+[05:05] Trying server 134.60.4.198:6667
+[05:05] Connected to 134.60.4.198
+[05:05] Disconnected from 134.60.4.198
+[05:06] Trying server 134.60.4.198:6667
+[05:06] Connected to 134.60.4.198
+[05:06] Disconnected from 134.60.4.198
+[05:07] Trying server 49.204.56.254:6667
+[05:07] Connected to 49.204.56.254
+[05:07] Disconnected from 49.204.56.254
+[05:08] Trying server 134.60.4.198:6667
+[05:08] Connected to 134.60.4.198
+[05:08] Disconnected from 134.60.4.198
+[05:09] Trying server 134.60.4.198:6667
+[05:09] Connected to 134.60.4.198
+[05:09] Disconnected from 134.60.4.198
+[05:10] Trying server 49.204.56.254:6667
+[05:10] Connected to 49.204.56.254
+[05:10] Disconnected from 49.204.56.254
+[05:11] Trying server 134.60.4.198:6667
+[05:11] Connected to 134.60.4.198
+[05:11] Disconnected from 134.60.4.198
+[05:12] Backing up seen data...
+[05:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[05:12] Trying server 134.60.4.198:6667
+[05:12] Connected to 134.60.4.198
+[05:12] Disconnected from 134.60.4.198
+[05:13] Trying server 49.204.56.254:6667
+[05:13] Connected to 49.204.56.254
+[05:13] Disconnected from 49.204.56.254
+[05:14] Trying server 134.60.4.198:6667
+[05:14] Connected to 134.60.4.198
+[05:14] Disconnected from 134.60.4.198
+[05:15] Trying server 134.60.4.198:6667
+[05:15] Connected to 134.60.4.198
+[05:15] Disconnected from 134.60.4.198
+[05:16] Trying server 49.204.56.254:6667
+[05:16] Connected to 49.204.56.254
+[05:16] Disconnected from 49.204.56.254
+[05:17] Trying server 134.60.4.198:6667
+[05:17] Connected to 134.60.4.198
+[05:17] Disconnected from 134.60.4.198
+[05:18] Trying server 134.60.4.198:6667
+[05:18] Connected to 134.60.4.198
+[05:18] Disconnected from 134.60.4.198
+[05:19] Trying server 49.204.56.254:6667
+[05:19] Connected to 49.204.56.254
+[05:19] Disconnected from 49.204.56.254
+[05:20] Trying server 134.60.4.198:6667
+[05:20] Connected to 134.60.4.198
+[05:20] Disconnected from 134.60.4.198
+[05:21] Trying server 134.60.4.198:6667
+[05:21] Connected to 134.60.4.198
+[05:21] Disconnected from 134.60.4.198
+[05:22] Trying server 49.204.56.254:6667
+[05:22] Connected to 49.204.56.254
+[05:22] Disconnected from 49.204.56.254
+[05:23] Trying server 134.60.4.198:6667
+[05:23] Connected to 134.60.4.198
+[05:23] Disconnected from 134.60.4.198
+[05:24] Trying server 134.60.4.198:6667
+[05:24] Connected to 134.60.4.198
+[05:24] Disconnected from 134.60.4.198
+[05:25] Trying server 49.204.56.254:6667
+[05:25] Connected to 49.204.56.254
+[05:25] Disconnected from 49.204.56.254
+[05:26] Trying server 134.60.4.198:6667
+[05:26] Connected to 134.60.4.198
+[05:26] Disconnected from 134.60.4.198
+[05:27] Trying server 134.60.4.198:6667
+[05:27] Connected to 134.60.4.198
+[05:27] Disconnected from 134.60.4.198
+[05:28] Trying server 49.204.56.254:6667
+[05:28] Connected to 49.204.56.254
+[05:28] Disconnected from 49.204.56.254
+[05:29] Trying server 134.60.4.198:6667
+[05:29] Connected to 134.60.4.198
+[05:29] Disconnected from 134.60.4.198
+[05:30] Trying server 134.60.4.198:6667
+[05:30] Connected to 134.60.4.198
+[05:30] Disconnected from 134.60.4.198
+[05:31] Trying server 49.204.56.254:6667
+[05:31] Connected to 49.204.56.254
+[05:31] Disconnected from 49.204.56.254
+[05:32] Trying server 134.60.4.198:6667
+[05:32] Connected to 134.60.4.198
+[05:32] Disconnected from 134.60.4.198
+[05:33] Trying server 134.60.4.198:6667
+[05:33] Connected to 134.60.4.198
+[05:33] Disconnected from 134.60.4.198
+[05:34] Trying server 49.204.56.254:6667
+[05:34] Connected to 49.204.56.254
+[05:34] Disconnected from 49.204.56.254
+[05:35] Trying server 134.60.4.198:6667
+[05:35] Connected to 134.60.4.198
+[05:35] Disconnected from 134.60.4.198
+[05:36] Trying server 134.60.4.198:6667
+[05:36] Connected to 134.60.4.198
+[05:36] Disconnected from 134.60.4.198
+[05:37] Trying server 49.204.56.254:6667
+[05:37] Connected to 49.204.56.254
+[05:37] Disconnected from 49.204.56.254
+[05:38] Trying server 134.60.4.198:6667
+[05:38] Connected to 134.60.4.198
+[05:38] Disconnected from 134.60.4.198
+[05:39] Trying server 134.60.4.198:6667
+[05:39] Connected to 134.60.4.198
+[05:39] Disconnected from 134.60.4.198
+[05:40] Trying server 49.204.56.254:6667
+[05:40] Connected to 49.204.56.254
+[05:40] Disconnected from 49.204.56.254
+[05:41] Trying server 134.60.4.198:6667
+[05:41] Connected to 134.60.4.198
+[05:41] Disconnected from 134.60.4.198
+[05:42] Trying server 134.60.4.198:6667
+[05:42] Connected to 134.60.4.198
+[05:42] Disconnected from 134.60.4.198
+[05:43] Trying server 49.204.56.254:6667
+[05:43] Connected to 49.204.56.254
+[05:43] Disconnected from 49.204.56.254
+[05:44] Trying server 134.60.4.198:6667
+[05:44] Connected to 134.60.4.198
+[05:44] Disconnected from 134.60.4.198
+[05:45] Trying server 134.60.4.198:6667
+[05:45] Connected to 134.60.4.198
+[05:45] Disconnected from 134.60.4.198
+[05:46] Trying server 49.204.56.254:6667
+[05:46] Connected to 49.204.56.254
+[05:46] Disconnected from 49.204.56.254
+[05:47] Trying server 134.60.4.198:6667
+[05:47] Connected to 134.60.4.198
+[05:47] Disconnected from 134.60.4.198
+[05:48] Trying server 134.60.4.198:6667
+[05:48] Connected to 134.60.4.198
+[05:48] Disconnected from 134.60.4.198
+[05:49] Trying server 49.204.56.254:6667
+[05:49] Connected to 49.204.56.254
+[05:49] Disconnected from 49.204.56.254
+[05:50] Trying server 134.60.4.198:6667
+[05:50] Connected to 134.60.4.198
+[05:50] Disconnected from 134.60.4.198
+[05:51] Trying server 134.60.4.198:6667
+[05:51] Connected to 134.60.4.198
+[05:51] Disconnected from 134.60.4.198
+[05:52] Trying server 49.204.56.254:6667
+[05:52] Connected to 49.204.56.254
+[05:52] Disconnected from 49.204.56.254
+[05:53] Trying server 134.60.4.198:6667
+[05:53] Connected to 134.60.4.198
+[05:53] Disconnected from 134.60.4.198
+[05:54] Trying server 134.60.4.198:6667
+[05:54] Connected to 134.60.4.198
+[05:54] Disconnected from 134.60.4.198
+[05:55] Trying server 49.204.56.254:6667
+[05:55] Connected to 49.204.56.254
+[05:55] Disconnected from 49.204.56.254
+[05:56] Trying server 134.60.4.198:6667
+[05:56] Connected to 134.60.4.198
+[05:56] Disconnected from 134.60.4.198
+[05:57] Trying server 134.60.4.198:6667
+[05:57] Connected to 134.60.4.198
+[05:57] Disconnected from 134.60.4.198
+[05:58] Trying server 49.204.56.254:6667
+[05:58] Connected to 49.204.56.254
+[05:58] Disconnected from 49.204.56.254
+[05:59] Trying server 134.60.4.198:6667
+[05:59] Connected to 134.60.4.198
+[05:59] Disconnected from 134.60.4.198
+[06:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[06:00] Writing user file...
+[06:00] Writing info file ...
+[06:00] Writing channel file...
+[06:00] Trying server 134.60.4.198:6667
+[06:00] Connected to 134.60.4.198
+[06:00] Disconnected from 134.60.4.198
+[06:01] Trying server 49.204.56.254:6667
+[06:01] Connected to 49.204.56.254
+[06:01] Disconnected from 49.204.56.254
+[06:02] Trying server 134.60.4.198:6667
+[06:02] Connected to 134.60.4.198
+[06:02] Disconnected from 134.60.4.198
+[06:03] Trying server 134.60.4.198:6667
+[06:03] Connected to 134.60.4.198
+[06:03] Disconnected from 134.60.4.198
+[06:04] Trying server 49.204.56.254:6667
+[06:04] Connected to 49.204.56.254
+[06:04] Disconnected from 49.204.56.254
+[06:05] Trying server 134.60.4.198:6667
+[06:05] Connected to 134.60.4.198
+[06:05] Disconnected from 134.60.4.198
+[06:06] Trying server 134.60.4.198:6667
+[06:06] Connected to 134.60.4.198
+[06:06] Disconnected from 134.60.4.198
+[06:07] Trying server 49.204.56.254:6667
+[06:07] Connected to 49.204.56.254
+[06:07] Disconnected from 49.204.56.254
+[06:08] Trying server 134.60.4.198:6667
+[06:08] Connected to 134.60.4.198
+[06:08] Disconnected from 134.60.4.198
+[06:09] Trying server 134.60.4.198:6667
+[06:09] Connected to 134.60.4.198
+[06:09] Disconnected from 134.60.4.198
+[06:10] Trying server 49.204.56.254:6667
+[06:10] Connected to 49.204.56.254
+[06:10] Disconnected from 49.204.56.254
+[06:11] Trying server 134.60.4.198:6667
+[06:11] Connected to 134.60.4.198
+[06:11] Disconnected from 134.60.4.198
+[06:12] Backing up seen data...
+[06:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[06:12] Trying server 134.60.4.198:6667
+[06:12] Connected to 134.60.4.198
+[06:12] Disconnected from 134.60.4.198
+[06:13] Trying server 49.204.56.254:6667
+[06:13] Connected to 49.204.56.254
+[06:13] Disconnected from 49.204.56.254
+[06:14] Trying server 134.60.4.198:6667
+[06:14] Connected to 134.60.4.198
+[06:14] Disconnected from 134.60.4.198
+[06:15] Trying server 134.60.4.198:6667
+[06:15] Connected to 134.60.4.198
+[06:15] Disconnected from 134.60.4.198
+[06:16] Trying server 49.204.56.254:6667
+[06:16] Connected to 49.204.56.254
+[06:16] Disconnected from 49.204.56.254
+[06:17] Trying server 134.60.4.198:6667
+[06:17] Connected to 134.60.4.198
+[06:17] Disconnected from 134.60.4.198
+[06:18] Trying server 134.60.4.198:6667
+[06:18] Connected to 134.60.4.198
+[06:18] Disconnected from 134.60.4.198
+[06:19] Trying server 49.204.56.254:6667
+[06:19] Connected to 49.204.56.254
+[06:19] Disconnected from 49.204.56.254
+[06:20] Trying server 134.60.4.198:6667
+[06:20] Connected to 134.60.4.198
+[06:20] Disconnected from 134.60.4.198
+[06:21] Trying server 134.60.4.198:6667
+[06:21] Connected to 134.60.4.198
+[06:21] Disconnected from 134.60.4.198
+[06:22] Trying server 49.204.56.254:6667
+[06:22] Connected to 49.204.56.254
+[06:22] Disconnected from 49.204.56.254
+[06:23] Trying server 134.60.4.198:6667
+[06:23] Connected to 134.60.4.198
+[06:23] Disconnected from 134.60.4.198
+[06:24] Trying server 134.60.4.198:6667
+[06:24] Connected to 134.60.4.198
+[06:24] Disconnected from 134.60.4.198
+[06:25] Trying server 49.204.56.254:6667
+[06:25] Connected to 49.204.56.254
+[06:25] Disconnected from 49.204.56.254
+[06:26] Trying server 134.60.4.198:6667
+[06:26] Connected to 134.60.4.198
+[06:26] Disconnected from 134.60.4.198
+[06:27] Trying server 134.60.4.198:6667
+[06:27] Connected to 134.60.4.198
+[06:27] Disconnected from 134.60.4.198
+[06:28] Trying server 49.204.56.254:6667
+[06:28] Connected to 49.204.56.254
+[06:28] Disconnected from 49.204.56.254
+[06:29] Trying server 134.60.4.198:6667
+[06:29] Connected to 134.60.4.198
+[06:29] Disconnected from 134.60.4.198
+[06:30] Trying server 134.60.4.198:6667
+[06:30] Connected to 134.60.4.198
+[06:30] Disconnected from 134.60.4.198
+[06:31] Trying server 49.204.56.254:6667
+[06:31] Connected to 49.204.56.254
+[06:31] Disconnected from 49.204.56.254
+[06:32] Trying server 134.60.4.198:6667
+[06:32] Connected to 134.60.4.198
+[06:32] Disconnected from 134.60.4.198
+[06:33] Trying server 134.60.4.198:6667
+[06:33] Connected to 134.60.4.198
+[06:33] Disconnected from 134.60.4.198
+[06:34] Trying server 49.204.56.254:6667
+[06:34] Connected to 49.204.56.254
+[06:34] Disconnected from 49.204.56.254
+[06:35] Trying server 134.60.4.198:6667
+[06:35] Connected to 134.60.4.198
+[06:35] Disconnected from 134.60.4.198
+[06:36] Trying server 134.60.4.198:6667
+[06:36] Connected to 134.60.4.198
+[06:36] Disconnected from 134.60.4.198
+[06:37] Trying server 49.204.56.254:6667
+[06:37] Connected to 49.204.56.254
+[06:37] Disconnected from 49.204.56.254
+[06:38] Trying server 134.60.4.198:6667
+[06:38] Connected to 134.60.4.198
+[06:38] Disconnected from 134.60.4.198
+[06:39] Trying server 134.60.4.198:6667
+[06:39] Connected to 134.60.4.198
+[06:39] Disconnected from 134.60.4.198
+[06:40] Trying server 49.204.56.254:6667
+[06:40] Connected to 49.204.56.254
+[06:40] Disconnected from 49.204.56.254
+[06:41] Trying server 134.60.4.198:6667
+[06:41] Connected to 134.60.4.198
+[06:41] Disconnected from 134.60.4.198
+[06:42] Trying server 134.60.4.198:6667
+[06:42] Connected to 134.60.4.198
+[06:42] Disconnected from 134.60.4.198
+[06:43] Trying server 49.204.56.254:6667
+[06:43] Connected to 49.204.56.254
+[06:43] Disconnected from 49.204.56.254
+[06:44] Trying server 134.60.4.198:6667
+[06:44] Connected to 134.60.4.198
+[06:44] Disconnected from 134.60.4.198
+[06:45] Trying server 134.60.4.198:6667
+[06:45] Connected to 134.60.4.198
+[06:45] Disconnected from 134.60.4.198
+[06:46] Trying server 49.204.56.254:6667
+[06:46] Connected to 49.204.56.254
+[06:46] Disconnected from 49.204.56.254
+[06:47] Trying server 134.60.4.198:6667
+[06:47] Connected to 134.60.4.198
+[06:47] Disconnected from 134.60.4.198
+[06:48] Trying server 134.60.4.198:6667
+[06:48] Connected to 134.60.4.198
+[06:48] Disconnected from 134.60.4.198
+[06:49] Trying server 49.204.56.254:6667
+[06:49] Connected to 49.204.56.254
+[06:49] Disconnected from 49.204.56.254
+[06:50] Trying server 134.60.4.198:6667
+[06:50] Connected to 134.60.4.198
+[06:50] Disconnected from 134.60.4.198
+[06:51] Trying server 134.60.4.198:6667
+[06:51] Connected to 134.60.4.198
+[06:51] Disconnected from 134.60.4.198
+[06:52] Trying server 49.204.56.254:6667
+[06:52] Connected to 49.204.56.254
+[06:52] Disconnected from 49.204.56.254
+[06:53] Trying server 134.60.4.198:6667
+[06:53] Connected to 134.60.4.198
+[06:53] Disconnected from 134.60.4.198
+[06:54] Trying server 134.60.4.198:6667
+[06:54] Connected to 134.60.4.198
+[06:54] Disconnected from 134.60.4.198
+[06:55] Trying server 49.204.56.254:6667
+[06:55] Connected to 49.204.56.254
+[06:55] Disconnected from 49.204.56.254
+[06:56] Trying server 134.60.4.198:6667
+[06:56] Connected to 134.60.4.198
+[06:56] Disconnected from 134.60.4.198
+[06:57] Trying server 134.60.4.198:6667
+[06:57] Connected to 134.60.4.198
+[06:57] Disconnected from 134.60.4.198
+[06:58] Trying server 49.204.56.254:6667
+[06:58] Connected to 49.204.56.254
+[06:58] Disconnected from 49.204.56.254
+[06:59] Trying server 134.60.4.198:6667
+[06:59] Connected to 134.60.4.198
+[06:59] Disconnected from 134.60.4.198
+[07:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[07:00] Writing user file...
+[07:00] Writing info file ...
+[07:00] Writing channel file...
+[07:00] Trying server 134.60.4.198:6667
+[07:00] Connected to 134.60.4.198
+[07:00] Disconnected from 134.60.4.198
+[07:01] Trying server 49.204.56.254:6667
+[07:01] Connected to 49.204.56.254
+[07:01] Disconnected from 49.204.56.254
+[07:02] Trying server 134.60.4.198:6667
+[07:02] Connected to 134.60.4.198
+[07:02] Disconnected from 134.60.4.198
+[07:03] Trying server 134.60.4.198:6667
+[07:03] Connected to 134.60.4.198
+[07:03] Disconnected from 134.60.4.198
+[07:04] Trying server 49.204.56.254:6667
+[07:04] Connected to 49.204.56.254
+[07:04] Disconnected from 49.204.56.254
+[07:05] Trying server 134.60.4.198:6667
+[07:05] Connected to 134.60.4.198
+[07:05] Disconnected from 134.60.4.198
+[07:06] Trying server 134.60.4.198:6667
+[07:06] Connected to 134.60.4.198
+[07:06] Disconnected from 134.60.4.198
+[07:07] Trying server 49.204.56.254:6667
+[07:07] Connected to 49.204.56.254
+[07:07] Disconnected from 49.204.56.254
+[07:08] Trying server 134.60.4.198:6667
+[07:08] Connected to 134.60.4.198
+[07:08] Disconnected from 134.60.4.198
+[07:09] Trying server 134.60.4.198:6667
+[07:09] Connected to 134.60.4.198
+[07:09] Disconnected from 134.60.4.198
+[07:10] Trying server 49.204.56.254:6667
+[07:10] Connected to 49.204.56.254
+[07:10] Disconnected from 49.204.56.254
+[07:11] Trying server 134.60.4.198:6667
+[07:11] Connected to 134.60.4.198
+[07:11] Disconnected from 134.60.4.198
+[07:12] Backing up seen data...
+[07:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[07:12] Trying server 134.60.4.198:6667
+[07:12] Connected to 134.60.4.198
+[07:12] Disconnected from 134.60.4.198
+[07:13] Trying server 49.204.56.254:6667
+[07:13] Connected to 49.204.56.254
+[07:13] Disconnected from 49.204.56.254
+[07:14] Trying server 134.60.4.198:6667
+[07:14] Connected to 134.60.4.198
+[07:14] Disconnected from 134.60.4.198
+[07:15] Trying server 134.60.4.198:6667
+[07:15] Connected to 134.60.4.198
+[07:15] Disconnected from 134.60.4.198
+[07:16] Trying server 49.204.56.254:6667
+[07:16] Connected to 49.204.56.254
+[07:16] Disconnected from 49.204.56.254
+[07:17] Trying server 134.60.4.198:6667
+[07:17] Connected to 134.60.4.198
+[07:17] Disconnected from 134.60.4.198
+[07:18] Trying server 134.60.4.198:6667
+[07:18] Connected to 134.60.4.198
+[07:18] Disconnected from 134.60.4.198
+[07:19] Trying server 49.204.56.254:6667
+[07:19] Connected to 49.204.56.254
+[07:19] Disconnected from 49.204.56.254
+[07:20] Trying server 134.60.4.198:6667
+[07:20] Connected to 134.60.4.198
+[07:20] Disconnected from 134.60.4.198
+[07:21] Trying server 134.60.4.198:6667
+[07:21] Connected to 134.60.4.198
+[07:21] Disconnected from 134.60.4.198
+[07:22] Trying server 49.204.56.254:6667
+[07:22] Connected to 49.204.56.254
+[07:22] Disconnected from 49.204.56.254
+[07:23] Trying server 134.60.4.198:6667
+[07:23] Connected to 134.60.4.198
+[07:23] Disconnected from 134.60.4.198
+[07:24] Trying server 134.60.4.198:6667
+[07:24] Connected to 134.60.4.198
+[07:24] Disconnected from 134.60.4.198
+[07:25] Trying server 49.204.56.254:6667
+[07:25] Connected to 49.204.56.254
+[07:25] Disconnected from 49.204.56.254
+[07:26] Trying server 134.60.4.198:6667
+[07:26] Connected to 134.60.4.198
+[07:26] Disconnected from 134.60.4.198
+[07:27] Trying server 134.60.4.198:6667
+[07:27] Connected to 134.60.4.198
+[07:27] Disconnected from 134.60.4.198
+[07:28] Trying server 49.204.56.254:6667
+[07:28] Connected to 49.204.56.254
+[07:28] Disconnected from 49.204.56.254
+[07:29] Trying server 134.60.4.198:6667
+[07:29] Connected to 134.60.4.198
+[07:29] Disconnected from 134.60.4.198
+[07:30] Trying server 134.60.4.198:6667
+[07:30] Connected to 134.60.4.198
+[07:30] Disconnected from 134.60.4.198
+[07:31] Trying server 49.204.56.254:6667
+[07:31] Connected to 49.204.56.254
+[07:31] Disconnected from 49.204.56.254
+[07:32] Trying server 134.60.4.198:6667
+[07:32] Connected to 134.60.4.198
+[07:32] Disconnected from 134.60.4.198
+[07:33] Trying server 134.60.4.198:6667
+[07:33] Connected to 134.60.4.198
+[07:33] Disconnected from 134.60.4.198
+[07:34] Trying server 49.204.56.254:6667
+[07:34] Connected to 49.204.56.254
+[07:34] Disconnected from 49.204.56.254
+[07:35] Trying server 134.60.4.198:6667
+[07:35] Connected to 134.60.4.198
+[07:35] Disconnected from 134.60.4.198
+[07:36] Trying server 134.60.4.198:6667
+[07:36] Connected to 134.60.4.198
+[07:36] Disconnected from 134.60.4.198
+[07:37] Trying server 49.204.56.254:6667
+[07:37] Connected to 49.204.56.254
+[07:37] Disconnected from 49.204.56.254
+[07:38] Trying server 134.60.4.198:6667
+[07:38] Connected to 134.60.4.198
+[07:38] Disconnected from 134.60.4.198
+[07:39] Trying server 134.60.4.198:6667
+[07:39] Connected to 134.60.4.198
+[07:39] Disconnected from 134.60.4.198
+[07:40] Trying server 49.204.56.254:6667
+[07:40] Connected to 49.204.56.254
+[07:40] Disconnected from 49.204.56.254
+[07:41] Trying server 134.60.4.198:6667
+[07:41] Connected to 134.60.4.198
+[07:41] Disconnected from 134.60.4.198
+[07:42] Trying server 134.60.4.198:6667
+[07:42] Connected to 134.60.4.198
+[07:42] Disconnected from 134.60.4.198
+[07:43] Trying server 49.204.56.254:6667
+[07:43] Connected to 49.204.56.254
+[07:43] Disconnected from 49.204.56.254
+[07:44] Trying server 134.60.4.198:6667
+[07:44] Connected to 134.60.4.198
+[07:44] Disconnected from 134.60.4.198
+[07:45] Trying server 134.60.4.198:6667
+[07:45] Connected to 134.60.4.198
+[07:45] Disconnected from 134.60.4.198
+[07:46] Trying server 49.204.56.254:6667
+[07:46] Connected to 49.204.56.254
+[07:46] Disconnected from 49.204.56.254
+[07:47] Trying server 134.60.4.198:6667
+[07:47] Connected to 134.60.4.198
+[07:47] Disconnected from 134.60.4.198
+[07:48] Trying server 134.60.4.198:6667
+[07:48] Connected to 134.60.4.198
+[07:48] Disconnected from 134.60.4.198
+[07:49] Trying server 49.204.56.254:6667
+[07:49] Connected to 49.204.56.254
+[07:49] Disconnected from 49.204.56.254
+[07:50] Trying server 134.60.4.198:6667
+[07:50] Connected to 134.60.4.198
+[07:50] Disconnected from 134.60.4.198
+[07:51] Trying server 134.60.4.198:6667
+[07:51] Connected to 134.60.4.198
+[07:51] Disconnected from 134.60.4.198
+[07:52] Trying server 49.204.56.254:6667
+[07:52] Connected to 49.204.56.254
+[07:52] Disconnected from 49.204.56.254
+[07:53] Trying server 134.60.4.198:6667
+[07:53] Connected to 134.60.4.198
+[07:53] Disconnected from 134.60.4.198
+[07:54] Trying server 134.60.4.198:6667
+[07:54] Connected to 134.60.4.198
+[07:54] Disconnected from 134.60.4.198
+[07:55] Trying server 49.204.56.254:6667
+[07:55] Connected to 49.204.56.254
+[07:55] Disconnected from 49.204.56.254
+[07:56] Trying server 134.60.4.198:6667
+[07:56] Connected to 134.60.4.198
+[07:56] Disconnected from 134.60.4.198
+[07:57] Trying server 134.60.4.198:6667
+[07:57] Connected to 134.60.4.198
+[07:57] Disconnected from 134.60.4.198
+[07:58] Trying server 49.204.56.254:6667
+[07:58] Connected to 49.204.56.254
+[07:58] Disconnected from 49.204.56.254
+[07:59] Trying server 134.60.4.198:6667
+[07:59] Connected to 134.60.4.198
+[07:59] Disconnected from 134.60.4.198
+[08:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[08:00] Writing user file...
+[08:00] Writing info file ...
+[08:00] Writing channel file...
+[08:00] Trying server 134.60.4.198:6667
+[08:00] Connected to 134.60.4.198
+[08:00] Disconnected from 134.60.4.198
+[08:01] Trying server 49.204.56.254:6667
+[08:01] Connected to 49.204.56.254
+[08:01] Disconnected from 49.204.56.254
+[08:02] Trying server 134.60.4.198:6667
+[08:02] Connected to 134.60.4.198
+[08:02] Disconnected from 134.60.4.198
+[08:03] Trying server 134.60.4.198:6667
+[08:03] Connected to 134.60.4.198
+[08:03] Disconnected from 134.60.4.198
+[08:04] Trying server 49.204.56.254:6667
+[08:04] Connected to 49.204.56.254
+[08:04] Disconnected from 49.204.56.254
+[08:05] Trying server 134.60.4.198:6667
+[08:05] Connected to 134.60.4.198
+[08:05] Disconnected from 134.60.4.198
+[08:06] Trying server 134.60.4.198:6667
+[08:06] Connected to 134.60.4.198
+[08:06] Disconnected from 134.60.4.198
+[08:07] Trying server 49.204.56.254:6667
+[08:07] Connected to 49.204.56.254
+[08:07] Disconnected from 49.204.56.254
+[08:08] Trying server 134.60.4.198:6667
+[08:08] Connected to 134.60.4.198
+[08:08] Disconnected from 134.60.4.198
+[08:09] Trying server 134.60.4.198:6667
+[08:09] Connected to 134.60.4.198
+[08:09] Disconnected from 134.60.4.198
+[08:10] Trying server 49.204.56.254:6667
+[08:10] Connected to 49.204.56.254
+[08:10] Disconnected from 49.204.56.254
+[08:11] Trying server 134.60.4.198:6667
+[08:11] Connected to 134.60.4.198
+[08:11] Disconnected from 134.60.4.198
+[08:12] Backing up seen data...
+[08:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[08:12] Trying server 134.60.4.198:6667
+[08:12] Connected to 134.60.4.198
+[08:12] Disconnected from 134.60.4.198
+[08:13] Trying server 49.204.56.254:6667
+[08:13] Connected to 49.204.56.254
+[08:13] Disconnected from 49.204.56.254
+[08:14] Trying server 134.60.4.198:6667
+[08:14] Connected to 134.60.4.198
+[08:14] Disconnected from 134.60.4.198
+[08:15] Trying server 134.60.4.198:6667
+[08:15] Connected to 134.60.4.198
+[08:15] Disconnected from 134.60.4.198
+[08:16] Trying server 49.204.56.254:6667
+[08:16] Connected to 49.204.56.254
+[08:16] Disconnected from 49.204.56.254
+[08:17] Trying server 134.60.4.198:6667
+[08:17] Connected to 134.60.4.198
+[08:17] Disconnected from 134.60.4.198
+[08:18] Trying server 134.60.4.198:6667
+[08:18] Connected to 134.60.4.198
+[08:18] Disconnected from 134.60.4.198
+[08:19] Trying server 49.204.56.254:6667
+[08:19] Connected to 49.204.56.254
+[08:19] Disconnected from 49.204.56.254
+[08:20] Trying server 134.60.4.198:6667
+[08:20] Connected to 134.60.4.198
+[08:20] Disconnected from 134.60.4.198
+[08:21] Trying server 134.60.4.198:6667
+[08:21] Connected to 134.60.4.198
+[08:21] Disconnected from 134.60.4.198
+[08:22] Trying server 49.204.56.254:6667
+[08:22] Connected to 49.204.56.254
+[08:22] Disconnected from 49.204.56.254
+[08:23] Trying server 134.60.4.198:6667
+[08:23] Connected to 134.60.4.198
+[08:23] Disconnected from 134.60.4.198
+[08:24] Trying server 134.60.4.198:6667
+[08:24] Connected to 134.60.4.198
+[08:24] Disconnected from 134.60.4.198
+[08:25] Trying server 49.204.56.254:6667
+[08:25] Connected to 49.204.56.254
+[08:25] Disconnected from 49.204.56.254
+[08:26] Trying server 134.60.4.198:6667
+[08:26] Connected to 134.60.4.198
+[08:26] Disconnected from 134.60.4.198
+[08:27] Trying server 134.60.4.198:6667
+[08:27] Connected to 134.60.4.198
+[08:27] Disconnected from 134.60.4.198
+[08:28] Trying server 49.204.56.254:6667
+[08:28] Connected to 49.204.56.254
+[08:28] Disconnected from 49.204.56.254
+[08:29] Trying server 134.60.4.198:6667
+[08:29] Connected to 134.60.4.198
+[08:29] Disconnected from 134.60.4.198
+[08:30] Trying server 134.60.4.198:6667
+[08:30] Connected to 134.60.4.198
+[08:30] Disconnected from 134.60.4.198
+[08:31] Trying server 49.204.56.254:6667
+[08:31] Connected to 49.204.56.254
+[08:31] Disconnected from 49.204.56.254
+[08:32] Trying server 134.60.4.198:6667
+[08:32] Connected to 134.60.4.198
+[08:32] Disconnected from 134.60.4.198
+[08:33] Trying server 134.60.4.198:6667
+[08:33] Connected to 134.60.4.198
+[08:33] Disconnected from 134.60.4.198
+[08:34] Trying server 49.204.56.254:6667
+[08:34] Connected to 49.204.56.254
+[08:34] Disconnected from 49.204.56.254
+[08:35] Trying server 134.60.4.198:6667
+[08:35] Connected to 134.60.4.198
+[08:35] Disconnected from 134.60.4.198
+[08:36] Trying server 134.60.4.198:6667
+[08:36] Connected to 134.60.4.198
+[08:36] Disconnected from 134.60.4.198
+[08:37] Trying server 49.204.56.254:6667
+[08:37] Connected to 49.204.56.254
+[08:37] Disconnected from 49.204.56.254
+[08:38] Trying server 134.60.4.198:6667
+[08:38] Connected to 134.60.4.198
+[08:38] Disconnected from 134.60.4.198
+[08:39] Trying server 134.60.4.198:6667
+[08:39] Connected to 134.60.4.198
+[08:39] Disconnected from 134.60.4.198
+[08:40] Trying server 49.204.56.254:6667
+[08:40] Connected to 49.204.56.254
+[08:40] Disconnected from 49.204.56.254
+[08:41] Trying server 134.60.4.198:6667
+[08:41] Connected to 134.60.4.198
+[08:41] Disconnected from 134.60.4.198
+[08:42] Trying server 134.60.4.198:6667
+[08:42] Connected to 134.60.4.198
+[08:42] Disconnected from 134.60.4.198
+[08:43] Trying server 49.204.56.254:6667
+[08:43] Connected to 49.204.56.254
+[08:43] Disconnected from 49.204.56.254
+[08:44] Trying server 134.60.4.198:6667
+[08:44] Connected to 134.60.4.198
+[08:44] Disconnected from 134.60.4.198
+[08:45] Trying server 134.60.4.198:6667
+[08:45] Connected to 134.60.4.198
+[08:45] Disconnected from 134.60.4.198
+[08:46] Trying server 49.204.56.254:6667
+[08:46] Connected to 49.204.56.254
+[08:46] Disconnected from 49.204.56.254
+[08:47] Trying server 134.60.4.198:6667
+[08:47] Connected to 134.60.4.198
+[08:47] Disconnected from 134.60.4.198
+[08:48] Trying server 134.60.4.198:6667
+[08:48] Connected to 134.60.4.198
+[08:48] Disconnected from 134.60.4.198
+[08:49] Trying server 49.204.56.254:6667
+[08:49] Connected to 49.204.56.254
+[08:49] Disconnected from 49.204.56.254
+[08:50] Trying server 134.60.4.198:6667
+[08:50] Connected to 134.60.4.198
+[08:50] Disconnected from 134.60.4.198
+[08:51] Trying server 134.60.4.198:6667
+[08:51] Connected to 134.60.4.198
+[08:51] Disconnected from 134.60.4.198
+[08:52] Trying server 49.204.56.254:6667
+[08:52] Connected to 49.204.56.254
+[08:52] Disconnected from 49.204.56.254
+[08:53] Trying server 134.60.4.198:6667
+[08:53] Connected to 134.60.4.198
+[08:53] Disconnected from 134.60.4.198
+[08:54] Trying server 134.60.4.198:6667
+[08:54] Connected to 134.60.4.198
+[08:54] Disconnected from 134.60.4.198
+[08:55] Trying server 49.204.56.254:6667
+[08:55] Connected to 49.204.56.254
+[08:55] Disconnected from 49.204.56.254
+[08:56] Trying server 134.60.4.198:6667
+[08:56] Connected to 134.60.4.198
+[08:56] Disconnected from 134.60.4.198
+[08:57] Trying server 134.60.4.198:6667
+[08:57] Connected to 134.60.4.198
+[08:57] Disconnected from 134.60.4.198
+[08:58] Trying server 49.204.56.254:6667
+[08:58] Connected to 49.204.56.254
+[08:58] Disconnected from 49.204.56.254
+[08:59] Trying server 134.60.4.198:6667
+[08:59] Connected to 134.60.4.198
+[08:59] Disconnected from 134.60.4.198
+[09:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[09:00] Writing user file...
+[09:00] Writing info file ...
+[09:00] Writing channel file...
+[09:00] Trying server 134.60.4.198:6667
+[09:00] Connected to 134.60.4.198
+[09:00] Disconnected from 134.60.4.198
+[09:01] Trying server 49.204.56.254:6667
+[09:01] Connected to 49.204.56.254
+[09:01] Disconnected from 49.204.56.254
+[09:02] Trying server 134.60.4.198:6667
+[09:02] Connected to 134.60.4.198
+[09:02] Disconnected from 134.60.4.198
+[09:03] Trying server 134.60.4.198:6667
+[09:03] Connected to 134.60.4.198
+[09:03] Disconnected from 134.60.4.198
+[09:04] Trying server 49.204.56.254:6667
+[09:04] Connected to 49.204.56.254
+[09:04] Disconnected from 49.204.56.254
+[09:05] Trying server 134.60.4.198:6667
+[09:05] Connected to 134.60.4.198
+[09:05] Disconnected from 134.60.4.198
+[09:06] Trying server 134.60.4.198:6667
+[09:06] Connected to 134.60.4.198
+[09:06] Disconnected from 134.60.4.198
+[09:07] Trying server 49.204.56.254:6667
+[09:07] Connected to 49.204.56.254
+[09:07] Disconnected from 49.204.56.254
+[09:08] Trying server 134.60.4.198:6667
+[09:08] Connected to 134.60.4.198
+[09:08] Disconnected from 134.60.4.198
+[09:09] Trying server 134.60.4.198:6667
+[09:09] Connected to 134.60.4.198
+[09:09] Disconnected from 134.60.4.198
+[09:10] Trying server 49.204.56.254:6667
+[09:10] Connected to 49.204.56.254
+[09:10] Disconnected from 49.204.56.254
+[09:11] Trying server 134.60.4.198:6667
+[09:11] Connected to 134.60.4.198
+[09:11] Disconnected from 134.60.4.198
+[09:12] Backing up seen data...
+[09:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[09:12] Trying server 134.60.4.198:6667
+[09:12] Connected to 134.60.4.198
+[09:12] Disconnected from 134.60.4.198
+[09:13] Trying server 49.204.56.254:6667
+[09:13] Connected to 49.204.56.254
+[09:13] Disconnected from 49.204.56.254
+[09:14] Trying server 134.60.4.198:6667
+[09:14] Connected to 134.60.4.198
+[09:14] Disconnected from 134.60.4.198
+[09:15] Trying server 134.60.4.198:6667
+[09:15] Connected to 134.60.4.198
+[09:15] Disconnected from 134.60.4.198
+[09:16] Trying server 49.204.56.254:6667
+[09:16] Connected to 49.204.56.254
+[09:16] Disconnected from 49.204.56.254
+[09:17] Trying server 134.60.4.198:6667
+[09:17] Connected to 134.60.4.198
+[09:17] Disconnected from 134.60.4.198
+[09:18] Trying server 134.60.4.198:6667
+[09:18] Connected to 134.60.4.198
+[09:18] Disconnected from 134.60.4.198
+[09:19] Trying server 49.204.56.254:6667
+[09:19] Connected to 49.204.56.254
+[09:19] Disconnected from 49.204.56.254
+[09:20] Trying server 134.60.4.198:6667
+[09:20] Connected to 134.60.4.198
+[09:20] Disconnected from 134.60.4.198
+[09:21] Trying server 134.60.4.198:6667
+[09:21] Connected to 134.60.4.198
+[09:21] Disconnected from 134.60.4.198
+[09:22] Trying server 49.204.56.254:6667
+[09:22] Connected to 49.204.56.254
+[09:22] Disconnected from 49.204.56.254
+[09:23] Trying server 134.60.4.198:6667
+[09:23] Connected to 134.60.4.198
+[09:23] Disconnected from 134.60.4.198
+[09:24] Trying server 134.60.4.198:6667
+[09:24] Connected to 134.60.4.198
+[09:24] Disconnected from 134.60.4.198
+[09:25] Trying server 49.204.56.254:6667
+[09:25] Connected to 49.204.56.254
+[09:25] Disconnected from 49.204.56.254
+[09:26] Trying server 134.60.4.198:6667
+[09:26] Connected to 134.60.4.198
+[09:26] Disconnected from 134.60.4.198
+[09:27] Trying server 134.60.4.198:6667
+[09:27] Connected to 134.60.4.198
+[09:27] Disconnected from 134.60.4.198
+[09:28] Trying server 49.204.56.254:6667
+[09:28] Connected to 49.204.56.254
+[09:28] Disconnected from 49.204.56.254
+[09:29] Trying server 134.60.4.198:6667
+[09:29] Connected to 134.60.4.198
+[09:29] Disconnected from 134.60.4.198
+[09:30] Trying server 134.60.4.198:6667
+[09:30] Connected to 134.60.4.198
+[09:30] Disconnected from 134.60.4.198
+[09:31] Trying server 49.204.56.254:6667
+[09:31] Connected to 49.204.56.254
+[09:31] Disconnected from 49.204.56.254
+[09:32] Trying server 134.60.4.198:6667
+[09:32] Connected to 134.60.4.198
+[09:32] Disconnected from 134.60.4.198
+[09:33] Trying server 134.60.4.198:6667
+[09:33] Connected to 134.60.4.198
+[09:33] Disconnected from 134.60.4.198
+[09:34] Trying server 49.204.56.254:6667
+[09:34] Connected to 49.204.56.254
+[09:34] Disconnected from 49.204.56.254
+[09:35] Trying server 134.60.4.198:6667
+[09:35] Connected to 134.60.4.198
+[09:35] Disconnected from 134.60.4.198
+[09:36] Trying server 134.60.4.198:6667
+[09:36] Connected to 134.60.4.198
+[09:36] Disconnected from 134.60.4.198
+[09:37] Trying server 49.204.56.254:6667
+[09:37] Connected to 49.204.56.254
+[09:37] Disconnected from 49.204.56.254
+[09:38] Trying server 134.60.4.198:6667
+[09:38] Connected to 134.60.4.198
+[09:38] Disconnected from 134.60.4.198
+[09:39] Trying server 134.60.4.198:6667
+[09:39] Connected to 134.60.4.198
+[09:39] Disconnected from 134.60.4.198
+[09:40] Trying server 49.204.56.254:6667
+[09:40] Connected to 49.204.56.254
+[09:40] Disconnected from 49.204.56.254
+[09:41] Trying server 134.60.4.198:6667
+[09:41] Connected to 134.60.4.198
+[09:41] Disconnected from 134.60.4.198
+[09:42] Trying server 134.60.4.198:6667
+[09:42] Connected to 134.60.4.198
+[09:42] Disconnected from 134.60.4.198
+[09:43] Trying server 49.204.56.254:6667
+[09:43] Connected to 49.204.56.254
+[09:43] Disconnected from 49.204.56.254
+[09:44] Trying server 134.60.4.198:6667
+[09:44] Connected to 134.60.4.198
+[09:44] Disconnected from 134.60.4.198
+[09:45] Trying server 134.60.4.198:6667
+[09:45] Connected to 134.60.4.198
+[09:45] Disconnected from 134.60.4.198
+[09:46] Trying server 49.204.56.254:6667
+[09:46] Connected to 49.204.56.254
+[09:46] Disconnected from 49.204.56.254
+[09:47] Trying server 134.60.4.198:6667
+[09:47] Connected to 134.60.4.198
+[09:47] Disconnected from 134.60.4.198
+[09:48] Trying server 134.60.4.198:6667
+[09:48] Connected to 134.60.4.198
+[09:48] Disconnected from 134.60.4.198
+[09:49] Trying server 49.204.56.254:6667
+[09:49] Connected to 49.204.56.254
+[09:49] Disconnected from 49.204.56.254
+[09:50] Trying server 134.60.4.198:6667
+[09:50] Connected to 134.60.4.198
+[09:50] Disconnected from 134.60.4.198
+[09:51] Trying server 134.60.4.198:6667
+[09:51] Connected to 134.60.4.198
+[09:51] Disconnected from 134.60.4.198
+[09:52] Trying server 49.204.56.254:6667
+[09:52] Connected to 49.204.56.254
+[09:52] Disconnected from 49.204.56.254
+[09:53] Trying server 134.60.4.198:6667
+[09:53] Connected to 134.60.4.198
+[09:53] Disconnected from 134.60.4.198
+[09:54] Trying server 134.60.4.198:6667
+[09:54] Connected to 134.60.4.198
+[09:54] Disconnected from 134.60.4.198
+[09:55] Trying server 49.204.56.254:6667
+[09:55] Connected to 49.204.56.254
+[09:55] Disconnected from 49.204.56.254
+[09:56] Trying server 134.60.4.198:6667
+[09:56] Connected to 134.60.4.198
+[09:56] Disconnected from 134.60.4.198
+[09:57] Trying server 134.60.4.198:6667
+[09:57] Connected to 134.60.4.198
+[09:57] Disconnected from 134.60.4.198
+[09:58] Trying server 49.204.56.254:6667
+[09:58] Connected to 49.204.56.254
+[09:58] Disconnected from 49.204.56.254
+[09:59] Trying server 134.60.4.198:6667
+[09:59] Connected to 134.60.4.198
+[09:59] Disconnected from 134.60.4.198
+[10:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[10:00] Writing user file...
+[10:00] Writing info file ...
+[10:00] Writing channel file...
+[10:00] Trying server 134.60.4.198:6667
+[10:00] Connected to 134.60.4.198
+[10:00] Disconnected from 134.60.4.198
+[10:01] Trying server 49.204.56.254:6667
+[10:01] Connected to 49.204.56.254
+[10:01] Disconnected from 49.204.56.254
+[10:02] Trying server 134.60.4.198:6667
+[10:02] Connected to 134.60.4.198
+[10:02] Disconnected from 134.60.4.198
+[10:03] Trying server 134.60.4.198:6667
+[10:03] Connected to 134.60.4.198
+[10:03] Disconnected from 134.60.4.198
+[10:04] Trying server 49.204.56.254:6667
+[10:04] Connected to 49.204.56.254
+[10:04] Disconnected from 49.204.56.254
+[10:05] Trying server 134.60.4.198:6667
+[10:05] Connected to 134.60.4.198
+[10:05] Disconnected from 134.60.4.198
+[10:06] Trying server 134.60.4.198:6667
+[10:06] Connected to 134.60.4.198
+[10:06] Disconnected from 134.60.4.198
+[10:07] Trying server 49.204.56.254:6667
+[10:07] Connected to 49.204.56.254
+[10:07] Disconnected from 49.204.56.254
+[10:08] Trying server 134.60.4.198:6667
+[10:08] Connected to 134.60.4.198
+[10:08] Disconnected from 134.60.4.198
+[10:09] Trying server 134.60.4.198:6667
+[10:09] Connected to 134.60.4.198
+[10:09] Disconnected from 134.60.4.198
+[10:10] Trying server 49.204.56.254:6667
+[10:10] Connected to 49.204.56.254
+[10:10] Disconnected from 49.204.56.254
+[10:11] Trying server 134.60.4.198:6667
+[10:11] Connected to 134.60.4.198
+[10:11] Disconnected from 134.60.4.198
+[10:12] Backing up seen data...
+[10:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[10:12] Trying server 134.60.4.198:6667
+[10:12] Connected to 134.60.4.198
+[10:12] Disconnected from 134.60.4.198
+[10:13] Trying server 49.204.56.254:6667
+[10:13] Connected to 49.204.56.254
+[10:13] Disconnected from 49.204.56.254
+[10:14] Trying server 134.60.4.198:6667
+[10:14] Connected to 134.60.4.198
+[10:14] Disconnected from 134.60.4.198
+[10:15] Trying server 134.60.4.198:6667
+[10:15] Connected to 134.60.4.198
+[10:15] Disconnected from 134.60.4.198
+[10:16] Trying server 49.204.56.254:6667
+[10:16] Connected to 49.204.56.254
+[10:16] Disconnected from 49.204.56.254
+[10:17] Trying server 134.60.4.198:6667
+[10:17] Connected to 134.60.4.198
+[10:17] Disconnected from 134.60.4.198
+[10:18] Trying server 134.60.4.198:6667
+[10:18] Connected to 134.60.4.198
+[10:18] Disconnected from 134.60.4.198
+[10:19] Trying server 49.204.56.254:6667
+[10:19] Connected to 49.204.56.254
+[10:19] Disconnected from 49.204.56.254
+[10:20] Trying server 134.60.4.198:6667
+[10:20] Connected to 134.60.4.198
+[10:20] Disconnected from 134.60.4.198
+[10:21] Trying server 134.60.4.198:6667
+[10:21] Connected to 134.60.4.198
+[10:21] Disconnected from 134.60.4.198
+[10:22] Trying server 49.204.56.254:6667
+[10:22] Connected to 49.204.56.254
+[10:22] Disconnected from 49.204.56.254
+[10:23] Trying server 134.60.4.198:6667
+[10:23] Connected to 134.60.4.198
+[10:23] Disconnected from 134.60.4.198
+[10:24] Trying server 134.60.4.198:6667
+[10:24] Connected to 134.60.4.198
+[10:24] Disconnected from 134.60.4.198
+[10:25] Trying server 49.204.56.254:6667
+[10:25] Connected to 49.204.56.254
+[10:25] Disconnected from 49.204.56.254
+[10:26] Trying server 134.60.4.198:6667
+[10:26] Connected to 134.60.4.198
+[10:26] Disconnected from 134.60.4.198
+[10:27] Trying server 134.60.4.198:6667
+[10:27] Connected to 134.60.4.198
+[10:27] Disconnected from 134.60.4.198
+[10:28] Trying server 49.204.56.254:6667
+[10:28] Connected to 49.204.56.254
+[10:28] Disconnected from 49.204.56.254
+[10:29] Trying server 134.60.4.198:6667
+[10:29] Connected to 134.60.4.198
+[10:29] Disconnected from 134.60.4.198
+[10:30] Trying server 134.60.4.198:6667
+[10:30] Connected to 134.60.4.198
+[10:30] Disconnected from 134.60.4.198
+[10:31] Trying server 49.204.56.254:6667
+[10:31] Connected to 49.204.56.254
+[10:31] Disconnected from 49.204.56.254
+[10:32] Trying server 134.60.4.198:6667
+[10:32] Connected to 134.60.4.198
+[10:32] Disconnected from 134.60.4.198
+[10:33] Trying server 134.60.4.198:6667
+[10:33] Connected to 134.60.4.198
+[10:33] Disconnected from 134.60.4.198
+[10:34] Trying server 49.204.56.254:6667
+[10:34] Connected to 49.204.56.254
+[10:34] Disconnected from 49.204.56.254
+[10:35] Trying server 134.60.4.198:6667
+[10:35] Connected to 134.60.4.198
+[10:35] Disconnected from 134.60.4.198
+[10:36] Trying server 134.60.4.198:6667
+[10:36] Connected to 134.60.4.198
+[10:36] Disconnected from 134.60.4.198
+[10:37] Trying server 49.204.56.254:6667
+[10:37] Connected to 49.204.56.254
+[10:37] Disconnected from 49.204.56.254
+[10:38] Trying server 134.60.4.198:6667
+[10:38] Connected to 134.60.4.198
+[10:38] Disconnected from 134.60.4.198
+[10:39] Trying server 134.60.4.198:6667
+[10:39] Connected to 134.60.4.198
+[10:39] Disconnected from 134.60.4.198
+[10:40] Trying server 49.204.56.254:6667
+[10:40] Connected to 49.204.56.254
+[10:40] Disconnected from 49.204.56.254
+[10:41] Trying server 134.60.4.198:6667
+[10:41] Connected to 134.60.4.198
+[10:41] Disconnected from 134.60.4.198
+[10:42] Trying server 134.60.4.198:6667
+[10:42] Connected to 134.60.4.198
+[10:42] Disconnected from 134.60.4.198
+[10:43] Trying server 49.204.56.254:6667
+[10:43] Connected to 49.204.56.254
+[10:43] Disconnected from 49.204.56.254
+[10:44] Trying server 134.60.4.198:6667
+[10:44] Connected to 134.60.4.198
+[10:44] Disconnected from 134.60.4.198
+[10:45] Trying server 134.60.4.198:6667
+[10:45] Connected to 134.60.4.198
+[10:45] Disconnected from 134.60.4.198
+[10:46] Trying server 49.204.56.254:6667
+[10:46] Connected to 49.204.56.254
+[10:46] Disconnected from 49.204.56.254
+[10:47] Trying server 134.60.4.198:6667
+[10:47] Connected to 134.60.4.198
+[10:47] Disconnected from 134.60.4.198
+[10:48] Trying server 134.60.4.198:6667
+[10:48] Connected to 134.60.4.198
+[10:48] Disconnected from 134.60.4.198
+[10:49] Trying server 49.204.56.254:6667
+[10:49] Connected to 49.204.56.254
+[10:49] Disconnected from 49.204.56.254
+[10:50] Trying server 134.60.4.198:6667
+[10:50] Connected to 134.60.4.198
+[10:50] Disconnected from 134.60.4.198
+[10:51] Trying server 134.60.4.198:6667
+[10:51] Connected to 134.60.4.198
+[10:51] Disconnected from 134.60.4.198
+[10:52] Trying server 49.204.56.254:6667
+[10:52] Connected to 49.204.56.254
+[10:52] Disconnected from 49.204.56.254
+[10:53] Trying server 134.60.4.198:6667
+[10:53] Connected to 134.60.4.198
+[10:53] Disconnected from 134.60.4.198
+[10:54] Trying server 134.60.4.198:6667
+[10:54] Connected to 134.60.4.198
+[10:54] Disconnected from 134.60.4.198
+[10:55] Trying server 49.204.56.254:6667
+[10:55] Connected to 49.204.56.254
+[10:55] Disconnected from 49.204.56.254
+[10:56] Trying server 134.60.4.198:6667
+[10:56] Connected to 134.60.4.198
+[10:56] Disconnected from 134.60.4.198
+[10:57] Trying server 134.60.4.198:6667
+[10:57] Connected to 134.60.4.198
+[10:57] Disconnected from 134.60.4.198
+[10:58] Trying server 49.204.56.254:6667
+[10:58] Connected to 49.204.56.254
+[10:58] Disconnected from 49.204.56.254
+[10:59] Trying server 134.60.4.198:6667
+[10:59] Connected to 134.60.4.198
+[10:59] Disconnected from 134.60.4.198
+[11:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[11:00] Writing user file...
+[11:00] Writing info file ...
+[11:00] Writing channel file...
+[11:00] Trying server 134.60.4.198:6667
+[11:00] Connected to 134.60.4.198
+[11:00] Disconnected from 134.60.4.198
+[11:01] Trying server 49.204.56.254:6667
+[11:01] Connected to 49.204.56.254
+[11:01] Disconnected from 49.204.56.254
+[11:02] Trying server 134.60.4.198:6667
+[11:02] Connected to 134.60.4.198
+[11:02] Disconnected from 134.60.4.198
+[11:03] Trying server 134.60.4.198:6667
+[11:03] Connected to 134.60.4.198
+[11:03] Disconnected from 134.60.4.198
+[11:04] Trying server 49.204.56.254:6667
+[11:04] Connected to 49.204.56.254
+[11:04] Disconnected from 49.204.56.254
+[11:05] Trying server 134.60.4.198:6667
+[11:05] Connected to 134.60.4.198
+[11:05] Disconnected from 134.60.4.198
+[11:06] Trying server 134.60.4.198:6667
+[11:06] Connected to 134.60.4.198
+[11:06] Disconnected from 134.60.4.198
+[11:07] Trying server 49.204.56.254:6667
+[11:07] Connected to 49.204.56.254
+[11:07] Disconnected from 49.204.56.254
+[11:08] Trying server 134.60.4.198:6667
+[11:08] Connected to 134.60.4.198
+[11:08] Disconnected from 134.60.4.198
+[11:09] Trying server 134.60.4.198:6667
+[11:09] Connected to 134.60.4.198
+[11:09] Disconnected from 134.60.4.198
+[11:10] Trying server 49.204.56.254:6667
+[11:10] Connected to 49.204.56.254
+[11:10] Disconnected from 49.204.56.254
+[11:11] Trying server 134.60.4.198:6667
+[11:11] Connected to 134.60.4.198
+[11:11] Disconnected from 134.60.4.198
+[11:12] Backing up seen data...
+[11:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[11:12] Trying server 134.60.4.198:6667
+[11:12] Connected to 134.60.4.198
+[11:12] Disconnected from 134.60.4.198
+[11:13] Trying server 49.204.56.254:6667
+[11:13] Connected to 49.204.56.254
+[11:13] Disconnected from 49.204.56.254
+[11:14] Trying server 134.60.4.198:6667
+[11:14] Connected to 134.60.4.198
+[11:14] Disconnected from 134.60.4.198
+[11:15] Trying server 134.60.4.198:6667
+[11:15] Connected to 134.60.4.198
+[11:15] Disconnected from 134.60.4.198
+[11:16] Trying server 49.204.56.254:6667
+[11:16] Connected to 49.204.56.254
+[11:16] Disconnected from 49.204.56.254
+[11:17] Trying server 134.60.4.198:6667
+[11:17] Connected to 134.60.4.198
+[11:17] Disconnected from 134.60.4.198
+[11:18] Trying server 134.60.4.198:6667
+[11:18] Connected to 134.60.4.198
+[11:18] Disconnected from 134.60.4.198
+[11:19] Trying server 49.204.56.254:6667
+[11:19] Connected to 49.204.56.254
+[11:19] Disconnected from 49.204.56.254
+[11:20] Trying server 134.60.4.198:6667
+[11:20] Connected to 134.60.4.198
+[11:20] Disconnected from 134.60.4.198
+[11:21] Trying server 134.60.4.198:6667
+[11:21] Connected to 134.60.4.198
+[11:21] Disconnected from 134.60.4.198
+[11:22] Trying server 49.204.56.254:6667
+[11:22] Connected to 49.204.56.254
+[11:22] Disconnected from 49.204.56.254
+[11:23] Trying server 134.60.4.198:6667
+[11:23] Connected to 134.60.4.198
+[11:23] Disconnected from 134.60.4.198
+[11:24] Trying server 134.60.4.198:6667
+[11:24] Connected to 134.60.4.198
+[11:24] Disconnected from 134.60.4.198
+[11:25] Trying server 49.204.56.254:6667
+[11:25] Connected to 49.204.56.254
+[11:25] Disconnected from 49.204.56.254
+[11:26] Trying server 134.60.4.198:6667
+[11:26] Connected to 134.60.4.198
+[11:26] Disconnected from 134.60.4.198
+[11:27] Trying server 134.60.4.198:6667
+[11:27] Connected to 134.60.4.198
+[11:27] Disconnected from 134.60.4.198
+[11:28] Trying server 49.204.56.254:6667
+[11:28] Connected to 49.204.56.254
+[11:28] Disconnected from 49.204.56.254
+[11:29] Trying server 134.60.4.198:6667
+[11:29] Connected to 134.60.4.198
+[11:29] Disconnected from 134.60.4.198
+[11:30] Trying server 134.60.4.198:6667
+[11:30] Connected to 134.60.4.198
+[11:30] Disconnected from 134.60.4.198
+[11:31] Trying server 49.204.56.254:6667
+[11:31] Connected to 49.204.56.254
+[11:31] Disconnected from 49.204.56.254
+[11:32] Trying server 134.60.4.198:6667
+[11:32] Connected to 134.60.4.198
+[11:32] Disconnected from 134.60.4.198
+[11:33] Trying server 134.60.4.198:6667
+[11:33] Connected to 134.60.4.198
+[11:33] Disconnected from 134.60.4.198
+[11:34] Trying server 49.204.56.254:6667
+[11:34] Connected to 49.204.56.254
+[11:34] Disconnected from 49.204.56.254
+[11:35] Trying server 134.60.4.198:6667
+[11:35] Connected to 134.60.4.198
+[11:35] Disconnected from 134.60.4.198
+[11:36] Trying server 134.60.4.198:6667
+[11:36] Connected to 134.60.4.198
+[11:36] Disconnected from 134.60.4.198
+[11:37] Trying server 49.204.56.254:6667
+[11:37] Connected to 49.204.56.254
+[11:37] Disconnected from 49.204.56.254
+[11:38] Trying server 134.60.4.198:6667
+[11:38] Connected to 134.60.4.198
+[11:38] Disconnected from 134.60.4.198
+[11:39] Trying server 134.60.4.198:6667
+[11:39] Connected to 134.60.4.198
+[11:39] Disconnected from 134.60.4.198
+[11:40] Trying server 49.204.56.254:6667
+[11:40] Connected to 49.204.56.254
+[11:40] Disconnected from 49.204.56.254
+[11:41] Trying server 134.60.4.198:6667
+[11:41] Connected to 134.60.4.198
+[11:41] Disconnected from 134.60.4.198
+[11:42] Trying server 134.60.4.198:6667
+[11:42] Connected to 134.60.4.198
+[11:42] Disconnected from 134.60.4.198
+[11:43] Trying server 49.204.56.254:6667
+[11:43] Connected to 49.204.56.254
+[11:43] Disconnected from 49.204.56.254
+[11:44] Trying server 134.60.4.198:6667
+[11:44] Connected to 134.60.4.198
+[11:44] Disconnected from 134.60.4.198
+[11:45] Trying server 134.60.4.198:6667
+[11:45] Connected to 134.60.4.198
+[11:45] Disconnected from 134.60.4.198
+[11:46] Trying server 49.204.56.254:6667
+[11:46] Connected to 49.204.56.254
+[11:46] Disconnected from 49.204.56.254
+[11:47] Trying server 134.60.4.198:6667
+[11:47] Connected to 134.60.4.198
+[11:47] Disconnected from 134.60.4.198
+[11:48] Trying server 134.60.4.198:6667
+[11:48] Connected to 134.60.4.198
+[11:48] Disconnected from 134.60.4.198
+[11:49] Trying server 49.204.56.254:6667
+[11:49] Connected to 49.204.56.254
+[11:49] Disconnected from 49.204.56.254
+[11:50] Trying server 134.60.4.198:6667
+[11:50] Connected to 134.60.4.198
+[11:50] Disconnected from 134.60.4.198
+[11:51] Trying server 134.60.4.198:6667
+[11:51] Connected to 134.60.4.198
+[11:51] Disconnected from 134.60.4.198
+[11:52] Trying server 49.204.56.254:6667
+[11:52] Connected to 49.204.56.254
+[11:52] Disconnected from 49.204.56.254
+[11:53] Trying server 134.60.4.198:6667
+[11:53] Connected to 134.60.4.198
+[11:53] Disconnected from 134.60.4.198
+[11:54] Trying server 134.60.4.198:6667
+[11:54] Connected to 134.60.4.198
+[11:54] Disconnected from 134.60.4.198
+[11:55] Trying server 49.204.56.254:6667
+[11:55] Connected to 49.204.56.254
+[11:55] Disconnected from 49.204.56.254
+[11:56] Trying server 134.60.4.198:6667
+[11:56] Connected to 134.60.4.198
+[11:56] Disconnected from 134.60.4.198
+[11:57] Trying server 134.60.4.198:6667
+[11:57] Connected to 134.60.4.198
+[11:57] Disconnected from 134.60.4.198
+[11:58] Trying server 49.204.56.254:6667
+[11:58] Connected to 49.204.56.254
+[11:58] Disconnected from 49.204.56.254
+[11:59] Trying server 134.60.4.198:6667
+[11:59] Connected to 134.60.4.198
+[11:59] Disconnected from 134.60.4.198
+[12:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[12:00] Writing user file...
+[12:00] Writing info file ...
+[12:00] Writing channel file...
+[12:00] Trying server 134.60.4.198:6667
+[12:00] Connected to 134.60.4.198
+[12:00] Disconnected from 134.60.4.198
+[12:01] Trying server 49.204.56.254:6667
+[12:01] Connected to 49.204.56.254
+[12:01] Disconnected from 49.204.56.254
+[12:02] Trying server 134.60.4.198:6667
+[12:02] Connected to 134.60.4.198
+[12:02] Disconnected from 134.60.4.198
+[12:03] Trying server 134.60.4.198:6667
+[12:03] Connected to 134.60.4.198
+[12:03] Disconnected from 134.60.4.198
+[12:04] Trying server 49.204.56.254:6667
+[12:04] Connected to 49.204.56.254
+[12:04] Disconnected from 49.204.56.254
+[12:05] Trying server 134.60.4.198:6667
+[12:05] Connected to 134.60.4.198
+[12:05] Disconnected from 134.60.4.198
+[12:06] Trying server 134.60.4.198:6667
+[12:06] Connected to 134.60.4.198
+[12:06] Disconnected from 134.60.4.198
+[12:07] Trying server 49.204.56.254:6667
+[12:07] Connected to 49.204.56.254
+[12:07] Disconnected from 49.204.56.254
+[12:08] Trying server 134.60.4.198:6667
+[12:08] Connected to 134.60.4.198
+[12:08] Disconnected from 134.60.4.198
+[12:09] Trying server 134.60.4.198:6667
+[12:09] Connected to 134.60.4.198
+[12:09] Disconnected from 134.60.4.198
+[12:10] Trying server 49.204.56.254:6667
+[12:10] Connected to 49.204.56.254
+[12:10] Disconnected from 49.204.56.254
+[12:11] Trying server 134.60.4.198:6667
+[12:11] Connected to 134.60.4.198
+[12:11] Disconnected from 134.60.4.198
+[12:12] Backing up seen data...
+[12:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[12:12] Trying server 134.60.4.198:6667
+[12:12] Connected to 134.60.4.198
+[12:12] Disconnected from 134.60.4.198
+[12:13] Trying server 49.204.56.254:6667
+[12:13] Connected to 49.204.56.254
+[12:13] Disconnected from 49.204.56.254
+[12:14] Trying server 134.60.4.198:6667
+[12:14] Connected to 134.60.4.198
+[12:14] Disconnected from 134.60.4.198
+[12:15] Trying server 134.60.4.198:6667
+[12:15] Connected to 134.60.4.198
+[12:15] Disconnected from 134.60.4.198
+[12:16] Trying server 49.204.56.254:6667
+[12:16] Connected to 49.204.56.254
+[12:16] Disconnected from 49.204.56.254
+[12:17] Trying server 134.60.4.198:6667
+[12:17] Connected to 134.60.4.198
+[12:17] Disconnected from 134.60.4.198
+[12:18] Trying server 134.60.4.198:6667
+[12:18] Connected to 134.60.4.198
+[12:18] Disconnected from 134.60.4.198
+[12:19] Trying server 49.204.56.254:6667
+[12:19] Connected to 49.204.56.254
+[12:19] Disconnected from 49.204.56.254
+[12:20] Trying server 134.60.4.198:6667
+[12:20] Connected to 134.60.4.198
+[12:20] Disconnected from 134.60.4.198
+[12:21] Trying server 134.60.4.198:6667
+[12:21] Connected to 134.60.4.198
+[12:21] Disconnected from 134.60.4.198
+[12:22] Trying server 49.204.56.254:6667
+[12:22] Connected to 49.204.56.254
+[12:22] Disconnected from 49.204.56.254
+[12:23] Trying server 134.60.4.198:6667
+[12:23] Connected to 134.60.4.198
+[12:23] Disconnected from 134.60.4.198
+[12:24] Trying server 134.60.4.198:6667
+[12:24] Connected to 134.60.4.198
+[12:24] Disconnected from 134.60.4.198
+[12:25] Trying server 49.204.56.254:6667
+[12:25] Connected to 49.204.56.254
+[12:25] Disconnected from 49.204.56.254
+[12:26] Trying server 134.60.4.198:6667
+[12:26] Connected to 134.60.4.198
+[12:26] Disconnected from 134.60.4.198
+[12:27] Trying server 134.60.4.198:6667
+[12:27] Connected to 134.60.4.198
+[12:27] Disconnected from 134.60.4.198
+[12:28] Trying server 49.204.56.254:6667
+[12:28] Connected to 49.204.56.254
+[12:28] Disconnected from 49.204.56.254
+[12:29] Trying server 134.60.4.198:6667
+[12:29] Connected to 134.60.4.198
+[12:29] Disconnected from 134.60.4.198
+[12:30] Trying server 134.60.4.198:6667
+[12:30] Connected to 134.60.4.198
+[12:30] Disconnected from 134.60.4.198
+[12:31] Trying server 49.204.56.254:6667
+[12:31] Connected to 49.204.56.254
+[12:31] Disconnected from 49.204.56.254
+[12:32] Trying server 134.60.4.198:6667
+[12:32] Connected to 134.60.4.198
+[12:32] Disconnected from 134.60.4.198
+[12:33] Trying server 134.60.4.198:6667
+[12:33] Connected to 134.60.4.198
+[12:33] Disconnected from 134.60.4.198
+[12:34] Trying server 49.204.56.254:6667
+[12:34] Connected to 49.204.56.254
+[12:34] Disconnected from 49.204.56.254
+[12:35] Trying server 134.60.4.198:6667
+[12:35] Connected to 134.60.4.198
+[12:35] Disconnected from 134.60.4.198
+[12:36] Trying server 134.60.4.198:6667
+[12:36] Connected to 134.60.4.198
+[12:36] Disconnected from 134.60.4.198
+[12:37] Trying server 49.204.56.254:6667
+[12:37] Connected to 49.204.56.254
+[12:37] Disconnected from 49.204.56.254
+[12:38] Trying server 134.60.4.198:6667
+[12:38] Connected to 134.60.4.198
+[12:38] Disconnected from 134.60.4.198
+[12:39] Trying server 134.60.4.198:6667
+[12:39] Connected to 134.60.4.198
+[12:39] Disconnected from 134.60.4.198
+[12:40] Trying server 49.204.56.254:6667
+[12:40] Connected to 49.204.56.254
+[12:40] Disconnected from 49.204.56.254
+[12:41] Trying server 134.60.4.198:6667
+[12:41] Connected to 134.60.4.198
+[12:41] Disconnected from 134.60.4.198
+[12:42] Trying server 134.60.4.198:6667
+[12:42] Connected to 134.60.4.198
+[12:42] Disconnected from 134.60.4.198
+[12:43] Trying server 49.204.56.254:6667
+[12:43] Connected to 49.204.56.254
+[12:43] Disconnected from 49.204.56.254
+[12:44] Trying server 134.60.4.198:6667
+[12:44] Connected to 134.60.4.198
+[12:44] Disconnected from 134.60.4.198
+[12:45] Trying server 134.60.4.198:6667
+[12:45] Connected to 134.60.4.198
+[12:45] Disconnected from 134.60.4.198
+[12:46] Trying server 49.204.56.254:6667
+[12:46] Connected to 49.204.56.254
+[12:46] Disconnected from 49.204.56.254
+[12:47] Trying server 134.60.4.198:6667
+[12:47] Connected to 134.60.4.198
+[12:47] Disconnected from 134.60.4.198
+[12:48] Trying server 134.60.4.198:6667
+[12:48] Connected to 134.60.4.198
+[12:48] Disconnected from 134.60.4.198
+[12:49] Trying server 49.204.56.254:6667
+[12:49] Connected to 49.204.56.254
+[12:49] Disconnected from 49.204.56.254
+[12:50] Trying server 134.60.4.198:6667
+[12:50] Connected to 134.60.4.198
+[12:50] Disconnected from 134.60.4.198
+[12:51] Trying server 134.60.4.198:6667
+[12:51] Connected to 134.60.4.198
+[12:51] Disconnected from 134.60.4.198
+[12:52] Trying server 49.204.56.254:6667
+[12:52] Connected to 49.204.56.254
+[12:52] Disconnected from 49.204.56.254
+[12:53] Trying server 134.60.4.198:6667
+[12:53] Connected to 134.60.4.198
+[12:53] Disconnected from 134.60.4.198
+[12:54] Trying server 134.60.4.198:6667
+[12:54] Connected to 134.60.4.198
+[12:54] Disconnected from 134.60.4.198
+[12:55] Trying server 49.204.56.254:6667
+[12:55] Connected to 49.204.56.254
+[12:55] Disconnected from 49.204.56.254
+[12:56] Trying server 134.60.4.198:6667
+[12:56] Connected to 134.60.4.198
+[12:56] Disconnected from 134.60.4.198
+[12:57] Trying server 134.60.4.198:6667
+[12:57] Connected to 134.60.4.198
+[12:57] Disconnected from 134.60.4.198
+[12:58] Trying server 49.204.56.254:6667
+[12:58] Connected to 49.204.56.254
+[12:58] Disconnected from 49.204.56.254
+[12:59] Trying server 134.60.4.198:6667
+[12:59] Connected to 134.60.4.198
+[12:59] Disconnected from 134.60.4.198
+[13:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[13:00] Writing user file...
+[13:00] Writing info file ...
+[13:00] Writing channel file...
+[13:00] Trying server 134.60.4.198:6667
+[13:00] Connected to 134.60.4.198
+[13:00] Disconnected from 134.60.4.198
+[13:01] Trying server 49.204.56.254:6667
+[13:01] Connected to 49.204.56.254
+[13:01] Disconnected from 49.204.56.254
+[13:02] Trying server 134.60.4.198:6667
+[13:02] Connected to 134.60.4.198
+[13:02] Disconnected from 134.60.4.198
+[13:03] Trying server 134.60.4.198:6667
+[13:03] Connected to 134.60.4.198
+[13:03] Disconnected from 134.60.4.198
+[13:04] Trying server 49.204.56.254:6667
+[13:04] Connected to 49.204.56.254
+[13:04] Disconnected from 49.204.56.254
+[13:05] Trying server 134.60.4.198:6667
+[13:05] Connected to 134.60.4.198
+[13:05] Disconnected from 134.60.4.198
+[13:06] Trying server 134.60.4.198:6667
+[13:06] Connected to 134.60.4.198
+[13:06] Disconnected from 134.60.4.198
+[13:07] Trying server 49.204.56.254:6667
+[13:07] Connected to 49.204.56.254
+[13:07] Disconnected from 49.204.56.254
+[13:08] Trying server 134.60.4.198:6667
+[13:08] Connected to 134.60.4.198
+[13:08] Disconnected from 134.60.4.198
+[13:09] Trying server 134.60.4.198:6667
+[13:09] Connected to 134.60.4.198
+[13:09] Disconnected from 134.60.4.198
+[13:10] Trying server 49.204.56.254:6667
+[13:10] Connected to 49.204.56.254
+[13:10] Disconnected from 49.204.56.254
+[13:11] Trying server 134.60.4.198:6667
+[13:11] Connected to 134.60.4.198
+[13:11] Disconnected from 134.60.4.198
+[13:12] Backing up seen data...
+[13:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[13:12] Trying server 134.60.4.198:6667
+[13:12] Connected to 134.60.4.198
+[13:12] Disconnected from 134.60.4.198
+[13:13] Trying server 49.204.56.254:6667
+[13:13] Connected to 49.204.56.254
+[13:13] Disconnected from 49.204.56.254
+[13:14] Trying server 134.60.4.198:6667
+[13:14] Connected to 134.60.4.198
+[13:14] Disconnected from 134.60.4.198
+[13:15] Trying server 134.60.4.198:6667
+[13:15] Connected to 134.60.4.198
+[13:15] Disconnected from 134.60.4.198
+[13:16] Trying server 49.204.56.254:6667
+[13:16] Connected to 49.204.56.254
+[13:16] Disconnected from 49.204.56.254
+[13:17] Trying server 134.60.4.198:6667
+[13:17] Connected to 134.60.4.198
+[13:17] Disconnected from 134.60.4.198
+[13:18] Trying server 134.60.4.198:6667
+[13:18] Connected to 134.60.4.198
+[13:18] Disconnected from 134.60.4.198
+[13:19] Trying server 49.204.56.254:6667
+[13:19] Connected to 49.204.56.254
+[13:19] Disconnected from 49.204.56.254
+[13:20] Trying server 134.60.4.198:6667
+[13:20] Connected to 134.60.4.198
+[13:20] Disconnected from 134.60.4.198
+[13:21] Trying server 134.60.4.198:6667
+[13:21] Connected to 134.60.4.198
+[13:21] Disconnected from 134.60.4.198
+[13:22] Trying server 49.204.56.254:6667
+[13:22] Connected to 49.204.56.254
+[13:22] Disconnected from 49.204.56.254
+[13:23] Trying server 134.60.4.198:6667
+[13:23] Connected to 134.60.4.198
+[13:23] Disconnected from 134.60.4.198
+[13:24] Trying server 134.60.4.198:6667
+[13:24] Connected to 134.60.4.198
+[13:24] Disconnected from 134.60.4.198
+[13:25] Trying server 49.204.56.254:6667
+[13:25] Connected to 49.204.56.254
+[13:25] Disconnected from 49.204.56.254
+[13:26] Trying server 134.60.4.198:6667
+[13:26] Connected to 134.60.4.198
+[13:26] Disconnected from 134.60.4.198
+[13:27] Trying server 134.60.4.198:6667
+[13:27] Connected to 134.60.4.198
+[13:27] Disconnected from 134.60.4.198
+[13:28] Trying server 49.204.56.254:6667
+[13:28] Connected to 49.204.56.254
+[13:28] Disconnected from 49.204.56.254
+[13:29] Trying server 134.60.4.198:6667
+[13:29] Connected to 134.60.4.198
+[13:29] Disconnected from 134.60.4.198
+[13:30] Trying server 134.60.4.198:6667
+[13:30] Connected to 134.60.4.198
+[13:30] Disconnected from 134.60.4.198
+[13:31] Trying server 49.204.56.254:6667
+[13:31] Connected to 49.204.56.254
+[13:31] Disconnected from 49.204.56.254
+[13:32] Trying server 134.60.4.198:6667
+[13:32] Connected to 134.60.4.198
+[13:32] Disconnected from 134.60.4.198
+[13:33] Trying server 134.60.4.198:6667
+[13:33] Connected to 134.60.4.198
+[13:33] Disconnected from 134.60.4.198
+[13:34] Trying server 49.204.56.254:6667
+[13:34] Connected to 49.204.56.254
+[13:34] Disconnected from 49.204.56.254
+[13:35] Trying server 134.60.4.198:6667
+[13:35] Connected to 134.60.4.198
+[13:35] Disconnected from 134.60.4.198
+[13:36] Trying server 134.60.4.198:6667
+[13:36] Connected to 134.60.4.198
+[13:36] Disconnected from 134.60.4.198
+[13:37] Trying server 49.204.56.254:6667
+[13:37] Connected to 49.204.56.254
+[13:37] Disconnected from 49.204.56.254
+[13:38] Trying server 134.60.4.198:6667
+[13:38] Connected to 134.60.4.198
+[13:38] Disconnected from 134.60.4.198
+[13:39] Trying server 134.60.4.198:6667
+[13:39] Connected to 134.60.4.198
+[13:39] Disconnected from 134.60.4.198
+[13:40] Trying server 49.204.56.254:6667
+[13:40] Connected to 49.204.56.254
+[13:40] Disconnected from 49.204.56.254
+[13:41] Trying server 134.60.4.198:6667
+[13:41] Connected to 134.60.4.198
+[13:41] Disconnected from 134.60.4.198
+[13:42] Trying server 134.60.4.198:6667
+[13:42] Connected to 134.60.4.198
+[13:42] Disconnected from 134.60.4.198
+[13:43] Trying server 49.204.56.254:6667
+[13:43] Connected to 49.204.56.254
+[13:43] Disconnected from 49.204.56.254
+[13:44] Trying server 134.60.4.198:6667
+[13:44] Connected to 134.60.4.198
+[13:44] Disconnected from 134.60.4.198
+[13:45] Trying server 134.60.4.198:6667
+[13:45] Connected to 134.60.4.198
+[13:45] Disconnected from 134.60.4.198
+[13:46] Trying server 49.204.56.254:6667
+[13:46] Connected to 49.204.56.254
+[13:46] Disconnected from 49.204.56.254
+[13:47] Trying server 134.60.4.198:6667
+[13:47] Connected to 134.60.4.198
+[13:47] Disconnected from 134.60.4.198
+[13:48] Trying server 134.60.4.198:6667
+[13:48] Connected to 134.60.4.198
+[13:48] Disconnected from 134.60.4.198
+[13:49] Trying server 49.204.56.254:6667
+[13:49] Connected to 49.204.56.254
+[13:49] Disconnected from 49.204.56.254
+[13:50] Trying server 134.60.4.198:6667
+[13:50] Connected to 134.60.4.198
+[13:50] Disconnected from 134.60.4.198
+[13:51] Trying server 134.60.4.198:6667
+[13:51] Connected to 134.60.4.198
+[13:51] Disconnected from 134.60.4.198
+[13:52] Trying server 49.204.56.254:6667
+[13:52] Connected to 49.204.56.254
+[13:52] Disconnected from 49.204.56.254
+[13:53] Trying server 134.60.4.198:6667
+[13:53] Connected to 134.60.4.198
+[13:53] Disconnected from 134.60.4.198
+[13:54] Trying server 134.60.4.198:6667
+[13:54] Connected to 134.60.4.198
+[13:54] Disconnected from 134.60.4.198
+[13:55] Trying server 49.204.56.254:6667
+[13:55] Connected to 49.204.56.254
+[13:55] Disconnected from 49.204.56.254
+[13:56] Trying server 134.60.4.198:6667
+[13:56] Connected to 134.60.4.198
+[13:56] Disconnected from 134.60.4.198
+[13:57] Trying server 134.60.4.198:6667
+[13:57] Connected to 134.60.4.198
+[13:57] Disconnected from 134.60.4.198
+[13:58] Trying server 49.204.56.254:6667
+[13:58] Connected to 49.204.56.254
+[13:58] Disconnected from 49.204.56.254
+[13:59] Trying server 134.60.4.198:6667
+[13:59] Connected to 134.60.4.198
+[13:59] Disconnected from 134.60.4.198
+[14:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[14:00] Writing user file...
+[14:00] Writing info file ...
+[14:00] Writing channel file...
+[14:00] Trying server 134.60.4.198:6667
+[14:00] Connected to 134.60.4.198
+[14:00] Disconnected from 134.60.4.198
+[14:01] Trying server 49.204.56.254:6667
+[14:01] Connected to 49.204.56.254
+[14:01] Disconnected from 49.204.56.254
+[14:02] Trying server 134.60.4.198:6667
+[14:02] Connected to 134.60.4.198
+[14:02] Disconnected from 134.60.4.198
+[14:03] Trying server 134.60.4.198:6667
+[14:03] Connected to 134.60.4.198
+[14:03] Disconnected from 134.60.4.198
+[14:04] Trying server 49.204.56.254:6667
+[14:04] Connected to 49.204.56.254
+[14:04] Disconnected from 49.204.56.254
+[14:05] Trying server 134.60.4.198:6667
+[14:05] Connected to 134.60.4.198
+[14:05] Disconnected from 134.60.4.198
+[14:06] Trying server 134.60.4.198:6667
+[14:06] Connected to 134.60.4.198
+[14:06] Disconnected from 134.60.4.198
+[14:07] Trying server 49.204.56.254:6667
+[14:07] Connected to 49.204.56.254
+[14:07] Disconnected from 49.204.56.254
+[14:08] Trying server 134.60.4.198:6667
+[14:08] Connected to 134.60.4.198
+[14:08] Disconnected from 134.60.4.198
+[14:09] Trying server 134.60.4.198:6667
+[14:09] Connected to 134.60.4.198
+[14:09] Disconnected from 134.60.4.198
+[14:10] Trying server 49.204.56.254:6667
+[14:10] Connected to 49.204.56.254
+[14:10] Disconnected from 49.204.56.254
+[14:11] Trying server 134.60.4.198:6667
+[14:11] Connected to 134.60.4.198
+[14:11] Disconnected from 134.60.4.198
+[14:12] Backing up seen data...
+[14:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[14:12] Trying server 134.60.4.198:6667
+[14:12] Connected to 134.60.4.198
+[14:12] Disconnected from 134.60.4.198
+[14:13] Trying server 49.204.56.254:6667
+[14:13] Connected to 49.204.56.254
+[14:13] Disconnected from 49.204.56.254
+[14:14] Trying server 134.60.4.198:6667
+[14:14] Connected to 134.60.4.198
+[14:14] Disconnected from 134.60.4.198
+[14:15] Trying server 134.60.4.198:6667
+[14:15] Connected to 134.60.4.198
+[14:15] Disconnected from 134.60.4.198
+[14:16] Trying server 49.204.56.254:6667
+[14:16] Connected to 49.204.56.254
+[14:16] Disconnected from 49.204.56.254
+[14:17] Trying server 134.60.4.198:6667
+[14:17] Connected to 134.60.4.198
+[14:17] Disconnected from 134.60.4.198
+[14:18] Trying server 134.60.4.198:6667
+[14:18] Connected to 134.60.4.198
+[14:18] Disconnected from 134.60.4.198
+[14:19] Trying server 49.204.56.254:6667
+[14:19] Connected to 49.204.56.254
+[14:19] Disconnected from 49.204.56.254
+[14:20] Trying server 134.60.4.198:6667
+[14:20] Connected to 134.60.4.198
+[14:20] Disconnected from 134.60.4.198
+[14:21] Trying server 134.60.4.198:6667
+[14:21] Connected to 134.60.4.198
+[14:21] Disconnected from 134.60.4.198
+[14:22] Trying server 49.204.56.254:6667
+[14:22] Connected to 49.204.56.254
+[14:22] Disconnected from 49.204.56.254
+[14:23] Trying server 134.60.4.198:6667
+[14:23] Connected to 134.60.4.198
+[14:23] Disconnected from 134.60.4.198
+[14:24] Trying server 134.60.4.198:6667
+[14:24] Connected to 134.60.4.198
+[14:24] Disconnected from 134.60.4.198
+[14:25] Trying server 49.204.56.254:6667
+[14:25] Connected to 49.204.56.254
+[14:25] Disconnected from 49.204.56.254
+[14:26] Trying server 134.60.4.198:6667
+[14:26] Connected to 134.60.4.198
+[14:26] Disconnected from 134.60.4.198
+[14:27] Trying server 134.60.4.198:6667
+[14:27] Connected to 134.60.4.198
+[14:27] Disconnected from 134.60.4.198
+[14:28] Trying server 49.204.56.254:6667
+[14:28] Connected to 49.204.56.254
+[14:28] Disconnected from 49.204.56.254
+[14:29] Trying server 134.60.4.198:6667
+[14:29] Connected to 134.60.4.198
+[14:29] Disconnected from 134.60.4.198
+[14:30] Trying server 134.60.4.198:6667
+[14:30] Connected to 134.60.4.198
+[14:30] Disconnected from 134.60.4.198
+[14:31] Trying server 49.204.56.254:6667
+[14:31] Connected to 49.204.56.254
+[14:31] Disconnected from 49.204.56.254
+[14:32] Trying server 134.60.4.198:6667
+[14:32] Connected to 134.60.4.198
+[14:32] Disconnected from 134.60.4.198
+[14:33] Trying server 134.60.4.198:6667
+[14:33] Connected to 134.60.4.198
+[14:33] Disconnected from 134.60.4.198
+[14:34] Trying server 49.204.56.254:6667
+[14:34] Connected to 49.204.56.254
+[14:34] Disconnected from 49.204.56.254
+[14:35] Trying server 134.60.4.198:6667
+[14:35] Connected to 134.60.4.198
+[14:35] Disconnected from 134.60.4.198
+[14:36] Trying server 134.60.4.198:6667
+[14:36] Connected to 134.60.4.198
+[14:36] Disconnected from 134.60.4.198
+[14:37] Trying server 49.204.56.254:6667
+[14:37] Connected to 49.204.56.254
+[14:37] Disconnected from 49.204.56.254
+[14:38] Trying server 134.60.4.198:6667
+[14:38] Connected to 134.60.4.198
+[14:38] Disconnected from 134.60.4.198
+[14:39] Trying server 134.60.4.198:6667
+[14:39] Connected to 134.60.4.198
+[14:39] Disconnected from 134.60.4.198
+[14:40] Trying server 49.204.56.254:6667
+[14:40] Connected to 49.204.56.254
+[14:40] Disconnected from 49.204.56.254
+[14:41] Trying server 134.60.4.198:6667
+[14:41] Connected to 134.60.4.198
+[14:41] Disconnected from 134.60.4.198
+[14:42] Trying server 134.60.4.198:6667
+[14:42] Connected to 134.60.4.198
+[14:42] Disconnected from 134.60.4.198
+[14:43] Trying server 49.204.56.254:6667
+[14:43] Connected to 49.204.56.254
+[14:43] Disconnected from 49.204.56.254
+[14:44] Trying server 134.60.4.198:6667
+[14:44] Connected to 134.60.4.198
+[14:44] Disconnected from 134.60.4.198
+[14:45] Trying server 134.60.4.198:6667
+[14:45] Connected to 134.60.4.198
+[14:45] Disconnected from 134.60.4.198
+[14:46] Trying server 49.204.56.254:6667
+[14:46] Connected to 49.204.56.254
+[14:46] Disconnected from 49.204.56.254
+[14:47] Trying server 134.60.4.198:6667
+[14:47] Connected to 134.60.4.198
+[14:47] Disconnected from 134.60.4.198
+[14:48] Trying server 134.60.4.198:6667
+[14:48] Connected to 134.60.4.198
+[14:48] Disconnected from 134.60.4.198
+[14:49] Trying server 49.204.56.254:6667
+[14:49] Connected to 49.204.56.254
+[14:49] Disconnected from 49.204.56.254
+[14:50] Trying server 134.60.4.198:6667
+[14:50] Connected to 134.60.4.198
+[14:50] Disconnected from 134.60.4.198
+[14:51] Trying server 134.60.4.198:6667
+[14:51] Connected to 134.60.4.198
+[14:51] Disconnected from 134.60.4.198
+[14:52] Trying server 49.204.56.254:6667
+[14:52] Connected to 49.204.56.254
+[14:52] Disconnected from 49.204.56.254
+[14:53] Trying server 134.60.4.198:6667
+[14:53] Connected to 134.60.4.198
+[14:53] Disconnected from 134.60.4.198
+[14:54] Trying server 134.60.4.198:6667
+[14:54] Connected to 134.60.4.198
+[14:54] Disconnected from 134.60.4.198
+[14:55] Trying server 49.204.56.254:6667
+[14:55] Connected to 49.204.56.254
+[14:55] Disconnected from 49.204.56.254
+[14:56] Trying server 134.60.4.198:6667
+[14:56] Connected to 134.60.4.198
+[14:56] Disconnected from 134.60.4.198
+[14:57] Trying server 134.60.4.198:6667
+[14:57] Connected to 134.60.4.198
+[14:57] Disconnected from 134.60.4.198
+[14:58] Trying server 49.204.56.254:6667
+[14:58] Connected to 49.204.56.254
+[14:58] Disconnected from 49.204.56.254
+[14:59] Trying server 134.60.4.198:6667
+[14:59] Connected to 134.60.4.198
+[14:59] Disconnected from 134.60.4.198
+[15:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[15:00] Writing user file...
+[15:00] Writing info file ...
+[15:00] Writing channel file...
+[15:00] Trying server 134.60.4.198:6667
+[15:00] Connected to 134.60.4.198
+[15:00] Disconnected from 134.60.4.198
+[15:01] Trying server 49.204.56.254:6667
+[15:01] Connected to 49.204.56.254
+[15:01] Disconnected from 49.204.56.254
+[15:02] Trying server 134.60.4.198:6667
+[15:02] Connected to 134.60.4.198
+[15:02] Disconnected from 134.60.4.198
+[15:03] Trying server 134.60.4.198:6667
+[15:03] Connected to 134.60.4.198
+[15:03] Disconnected from 134.60.4.198
+[15:04] Trying server 49.204.56.254:6667
+[15:04] Connected to 49.204.56.254
+[15:04] Disconnected from 49.204.56.254
+[15:05] Trying server 134.60.4.198:6667
+[15:05] Connected to 134.60.4.198
+[15:05] Disconnected from 134.60.4.198
+[15:06] Trying server 134.60.4.198:6667
+[15:06] Connected to 134.60.4.198
+[15:06] Disconnected from 134.60.4.198
+[15:07] Trying server 49.204.56.254:6667
+[15:07] Connected to 49.204.56.254
+[15:07] Disconnected from 49.204.56.254
+[15:08] Trying server 134.60.4.198:6667
+[15:08] Connected to 134.60.4.198
+[15:08] Disconnected from 134.60.4.198
+[15:09] Trying server 134.60.4.198:6667
+[15:09] Connected to 134.60.4.198
+[15:09] Disconnected from 134.60.4.198
+[15:10] Trying server 49.204.56.254:6667
+[15:10] Connected to 49.204.56.254
+[15:10] Disconnected from 49.204.56.254
+[15:11] Trying server 134.60.4.198:6667
+[15:11] Connected to 134.60.4.198
+[15:11] Disconnected from 134.60.4.198
+[15:12] Backing up seen data...
+[15:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[15:12] Trying server 134.60.4.198:6667
+[15:12] Connected to 134.60.4.198
+[15:12] Disconnected from 134.60.4.198
+[15:13] Trying server 49.204.56.254:6667
+[15:13] Connected to 49.204.56.254
+[15:13] Disconnected from 49.204.56.254
+[15:14] Trying server 134.60.4.198:6667
+[15:14] Connected to 134.60.4.198
+[15:14] Disconnected from 134.60.4.198
+[15:15] Trying server 134.60.4.198:6667
+[15:15] Connected to 134.60.4.198
+[15:15] Disconnected from 134.60.4.198
+[15:16] Trying server 49.204.56.254:6667
+[15:16] Connected to 49.204.56.254
+[15:16] Disconnected from 49.204.56.254
+[15:17] Trying server 134.60.4.198:6667
+[15:17] Connected to 134.60.4.198
+[15:17] Disconnected from 134.60.4.198
+[15:18] Trying server 134.60.4.198:6667
+[15:18] Connected to 134.60.4.198
+[15:18] Disconnected from 134.60.4.198
+[15:19] Trying server 49.204.56.254:6667
+[15:19] Connected to 49.204.56.254
+[15:19] Disconnected from 49.204.56.254
+[15:20] Trying server 134.60.4.198:6667
+[15:20] Connected to 134.60.4.198
+[15:20] Disconnected from 134.60.4.198
+[15:21] Trying server 134.60.4.198:6667
+[15:21] Connected to 134.60.4.198
+[15:21] Disconnected from 134.60.4.198
+[15:22] Trying server 49.204.56.254:6667
+[15:22] Connected to 49.204.56.254
+[15:22] Disconnected from 49.204.56.254
+[15:23] Trying server 134.60.4.198:6667
+[15:23] Connected to 134.60.4.198
+[15:23] Disconnected from 134.60.4.198
+[15:24] Trying server 134.60.4.198:6667
+[15:24] Connected to 134.60.4.198
+[15:24] Disconnected from 134.60.4.198
+[15:25] Trying server 49.204.56.254:6667
+[15:25] Connected to 49.204.56.254
+[15:25] Disconnected from 49.204.56.254
+[15:26] Trying server 134.60.4.198:6667
+[15:26] Connected to 134.60.4.198
+[15:26] Disconnected from 134.60.4.198
+[15:27] Trying server 134.60.4.198:6667
+[15:27] Connected to 134.60.4.198
+[15:27] Disconnected from 134.60.4.198
+[15:28] Trying server 49.204.56.254:6667
+[15:28] Connected to 49.204.56.254
+[15:28] Disconnected from 49.204.56.254
+[15:29] Trying server 134.60.4.198:6667
+[15:29] Connected to 134.60.4.198
+[15:29] Disconnected from 134.60.4.198
+[15:30] Trying server 134.60.4.198:6667
+[15:30] Connected to 134.60.4.198
+[15:30] Disconnected from 134.60.4.198
+[15:31] Trying server 49.204.56.254:6667
+[15:31] Connected to 49.204.56.254
+[15:31] Disconnected from 49.204.56.254
+[15:32] Trying server 134.60.4.198:6667
+[15:32] Connected to 134.60.4.198
+[15:32] Disconnected from 134.60.4.198
+[15:33] Trying server 134.60.4.198:6667
+[15:33] Connected to 134.60.4.198
+[15:33] Disconnected from 134.60.4.198
+[15:34] Trying server 49.204.56.254:6667
+[15:34] Connected to 49.204.56.254
+[15:34] Disconnected from 49.204.56.254
+[15:35] Trying server 134.60.4.198:6667
+[15:35] Connected to 134.60.4.198
+[15:35] Disconnected from 134.60.4.198
+[15:36] Trying server 134.60.4.198:6667
+[15:36] Connected to 134.60.4.198
+[15:36] Disconnected from 134.60.4.198
+[15:37] Trying server 49.204.56.254:6667
+[15:37] Connected to 49.204.56.254
+[15:37] Disconnected from 49.204.56.254
+[15:38] Trying server 134.60.4.198:6667
+[15:38] Connected to 134.60.4.198
+[15:38] Disconnected from 134.60.4.198
+[15:39] Trying server 134.60.4.198:6667
+[15:39] Connected to 134.60.4.198
+[15:39] Disconnected from 134.60.4.198
+[15:40] Trying server 49.204.56.254:6667
+[15:40] Connected to 49.204.56.254
+[15:40] Disconnected from 49.204.56.254
+[15:41] Trying server 134.60.4.198:6667
+[15:41] Connected to 134.60.4.198
+[15:41] Disconnected from 134.60.4.198
+[15:42] Trying server 134.60.4.198:6667
+[15:42] Connected to 134.60.4.198
+[15:42] Disconnected from 134.60.4.198
+[15:43] Trying server 49.204.56.254:6667
+[15:43] Connected to 49.204.56.254
+[15:43] Disconnected from 49.204.56.254
+[15:44] Trying server 134.60.4.198:6667
+[15:44] Connected to 134.60.4.198
+[15:44] Disconnected from 134.60.4.198
+[15:45] Trying server 134.60.4.198:6667
+[15:45] Connected to 134.60.4.198
+[15:45] Disconnected from 134.60.4.198
+[15:46] Trying server 49.204.56.254:6667
+[15:46] Connected to 49.204.56.254
+[15:46] Disconnected from 49.204.56.254
+[15:47] Trying server 134.60.4.198:6667
+[15:47] Connected to 134.60.4.198
+[15:47] Disconnected from 134.60.4.198
+[15:48] Trying server 134.60.4.198:6667
+[15:48] Connected to 134.60.4.198
+[15:48] Disconnected from 134.60.4.198
+[15:49] Trying server 49.204.56.254:6667
+[15:49] Connected to 49.204.56.254
+[15:49] Disconnected from 49.204.56.254
+[15:50] Trying server 134.60.4.198:6667
+[15:50] Connected to 134.60.4.198
+[15:50] Disconnected from 134.60.4.198
+[15:51] Trying server 134.60.4.198:6667
+[15:51] Connected to 134.60.4.198
+[15:51] Disconnected from 134.60.4.198
+[15:52] Trying server 49.204.56.254:6667
+[15:52] Connected to 49.204.56.254
+[15:52] Disconnected from 49.204.56.254
+[15:53] Trying server 134.60.4.198:6667
+[15:53] Connected to 134.60.4.198
+[15:53] Disconnected from 134.60.4.198
+[15:54] Trying server 134.60.4.198:6667
+[15:54] Connected to 134.60.4.198
+[15:54] Disconnected from 134.60.4.198
+[15:55] Trying server 49.204.56.254:6667
+[15:55] Connected to 49.204.56.254
+[15:55] Disconnected from 49.204.56.254
+[15:56] Trying server 134.60.4.198:6667
+[15:56] Connected to 134.60.4.198
+[15:56] Disconnected from 134.60.4.198
+[15:57] Trying server 134.60.4.198:6667
+[15:57] Connected to 134.60.4.198
+[15:57] Disconnected from 134.60.4.198
+[15:58] Trying server 49.204.56.254:6667
+[15:58] Connected to 49.204.56.254
+[15:58] Disconnected from 49.204.56.254
+[15:59] Trying server 134.60.4.198:6667
+[15:59] Connected to 134.60.4.198
+[15:59] Disconnected from 134.60.4.198
+[16:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[16:00] Writing user file...
+[16:00] Writing info file ...
+[16:00] Writing channel file...
+[16:00] Trying server 134.60.4.198:6667
+[16:00] Connected to 134.60.4.198
+[16:00] Disconnected from 134.60.4.198
+[16:01] Trying server 49.204.56.254:6667
+[16:01] Connected to 49.204.56.254
+[16:01] Disconnected from 49.204.56.254
+[16:02] Trying server 134.60.4.198:6667
+[16:02] Connected to 134.60.4.198
+[16:02] Disconnected from 134.60.4.198
+[16:03] Trying server 134.60.4.198:6667
+[16:03] Connected to 134.60.4.198
+[16:03] Disconnected from 134.60.4.198
+[16:04] Trying server 49.204.56.254:6667
+[16:04] Connected to 49.204.56.254
+[16:04] Disconnected from 49.204.56.254
+[16:05] Trying server 134.60.4.198:6667
+[16:05] Connected to 134.60.4.198
+[16:05] Disconnected from 134.60.4.198
+[16:06] Trying server 134.60.4.198:6667
+[16:06] Connected to 134.60.4.198
+[16:06] Disconnected from 134.60.4.198
+[16:07] Trying server 49.204.56.254:6667
+[16:07] Connected to 49.204.56.254
+[16:07] Disconnected from 49.204.56.254
+[16:08] Trying server 134.60.4.198:6667
+[16:08] Connected to 134.60.4.198
+[16:08] Disconnected from 134.60.4.198
+[16:09] Trying server 134.60.4.198:6667
+[16:09] Connected to 134.60.4.198
+[16:09] Disconnected from 134.60.4.198
+[16:10] Trying server 49.204.56.254:6667
+[16:10] Connected to 49.204.56.254
+[16:10] Disconnected from 49.204.56.254
+[16:11] Trying server 134.60.4.198:6667
+[16:11] Connected to 134.60.4.198
+[16:11] Disconnected from 134.60.4.198
+[16:12] Backing up seen data...
+[16:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[16:12] Trying server 134.60.4.198:6667
+[16:12] Connected to 134.60.4.198
+[16:12] Disconnected from 134.60.4.198
+[16:13] Trying server 49.204.56.254:6667
+[16:13] Connected to 49.204.56.254
+[16:13] Disconnected from 49.204.56.254
+[16:14] Trying server 134.60.4.198:6667
+[16:14] Connected to 134.60.4.198
+[16:14] Disconnected from 134.60.4.198
+[16:15] Trying server 134.60.4.198:6667
+[16:15] Connected to 134.60.4.198
+[16:15] Disconnected from 134.60.4.198
+[16:16] Trying server 49.204.56.254:6667
+[16:16] Connected to 49.204.56.254
+[16:16] Disconnected from 49.204.56.254
+[16:17] Trying server 134.60.4.198:6667
+[16:17] Connected to 134.60.4.198
+[16:17] Disconnected from 134.60.4.198
+[16:18] Trying server 134.60.4.198:6667
+[16:18] Connected to 134.60.4.198
+[16:18] Disconnected from 134.60.4.198
+[16:19] Trying server 49.204.56.254:6667
+[16:19] Connected to 49.204.56.254
+[16:19] Disconnected from 49.204.56.254
+[16:20] Trying server 134.60.4.198:6667
+[16:20] Connected to 134.60.4.198
+[16:20] Disconnected from 134.60.4.198
+[16:21] Trying server 134.60.4.198:6667
+[16:21] Connected to 134.60.4.198
+[16:21] Disconnected from 134.60.4.198
+[16:22] Trying server 49.204.56.254:6667
+[16:22] Connected to 49.204.56.254
+[16:22] Disconnected from 49.204.56.254
+[16:23] Trying server 134.60.4.198:6667
+[16:23] Connected to 134.60.4.198
+[16:23] Disconnected from 134.60.4.198
+[16:24] Trying server 134.60.4.198:6667
+[16:24] Connected to 134.60.4.198
+[16:24] Disconnected from 134.60.4.198
+[16:25] Trying server 49.204.56.254:6667
+[16:25] Connected to 49.204.56.254
+[16:25] Disconnected from 49.204.56.254
+[16:26] Trying server 134.60.4.198:6667
+[16:26] Connected to 134.60.4.198
+[16:26] Disconnected from 134.60.4.198
+[16:27] Trying server 134.60.4.198:6667
+[16:27] Connected to 134.60.4.198
+[16:27] Disconnected from 134.60.4.198
+[16:28] Trying server 49.204.56.254:6667
+[16:28] Connected to 49.204.56.254
+[16:28] Disconnected from 49.204.56.254
+[16:29] Trying server 134.60.4.198:6667
+[16:29] Connected to 134.60.4.198
+[16:29] Disconnected from 134.60.4.198
+[16:30] Trying server 134.60.4.198:6667
+[16:30] Connected to 134.60.4.198
+[16:30] Disconnected from 134.60.4.198
+[16:31] Trying server 49.204.56.254:6667
+[16:31] Connected to 49.204.56.254
+[16:31] Disconnected from 49.204.56.254
+[16:32] Trying server 134.60.4.198:6667
+[16:32] Connected to 134.60.4.198
+[16:32] Disconnected from 134.60.4.198
+[16:33] Trying server 134.60.4.198:6667
+[16:33] Connected to 134.60.4.198
+[16:33] Disconnected from 134.60.4.198
+[16:34] Trying server 49.204.56.254:6667
+[16:34] Connected to 49.204.56.254
+[16:34] Disconnected from 49.204.56.254
+[16:35] Trying server 134.60.4.198:6667
+[16:35] Connected to 134.60.4.198
+[16:35] Disconnected from 134.60.4.198
+[16:36] Trying server 134.60.4.198:6667
+[16:36] Connected to 134.60.4.198
+[16:36] Disconnected from 134.60.4.198
+[16:37] Trying server 49.204.56.254:6667
+[16:37] Connected to 49.204.56.254
+[16:37] Disconnected from 49.204.56.254
+[16:38] Trying server 134.60.4.198:6667
+[16:38] Connected to 134.60.4.198
+[16:38] Disconnected from 134.60.4.198
+[16:39] Trying server 134.60.4.198:6667
+[16:39] Connected to 134.60.4.198
+[16:39] Disconnected from 134.60.4.198
+[16:40] Trying server 49.204.56.254:6667
+[16:40] Connected to 49.204.56.254
+[16:40] Disconnected from 49.204.56.254
+[16:41] Trying server 134.60.4.198:6667
+[16:41] Connected to 134.60.4.198
+[16:41] Disconnected from 134.60.4.198
+[16:42] Trying server 134.60.4.198:6667
+[16:42] Connected to 134.60.4.198
+[16:42] Disconnected from 134.60.4.198
+[16:43] Trying server 49.204.56.254:6667
+[16:43] Connected to 49.204.56.254
+[16:43] Disconnected from 49.204.56.254
+[16:44] Trying server 134.60.4.198:6667
+[16:44] Connected to 134.60.4.198
+[16:44] Disconnected from 134.60.4.198
+[16:45] Trying server 134.60.4.198:6667
+[16:45] Connected to 134.60.4.198
+[16:45] Disconnected from 134.60.4.198
+[16:46] Trying server 49.204.56.254:6667
+[16:46] Connected to 49.204.56.254
+[16:46] Disconnected from 49.204.56.254
+[16:47] Trying server 134.60.4.198:6667
+[16:47] Connected to 134.60.4.198
+[16:47] Disconnected from 134.60.4.198
+[16:48] Trying server 134.60.4.198:6667
+[16:48] Connected to 134.60.4.198
+[16:48] Disconnected from 134.60.4.198
+[16:49] Trying server 49.204.56.254:6667
+[16:49] Connected to 49.204.56.254
+[16:49] Disconnected from 49.204.56.254
+[16:50] Trying server 134.60.4.198:6667
+[16:50] Connected to 134.60.4.198
+[16:50] Disconnected from 134.60.4.198
+[16:51] Trying server 134.60.4.198:6667
+[16:51] Connected to 134.60.4.198
+[16:51] Disconnected from 134.60.4.198
+[16:52] Trying server 49.204.56.254:6667
+[16:52] Connected to 49.204.56.254
+[16:52] Disconnected from 49.204.56.254
+[16:53] Trying server 134.60.4.198:6667
+[16:53] Connected to 134.60.4.198
+[16:53] Disconnected from 134.60.4.198
+[16:54] Trying server 134.60.4.198:6667
+[16:54] Connected to 134.60.4.198
+[16:54] Disconnected from 134.60.4.198
+[16:55] Trying server 49.204.56.254:6667
+[16:55] Connected to 49.204.56.254
+[16:55] Disconnected from 49.204.56.254
+[16:56] Trying server 134.60.4.198:6667
+[16:56] Connected to 134.60.4.198
+[16:56] Disconnected from 134.60.4.198
+[16:57] Trying server 134.60.4.198:6667
+[16:57] Connected to 134.60.4.198
+[16:57] Disconnected from 134.60.4.198
+[16:58] Trying server 49.204.56.254:6667
+[16:58] Connected to 49.204.56.254
+[16:58] Disconnected from 49.204.56.254
+[16:59] Trying server 134.60.4.198:6667
+[16:59] Connected to 134.60.4.198
+[16:59] Disconnected from 134.60.4.198
+[17:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[17:00] Writing user file...
+[17:00] Writing info file ...
+[17:00] Writing channel file...
+[17:00] Trying server 134.60.4.198:6667
+[17:00] Connected to 134.60.4.198
+[17:00] Disconnected from 134.60.4.198
+[17:01] Trying server 49.204.56.254:6667
+[17:01] Connected to 49.204.56.254
+[17:01] Disconnected from 49.204.56.254
+[17:02] Trying server 134.60.4.198:6667
+[17:02] Connected to 134.60.4.198
+[17:02] Disconnected from 134.60.4.198
+[17:03] Trying server 134.60.4.198:6667
+[17:03] Connected to 134.60.4.198
+[17:03] Disconnected from 134.60.4.198
+[17:04] Trying server 49.204.56.254:6667
+[17:04] Connected to 49.204.56.254
+[17:04] Disconnected from 49.204.56.254
+[17:05] Trying server 134.60.4.198:6667
+[17:05] Connected to 134.60.4.198
+[17:05] Disconnected from 134.60.4.198
+[17:06] Trying server 134.60.4.198:6667
+[17:06] Connected to 134.60.4.198
+[17:06] Disconnected from 134.60.4.198
+[17:07] Trying server 49.204.56.254:6667
+[17:07] Connected to 49.204.56.254
+[17:07] Disconnected from 49.204.56.254
+[17:08] Trying server 134.60.4.198:6667
+[17:08] Connected to 134.60.4.198
+[17:08] Disconnected from 134.60.4.198
+[17:09] Trying server 134.60.4.198:6667
+[17:09] Connected to 134.60.4.198
+[17:09] Disconnected from 134.60.4.198
+[17:10] Trying server 49.204.56.254:6667
+[17:10] Connected to 49.204.56.254
+[17:10] Disconnected from 49.204.56.254
+[17:11] Trying server 134.60.4.198:6667
+[17:11] Connected to 134.60.4.198
+[17:11] Disconnected from 134.60.4.198
+[17:12] Backing up seen data...
+[17:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[17:12] Trying server 134.60.4.198:6667
+[17:12] Connected to 134.60.4.198
+[17:12] Disconnected from 134.60.4.198
+[17:13] Trying server 49.204.56.254:6667
+[17:13] Connected to 49.204.56.254
+[17:13] Disconnected from 49.204.56.254
+[17:14] Trying server 134.60.4.198:6667
+[17:14] Connected to 134.60.4.198
+[17:14] Disconnected from 134.60.4.198
+[17:15] Trying server 134.60.4.198:6667
+[17:15] Connected to 134.60.4.198
+[17:15] Disconnected from 134.60.4.198
+[17:16] Trying server 49.204.56.254:6667
+[17:16] Connected to 49.204.56.254
+[17:16] Disconnected from 49.204.56.254
+[17:17] Trying server 134.60.4.198:6667
+[17:17] Connected to 134.60.4.198
+[17:17] Disconnected from 134.60.4.198
+[17:18] Trying server 134.60.4.198:6667
+[17:18] Connected to 134.60.4.198
+[17:18] Disconnected from 134.60.4.198
+[17:19] Trying server 49.204.56.254:6667
+[17:19] Connected to 49.204.56.254
+[17:19] Disconnected from 49.204.56.254
+[17:20] Trying server 134.60.4.198:6667
+[17:20] Connected to 134.60.4.198
+[17:20] Disconnected from 134.60.4.198
+[17:21] Trying server 134.60.4.198:6667
+[17:21] Connected to 134.60.4.198
+[17:21] Disconnected from 134.60.4.198
+[17:22] Trying server 49.204.56.254:6667
+[17:22] Connected to 49.204.56.254
+[17:22] Disconnected from 49.204.56.254
+[17:23] Trying server 134.60.4.198:6667
+[17:23] Connected to 134.60.4.198
+[17:23] Disconnected from 134.60.4.198
+[17:24] Trying server 134.60.4.198:6667
+[17:24] Connected to 134.60.4.198
+[17:24] Disconnected from 134.60.4.198
+[17:25] Trying server 49.204.56.254:6667
+[17:25] Connected to 49.204.56.254
+[17:25] Disconnected from 49.204.56.254
+[17:26] Trying server 134.60.4.198:6667
+[17:26] Connected to 134.60.4.198
+[17:26] Disconnected from 134.60.4.198
+[17:27] Trying server 134.60.4.198:6667
+[17:27] Connected to 134.60.4.198
+[17:27] Disconnected from 134.60.4.198
+[17:28] Trying server 49.204.56.254:6667
+[17:28] Connected to 49.204.56.254
+[17:28] Disconnected from 49.204.56.254
+[17:29] Trying server 134.60.4.198:6667
+[17:29] Connected to 134.60.4.198
+[17:29] Disconnected from 134.60.4.198
+[17:30] Trying server 134.60.4.198:6667
+[17:30] Connected to 134.60.4.198
+[17:30] Disconnected from 134.60.4.198
+[17:31] Trying server 49.204.56.254:6667
+[17:31] Connected to 49.204.56.254
+[17:31] Disconnected from 49.204.56.254
+[17:32] Trying server 134.60.4.198:6667
+[17:32] Connected to 134.60.4.198
+[17:32] Disconnected from 134.60.4.198
+[17:33] Trying server 134.60.4.198:6667
+[17:33] Connected to 134.60.4.198
+[17:33] Disconnected from 134.60.4.198
+[17:34] Trying server 49.204.56.254:6667
+[17:34] Connected to 49.204.56.254
+[17:34] Disconnected from 49.204.56.254
+[17:35] Trying server 134.60.4.198:6667
+[17:35] Connected to 134.60.4.198
+[17:35] Disconnected from 134.60.4.198
+[17:36] Trying server 134.60.4.198:6667
+[17:36] Connected to 134.60.4.198
+[17:36] Disconnected from 134.60.4.198
+[17:37] Trying server 49.204.56.254:6667
+[17:37] Connected to 49.204.56.254
+[17:37] Disconnected from 49.204.56.254
+[17:38] Trying server 134.60.4.198:6667
+[17:38] Connected to 134.60.4.198
+[17:38] Disconnected from 134.60.4.198
+[17:39] Trying server 134.60.4.198:6667
+[17:39] Connected to 134.60.4.198
+[17:39] Disconnected from 134.60.4.198
+[17:40] Trying server 49.204.56.254:6667
+[17:40] Connected to 49.204.56.254
+[17:40] Disconnected from 49.204.56.254
+[17:41] Trying server 134.60.4.198:6667
+[17:41] Connected to 134.60.4.198
+[17:41] Disconnected from 134.60.4.198
+[17:42] Trying server 134.60.4.198:6667
+[17:42] Connected to 134.60.4.198
+[17:42] Disconnected from 134.60.4.198
+[17:43] Trying server 49.204.56.254:6667
+[17:43] Connected to 49.204.56.254
+[17:43] Disconnected from 49.204.56.254
+[17:44] Trying server 134.60.4.198:6667
+[17:44] Connected to 134.60.4.198
+[17:44] Disconnected from 134.60.4.198
+[17:45] Trying server 134.60.4.198:6667
+[17:45] Connected to 134.60.4.198
+[17:45] Disconnected from 134.60.4.198
+[17:46] Trying server 49.204.56.254:6667
+[17:46] Connected to 49.204.56.254
+[17:46] Disconnected from 49.204.56.254
+[17:47] Trying server 134.60.4.198:6667
+[17:47] Connected to 134.60.4.198
+[17:47] Disconnected from 134.60.4.198
+[17:48] Trying server 134.60.4.198:6667
+[17:48] Connected to 134.60.4.198
+[17:48] Disconnected from 134.60.4.198
+[17:49] Trying server 49.204.56.254:6667
+[17:49] Connected to 49.204.56.254
+[17:49] Disconnected from 49.204.56.254
+[17:50] Trying server 134.60.4.198:6667
+[17:50] Connected to 134.60.4.198
+[17:50] Disconnected from 134.60.4.198
+[17:51] Trying server 134.60.4.198:6667
+[17:51] Connected to 134.60.4.198
+[17:51] Disconnected from 134.60.4.198
+[17:52] Trying server 49.204.56.254:6667
+[17:52] Connected to 49.204.56.254
+[17:52] Disconnected from 49.204.56.254
+[17:53] Trying server 134.60.4.198:6667
+[17:53] Connected to 134.60.4.198
+[17:53] Disconnected from 134.60.4.198
+[17:54] Trying server 134.60.4.198:6667
+[17:54] Connected to 134.60.4.198
+[17:54] Disconnected from 134.60.4.198
+[17:55] Trying server 49.204.56.254:6667
+[17:55] Connected to 49.204.56.254
+[17:55] Disconnected from 49.204.56.254
+[17:56] Trying server 134.60.4.198:6667
+[17:56] Connected to 134.60.4.198
+[17:56] Disconnected from 134.60.4.198
+[17:57] Trying server 134.60.4.198:6667
+[17:57] Connected to 134.60.4.198
+[17:57] Disconnected from 134.60.4.198
+[17:58] Trying server 49.204.56.254:6667
+[17:58] Connected to 49.204.56.254
+[17:58] Disconnected from 49.204.56.254
+[17:59] Trying server 134.60.4.198:6667
+[17:59] Connected to 134.60.4.198
+[17:59] Disconnected from 134.60.4.198
+[18:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[18:00] Writing user file...
+[18:00] Writing info file ...
+[18:00] Writing channel file...
+[18:00] Trying server 134.60.4.198:6667
+[18:00] Connected to 134.60.4.198
+[18:00] Disconnected from 134.60.4.198
+[18:01] Trying server 49.204.56.254:6667
+[18:01] Connected to 49.204.56.254
+[18:01] Disconnected from 49.204.56.254
+[18:02] Trying server 134.60.4.198:6667
+[18:02] Connected to 134.60.4.198
+[18:02] Disconnected from 134.60.4.198
+[18:03] Trying server 134.60.4.198:6667
+[18:03] Connected to 134.60.4.198
+[18:03] Disconnected from 134.60.4.198
+[18:04] Trying server 49.204.56.254:6667
+[18:04] Connected to 49.204.56.254
+[18:04] Disconnected from 49.204.56.254
+[18:05] Trying server 134.60.4.198:6667
+[18:05] Connected to 134.60.4.198
+[18:05] Disconnected from 134.60.4.198
+[18:06] Trying server 134.60.4.198:6667
+[18:06] Connected to 134.60.4.198
+[18:06] Disconnected from 134.60.4.198
+[18:07] Trying server 49.204.56.254:6667
+[18:07] Connected to 49.204.56.254
+[18:07] Disconnected from 49.204.56.254
+[18:08] Trying server 134.60.4.198:6667
+[18:08] Connected to 134.60.4.198
+[18:08] Disconnected from 134.60.4.198
+[18:09] Trying server 134.60.4.198:6667
+[18:09] Connected to 134.60.4.198
+[18:09] Disconnected from 134.60.4.198
+[18:10] Trying server 49.204.56.254:6667
+[18:10] Connected to 49.204.56.254
+[18:10] Disconnected from 49.204.56.254
+[18:11] Trying server 134.60.4.198:6667
+[18:11] Connected to 134.60.4.198
+[18:11] Disconnected from 134.60.4.198
+[18:12] Backing up seen data...
+[18:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[18:12] Trying server 134.60.4.198:6667
+[18:12] Connected to 134.60.4.198
+[18:12] Disconnected from 134.60.4.198
+[18:13] Trying server 49.204.56.254:6667
+[18:13] Connected to 49.204.56.254
+[18:13] Disconnected from 49.204.56.254
+[18:14] Trying server 134.60.4.198:6667
+[18:14] Connected to 134.60.4.198
+[18:14] Disconnected from 134.60.4.198
+[18:15] Trying server 134.60.4.198:6667
+[18:15] Connected to 134.60.4.198
+[18:15] Disconnected from 134.60.4.198
+[18:16] Trying server 49.204.56.254:6667
+[18:16] Connected to 49.204.56.254
+[18:16] Disconnected from 49.204.56.254
+[18:17] Trying server 134.60.4.198:6667
+[18:17] Connected to 134.60.4.198
+[18:17] Disconnected from 134.60.4.198
+[18:18] Trying server 134.60.4.198:6667
+[18:18] Connected to 134.60.4.198
+[18:18] Disconnected from 134.60.4.198
+[18:19] Trying server 49.204.56.254:6667
+[18:19] Connected to 49.204.56.254
+[18:19] Disconnected from 49.204.56.254
+[18:20] Trying server 134.60.4.198:6667
+[18:20] Connected to 134.60.4.198
+[18:20] Disconnected from 134.60.4.198
+[18:21] Trying server 134.60.4.198:6667
+[18:21] Connected to 134.60.4.198
+[18:21] Disconnected from 134.60.4.198
+[18:22] Trying server 49.204.56.254:6667
+[18:22] Connected to 49.204.56.254
+[18:22] Disconnected from 49.204.56.254
+[18:23] Trying server 134.60.4.198:6667
+[18:23] Connected to 134.60.4.198
+[18:23] Disconnected from 134.60.4.198
+[18:24] Trying server 134.60.4.198:6667
+[18:24] Connected to 134.60.4.198
+[18:24] Disconnected from 134.60.4.198
+[18:25] Trying server 49.204.56.254:6667
+[18:25] Connected to 49.204.56.254
+[18:25] Disconnected from 49.204.56.254
+[18:26] Trying server 134.60.4.198:6667
+[18:26] Connected to 134.60.4.198
+[18:26] Disconnected from 134.60.4.198
+[18:27] Trying server 134.60.4.198:6667
+[18:27] Connected to 134.60.4.198
+[18:27] Disconnected from 134.60.4.198
+[18:28] Trying server 49.204.56.254:6667
+[18:28] Connected to 49.204.56.254
+[18:28] Disconnected from 49.204.56.254
+[18:29] Trying server 134.60.4.198:6667
+[18:29] Connected to 134.60.4.198
+[18:29] Disconnected from 134.60.4.198
+[18:30] Trying server 134.60.4.198:6667
+[18:30] Connected to 134.60.4.198
+[18:30] Disconnected from 134.60.4.198
+[18:31] Trying server 49.204.56.254:6667
+[18:31] Connected to 49.204.56.254
+[18:31] Disconnected from 49.204.56.254
+[18:32] Trying server 134.60.4.198:6667
+[18:32] Connected to 134.60.4.198
+[18:32] Disconnected from 134.60.4.198
+[18:33] Trying server 134.60.4.198:6667
+[18:33] Connected to 134.60.4.198
+[18:33] Disconnected from 134.60.4.198
+[18:34] Trying server 49.204.56.254:6667
+[18:34] Connected to 49.204.56.254
+[18:34] Disconnected from 49.204.56.254
+[18:35] Trying server 134.60.4.198:6667
+[18:35] Connected to 134.60.4.198
+[18:35] Disconnected from 134.60.4.198
+[18:36] Trying server 134.60.4.198:6667
+[18:36] Connected to 134.60.4.198
+[18:36] Disconnected from 134.60.4.198
+[18:37] Trying server 49.204.56.254:6667
+[18:37] Connected to 49.204.56.254
+[18:37] Disconnected from 49.204.56.254
+[18:38] Trying server 134.60.4.198:6667
+[18:38] Connected to 134.60.4.198
+[18:38] Disconnected from 134.60.4.198
+[18:39] Trying server 134.60.4.198:6667
+[18:39] Connected to 134.60.4.198
+[18:39] Disconnected from 134.60.4.198
+[18:40] Trying server 49.204.56.254:6667
+[18:40] Connected to 49.204.56.254
+[18:40] Disconnected from 49.204.56.254
+[18:41] Trying server 134.60.4.198:6667
+[18:41] Connected to 134.60.4.198
+[18:41] Disconnected from 134.60.4.198
+[18:42] Trying server 134.60.4.198:6667
+[18:42] Connected to 134.60.4.198
+[18:42] Disconnected from 134.60.4.198
+[18:43] Trying server 49.204.56.254:6667
+[18:43] Connected to 49.204.56.254
+[18:43] Disconnected from 49.204.56.254
+[18:44] Trying server 134.60.4.198:6667
+[18:44] Connected to 134.60.4.198
+[18:44] Disconnected from 134.60.4.198
+[18:45] Trying server 134.60.4.198:6667
+[18:45] Connected to 134.60.4.198
+[18:45] Disconnected from 134.60.4.198
+[18:46] Trying server 49.204.56.254:6667
+[18:46] Connected to 49.204.56.254
+[18:46] Disconnected from 49.204.56.254
+[18:47] Trying server 134.60.4.198:6667
+[18:47] Connected to 134.60.4.198
+[18:47] Disconnected from 134.60.4.198
+[18:48] Trying server 134.60.4.198:6667
+[18:48] Connected to 134.60.4.198
+[18:48] Disconnected from 134.60.4.198
+[18:49] Trying server 49.204.56.254:6667
+[18:49] Connected to 49.204.56.254
+[18:49] Disconnected from 49.204.56.254
+[18:50] Trying server 134.60.4.198:6667
+[18:50] Connected to 134.60.4.198
+[18:50] Disconnected from 134.60.4.198
+[18:51] Trying server 134.60.4.198:6667
+[18:51] Connected to 134.60.4.198
+[18:51] Disconnected from 134.60.4.198
+[18:52] Trying server 49.204.56.254:6667
+[18:52] Connected to 49.204.56.254
+[18:52] Disconnected from 49.204.56.254
+[18:53] Trying server 134.60.4.198:6667
+[18:53] Connected to 134.60.4.198
+[18:53] Disconnected from 134.60.4.198
+[18:54] Trying server 134.60.4.198:6667
+[18:54] Connected to 134.60.4.198
+[18:54] Disconnected from 134.60.4.198
+[18:55] Trying server 49.204.56.254:6667
+[18:55] Connected to 49.204.56.254
+[18:55] Disconnected from 49.204.56.254
+[18:56] Trying server 134.60.4.198:6667
+[18:56] Connected to 134.60.4.198
+[18:56] Disconnected from 134.60.4.198
+[18:57] Trying server 134.60.4.198:6667
+[18:57] Connected to 134.60.4.198
+[18:57] Disconnected from 134.60.4.198
+[18:58] Trying server 49.204.56.254:6667
+[18:58] Connected to 49.204.56.254
+[18:58] Disconnected from 49.204.56.254
+[18:59] Trying server 134.60.4.198:6667
+[18:59] Connected to 134.60.4.198
+[18:59] Disconnected from 134.60.4.198
+[19:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[19:00] Writing user file...
+[19:00] Writing info file ...
+[19:00] Writing channel file...
+[19:00] Trying server 134.60.4.198:6667
+[19:00] Connected to 134.60.4.198
+[19:00] Disconnected from 134.60.4.198
+[19:01] Trying server 49.204.56.254:6667
+[19:01] Connected to 49.204.56.254
+[19:01] Disconnected from 49.204.56.254
+[19:02] Trying server 134.60.4.198:6667
+[19:02] Connected to 134.60.4.198
+[19:02] Disconnected from 134.60.4.198
+[19:03] Trying server 134.60.4.198:6667
+[19:03] Connected to 134.60.4.198
+[19:03] Disconnected from 134.60.4.198
+[19:04] Trying server 49.204.56.254:6667
+[19:04] Connected to 49.204.56.254
+[19:04] Disconnected from 49.204.56.254
+[19:05] Trying server 134.60.4.198:6667
+[19:05] Connected to 134.60.4.198
+[19:05] Disconnected from 134.60.4.198
+[19:06] Trying server 134.60.4.198:6667
+[19:06] Connected to 134.60.4.198
+[19:06] Disconnected from 134.60.4.198
+[19:07] Trying server 49.204.56.254:6667
+[19:07] Connected to 49.204.56.254
+[19:07] Disconnected from 49.204.56.254
+[19:08] Trying server 134.60.4.198:6667
+[19:08] Connected to 134.60.4.198
+[19:08] Disconnected from 134.60.4.198
+[19:09] Trying server 134.60.4.198:6667
+[19:09] Connected to 134.60.4.198
+[19:09] Disconnected from 134.60.4.198
+[19:10] Trying server 49.204.56.254:6667
+[19:10] Connected to 49.204.56.254
+[19:10] Disconnected from 49.204.56.254
+[19:11] Trying server 134.60.4.198:6667
+[19:11] Connected to 134.60.4.198
+[19:11] Disconnected from 134.60.4.198
+[19:12] Backing up seen data...
+[19:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[19:12] Trying server 134.60.4.198:6667
+[19:12] Connected to 134.60.4.198
+[19:12] Disconnected from 134.60.4.198
+[19:13] Trying server 49.204.56.254:6667
+[19:13] Connected to 49.204.56.254
+[19:13] Disconnected from 49.204.56.254
+[19:14] Trying server 134.60.4.198:6667
+[19:14] Connected to 134.60.4.198
+[19:14] Disconnected from 134.60.4.198
+[19:15] Trying server 134.60.4.198:6667
+[19:15] Connected to 134.60.4.198
+[19:15] Disconnected from 134.60.4.198
+[19:16] Trying server 49.204.56.254:6667
+[19:16] Connected to 49.204.56.254
+[19:16] Disconnected from 49.204.56.254
+[19:17] Trying server 134.60.4.198:6667
+[19:17] Connected to 134.60.4.198
+[19:17] Disconnected from 134.60.4.198
+[19:18] Trying server 134.60.4.198:6667
+[19:18] Connected to 134.60.4.198
+[19:18] Disconnected from 134.60.4.198
+[19:19] Trying server 49.204.56.254:6667
+[19:19] Connected to 49.204.56.254
+[19:19] Disconnected from 49.204.56.254
+[19:20] Trying server 134.60.4.198:6667
+[19:20] Connected to 134.60.4.198
+[19:20] Disconnected from 134.60.4.198
+[19:21] Trying server 134.60.4.198:6667
+[19:21] Connected to 134.60.4.198
+[19:21] Disconnected from 134.60.4.198
+[19:22] Trying server 49.204.56.254:6667
+[19:22] Connected to 49.204.56.254
+[19:22] Disconnected from 49.204.56.254
+[19:23] Trying server 134.60.4.198:6667
+[19:23] Connected to 134.60.4.198
+[19:23] Disconnected from 134.60.4.198
+[19:24] Trying server 134.60.4.198:6667
+[19:24] Connected to 134.60.4.198
+[19:24] Disconnected from 134.60.4.198
+[19:25] Trying server 49.204.56.254:6667
+[19:25] Connected to 49.204.56.254
+[19:25] Disconnected from 49.204.56.254
+[19:26] Trying server 134.60.4.198:6667
+[19:26] Connected to 134.60.4.198
+[19:26] Disconnected from 134.60.4.198
+[19:27] Trying server 134.60.4.198:6667
+[19:27] Connected to 134.60.4.198
+[19:27] Disconnected from 134.60.4.198
+[19:28] Trying server 49.204.56.254:6667
+[19:28] Connected to 49.204.56.254
+[19:28] Disconnected from 49.204.56.254
+[19:29] Trying server 134.60.4.198:6667
+[19:29] Connected to 134.60.4.198
+[19:29] Disconnected from 134.60.4.198
+[19:30] Trying server 134.60.4.198:6667
+[19:30] Connected to 134.60.4.198
+[19:30] Disconnected from 134.60.4.198
+[19:31] Trying server 49.204.56.254:6667
+[19:31] Connected to 49.204.56.254
+[19:31] Disconnected from 49.204.56.254
+[19:32] Trying server 134.60.4.198:6667
+[19:32] Connected to 134.60.4.198
+[19:32] Disconnected from 134.60.4.198
+[19:33] Trying server 134.60.4.198:6667
+[19:33] Connected to 134.60.4.198
+[19:33] Disconnected from 134.60.4.198
+[19:34] Trying server 49.204.56.254:6667
+[19:34] Connected to 49.204.56.254
+[19:34] Disconnected from 49.204.56.254
+[19:35] Trying server 134.60.4.198:6667
+[19:35] Connected to 134.60.4.198
+[19:35] Disconnected from 134.60.4.198
+[19:36] Trying server 134.60.4.198:6667
+[19:36] Connected to 134.60.4.198
+[19:36] Disconnected from 134.60.4.198
+[19:37] Trying server 49.204.56.254:6667
+[19:37] Connected to 49.204.56.254
+[19:37] Disconnected from 49.204.56.254
+[19:38] Trying server 134.60.4.198:6667
+[19:38] Connected to 134.60.4.198
+[19:38] Disconnected from 134.60.4.198
+[19:39] Trying server 134.60.4.198:6667
+[19:39] Connected to 134.60.4.198
+[19:39] Disconnected from 134.60.4.198
+[19:40] Trying server 49.204.56.254:6667
+[19:40] Connected to 49.204.56.254
+[19:40] Disconnected from 49.204.56.254
+[19:41] Trying server 134.60.4.198:6667
+[19:41] Connected to 134.60.4.198
+[19:41] Disconnected from 134.60.4.198
+[19:42] Trying server 134.60.4.198:6667
+[19:42] Connected to 134.60.4.198
+[19:42] Disconnected from 134.60.4.198
+[19:43] Trying server 49.204.56.254:6667
+[19:43] Connected to 49.204.56.254
+[19:43] Disconnected from 49.204.56.254
+[19:44] Trying server 134.60.4.198:6667
+[19:44] Connected to 134.60.4.198
+[19:44] Disconnected from 134.60.4.198
+[19:45] Trying server 134.60.4.198:6667
+[19:45] Connected to 134.60.4.198
+[19:45] Disconnected from 134.60.4.198
+[19:46] Trying server 49.204.56.254:6667
+[19:46] Connected to 49.204.56.254
+[19:46] Disconnected from 49.204.56.254
+[19:47] Trying server 134.60.4.198:6667
+[19:47] Connected to 134.60.4.198
+[19:47] Disconnected from 134.60.4.198
+[19:48] Trying server 134.60.4.198:6667
+[19:48] Connected to 134.60.4.198
+[19:48] Disconnected from 134.60.4.198
+[19:49] Trying server 49.204.56.254:6667
+[19:49] Connected to 49.204.56.254
+[19:49] Disconnected from 49.204.56.254
+[19:50] Trying server 134.60.4.198:6667
+[19:50] Connected to 134.60.4.198
+[19:50] Disconnected from 134.60.4.198
+[19:51] Trying server 134.60.4.198:6667
+[19:51] Connected to 134.60.4.198
+[19:51] Disconnected from 134.60.4.198
+[19:52] Trying server 49.204.56.254:6667
+[19:52] Connected to 49.204.56.254
+[19:52] Disconnected from 49.204.56.254
+[19:53] Trying server 134.60.4.198:6667
+[19:53] Connected to 134.60.4.198
+[19:53] Disconnected from 134.60.4.198
+[19:54] Trying server 134.60.4.198:6667
+[19:54] Connected to 134.60.4.198
+[19:54] Disconnected from 134.60.4.198
+[19:55] Trying server 49.204.56.254:6667
+[19:55] Connected to 49.204.56.254
+[19:55] Disconnected from 49.204.56.254
+[19:56] Trying server 134.60.4.198:6667
+[19:56] Connected to 134.60.4.198
+[19:56] Disconnected from 134.60.4.198
+[19:57] Trying server 134.60.4.198:6667
+[19:57] Connected to 134.60.4.198
+[19:57] Disconnected from 134.60.4.198
+[19:58] Trying server 49.204.56.254:6667
+[19:58] Connected to 49.204.56.254
+[19:58] Disconnected from 49.204.56.254
+[19:59] Trying server 134.60.4.198:6667
+[19:59] Connected to 134.60.4.198
+[19:59] Disconnected from 134.60.4.198
+[20:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[20:00] Writing user file...
+[20:00] Writing info file ...
+[20:00] Writing channel file...
+[20:00] Trying server 134.60.4.198:6667
+[20:00] Connected to 134.60.4.198
+[20:00] Disconnected from 134.60.4.198
+[20:01] Trying server 49.204.56.254:6667
+[20:01] Connected to 49.204.56.254
+[20:01] Disconnected from 49.204.56.254
+[20:02] Trying server 134.60.4.198:6667
+[20:02] Connected to 134.60.4.198
+[20:02] Disconnected from 134.60.4.198
+[20:03] Trying server 134.60.4.198:6667
+[20:03] Connected to 134.60.4.198
+[20:03] Disconnected from 134.60.4.198
+[20:04] Trying server 49.204.56.254:6667
+[20:04] Connected to 49.204.56.254
+[20:04] Disconnected from 49.204.56.254
+[20:05] Trying server 134.60.4.198:6667
+[20:05] Connected to 134.60.4.198
+[20:05] Disconnected from 134.60.4.198
+[20:06] Trying server 134.60.4.198:6667
+[20:06] Connected to 134.60.4.198
+[20:06] Disconnected from 134.60.4.198
+[20:07] Trying server 49.204.56.254:6667
+[20:07] Connected to 49.204.56.254
+[20:07] Disconnected from 49.204.56.254
+[20:08] Trying server 134.60.4.198:6667
+[20:08] Connected to 134.60.4.198
+[20:08] Disconnected from 134.60.4.198
+[20:09] Trying server 134.60.4.198:6667
+[20:09] Connected to 134.60.4.198
+[20:09] Disconnected from 134.60.4.198
+[20:10] Trying server 49.204.56.254:6667
+[20:10] Connected to 49.204.56.254
+[20:10] Disconnected from 49.204.56.254
+[20:11] Trying server 134.60.4.198:6667
+[20:11] Connected to 134.60.4.198
+[20:11] Disconnected from 134.60.4.198
+[20:12] Backing up seen data...
+[20:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[20:12] Trying server 134.60.4.198:6667
+[20:12] Connected to 134.60.4.198
+[20:12] Disconnected from 134.60.4.198
+[20:13] Trying server 49.204.56.254:6667
+[20:13] Connected to 49.204.56.254
+[20:13] Disconnected from 49.204.56.254
+[20:14] Trying server 134.60.4.198:6667
+[20:14] Connected to 134.60.4.198
+[20:14] Disconnected from 134.60.4.198
+[20:15] Trying server 134.60.4.198:6667
+[20:15] Connected to 134.60.4.198
+[20:15] Disconnected from 134.60.4.198
+[20:16] Trying server 49.204.56.254:6667
+[20:16] Connected to 49.204.56.254
+[20:16] Disconnected from 49.204.56.254
+[20:17] Trying server 134.60.4.198:6667
+[20:17] Connected to 134.60.4.198
+[20:17] Disconnected from 134.60.4.198
+[20:18] Trying server 134.60.4.198:6667
+[20:18] Connected to 134.60.4.198
+[20:18] Disconnected from 134.60.4.198
+[20:19] Trying server 49.204.56.254:6667
+[20:19] Connected to 49.204.56.254
+[20:19] Disconnected from 49.204.56.254
+[20:20] Trying server 134.60.4.198:6667
+[20:20] Connected to 134.60.4.198
+[20:20] Disconnected from 134.60.4.198
+[20:21] Trying server 134.60.4.198:6667
+[20:21] Connected to 134.60.4.198
+[20:21] Disconnected from 134.60.4.198
+[20:22] Trying server 49.204.56.254:6667
+[20:22] Connected to 49.204.56.254
+[20:22] Disconnected from 49.204.56.254
+[20:23] Trying server 134.60.4.198:6667
+[20:23] Connected to 134.60.4.198
+[20:23] Disconnected from 134.60.4.198
+[20:24] Trying server 134.60.4.198:6667
+[20:24] Connected to 134.60.4.198
+[20:24] Disconnected from 134.60.4.198
+[20:25] Trying server 49.204.56.254:6667
+[20:25] Connected to 49.204.56.254
+[20:25] Disconnected from 49.204.56.254
+[20:26] Trying server 134.60.4.198:6667
+[20:26] Connected to 134.60.4.198
+[20:26] Disconnected from 134.60.4.198
+[20:27] Trying server 134.60.4.198:6667
+[20:27] Connected to 134.60.4.198
+[20:27] Disconnected from 134.60.4.198
+[20:28] Trying server 49.204.56.254:6667
+[20:28] Connected to 49.204.56.254
+[20:28] Disconnected from 49.204.56.254
+[20:29] Trying server 134.60.4.198:6667
+[20:29] Connected to 134.60.4.198
+[20:29] Disconnected from 134.60.4.198
+[20:30] Trying server 134.60.4.198:6667
+[20:30] Connected to 134.60.4.198
+[20:30] Disconnected from 134.60.4.198
+[20:31] Trying server 49.204.56.254:6667
+[20:31] Connected to 49.204.56.254
+[20:31] Disconnected from 49.204.56.254
+[20:32] Trying server 134.60.4.198:6667
+[20:32] Connected to 134.60.4.198
+[20:32] Disconnected from 134.60.4.198
+[20:33] Trying server 134.60.4.198:6667
+[20:33] Connected to 134.60.4.198
+[20:33] Disconnected from 134.60.4.198
+[20:34] Trying server 49.204.56.254:6667
+[20:34] Connected to 49.204.56.254
+[20:34] Disconnected from 49.204.56.254
+[20:35] Trying server 134.60.4.198:6667
+[20:35] Connected to 134.60.4.198
+[20:35] Disconnected from 134.60.4.198
+[20:36] Trying server 134.60.4.198:6667
+[20:36] Connected to 134.60.4.198
+[20:36] Disconnected from 134.60.4.198
+[20:37] Trying server 49.204.56.254:6667
+[20:37] Connected to 49.204.56.254
+[20:37] Disconnected from 49.204.56.254
+[20:38] Trying server 134.60.4.198:6667
+[20:38] Connected to 134.60.4.198
+[20:38] Disconnected from 134.60.4.198
+[20:39] Trying server 134.60.4.198:6667
+[20:39] Connected to 134.60.4.198
+[20:39] Disconnected from 134.60.4.198
+[20:40] Trying server 49.204.56.254:6667
+[20:40] Connected to 49.204.56.254
+[20:40] Disconnected from 49.204.56.254
+[20:41] Trying server 134.60.4.198:6667
+[20:41] Connected to 134.60.4.198
+[20:41] Disconnected from 134.60.4.198
+[20:42] Trying server 134.60.4.198:6667
+[20:42] Connected to 134.60.4.198
+[20:42] Disconnected from 134.60.4.198
+[20:43] Trying server 49.204.56.254:6667
+[20:43] Connected to 49.204.56.254
+[20:43] Disconnected from 49.204.56.254
+[20:44] Trying server 134.60.4.198:6667
+[20:44] Connected to 134.60.4.198
+[20:44] Disconnected from 134.60.4.198
+[20:45] Trying server 134.60.4.198:6667
+[20:45] Connected to 134.60.4.198
+[20:45] Disconnected from 134.60.4.198
+[20:46] Trying server 49.204.56.254:6667
+[20:46] Connected to 49.204.56.254
+[20:46] Disconnected from 49.204.56.254
+[20:47] Trying server 134.60.4.198:6667
+[20:47] Connected to 134.60.4.198
+[20:47] Disconnected from 134.60.4.198
+[20:48] Trying server 134.60.4.198:6667
+[20:48] Connected to 134.60.4.198
+[20:48] Disconnected from 134.60.4.198
+[20:49] Trying server 49.204.56.254:6667
+[20:49] Connected to 49.204.56.254
+[20:49] Disconnected from 49.204.56.254
+[20:50] Trying server 134.60.4.198:6667
+[20:50] Connected to 134.60.4.198
+[20:50] Disconnected from 134.60.4.198
+[20:51] Trying server 134.60.4.198:6667
+[20:51] Connected to 134.60.4.198
+[20:51] Disconnected from 134.60.4.198
+[20:52] Trying server 49.204.56.254:6667
+[20:52] Connected to 49.204.56.254
+[20:52] Disconnected from 49.204.56.254
+[20:53] Trying server 134.60.4.198:6667
+[20:53] Connected to 134.60.4.198
+[20:53] Disconnected from 134.60.4.198
+[20:54] Trying server 134.60.4.198:6667
+[20:54] Connected to 134.60.4.198
+[20:54] Disconnected from 134.60.4.198
+[20:55] Trying server 49.204.56.254:6667
+[20:55] Connected to 49.204.56.254
+[20:55] Disconnected from 49.204.56.254
+[20:56] Trying server 134.60.4.198:6667
+[20:56] Connected to 134.60.4.198
+[20:56] Disconnected from 134.60.4.198
+[20:57] Trying server 134.60.4.198:6667
+[20:57] Connected to 134.60.4.198
+[20:57] Disconnected from 134.60.4.198
+[20:58] Trying server 49.204.56.254:6667
+[20:58] Connected to 49.204.56.254
+[20:58] Disconnected from 49.204.56.254
+[20:59] Trying server 134.60.4.198:6667
+[20:59] Connected to 134.60.4.198
+[20:59] Disconnected from 134.60.4.198
+[21:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[21:00] Writing user file...
+[21:00] Writing info file ...
+[21:00] Writing channel file...
+[21:00] Trying server 134.60.4.198:6667
+[21:00] Connected to 134.60.4.198
+[21:00] Disconnected from 134.60.4.198
+[21:01] Trying server 49.204.56.254:6667
+[21:01] Connected to 49.204.56.254
+[21:01] Disconnected from 49.204.56.254
+[21:02] Trying server 134.60.4.198:6667
+[21:02] Connected to 134.60.4.198
+[21:02] Disconnected from 134.60.4.198
+[21:03] Trying server 134.60.4.198:6667
+[21:03] Connected to 134.60.4.198
+[21:03] Disconnected from 134.60.4.198
+[21:04] Trying server 49.204.56.254:6667
+[21:04] Connected to 49.204.56.254
+[21:04] Disconnected from 49.204.56.254
+[21:05] Trying server 134.60.4.198:6667
+[21:05] Connected to 134.60.4.198
+[21:05] Disconnected from 134.60.4.198
+[21:06] Trying server 134.60.4.198:6667
+[21:06] Connected to 134.60.4.198
+[21:06] Disconnected from 134.60.4.198
+[21:07] Trying server 49.204.56.254:6667
+[21:07] Connected to 49.204.56.254
+[21:07] Disconnected from 49.204.56.254
+[21:08] Trying server 134.60.4.198:6667
+[21:08] Connected to 134.60.4.198
+[21:08] Disconnected from 134.60.4.198
+[21:09] Trying server 134.60.4.198:6667
+[21:09] Connected to 134.60.4.198
+[21:09] Disconnected from 134.60.4.198
+[21:10] Trying server 49.204.56.254:6667
+[21:10] Connected to 49.204.56.254
+[21:10] Disconnected from 49.204.56.254
+[21:11] Trying server 134.60.4.198:6667
+[21:11] Connected to 134.60.4.198
+[21:11] Disconnected from 134.60.4.198
+[21:12] Backing up seen data...
+[21:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[21:12] Trying server 134.60.4.198:6667
+[21:12] Connected to 134.60.4.198
+[21:12] Disconnected from 134.60.4.198
+[21:13] Trying server 49.204.56.254:6667
+[21:13] Connected to 49.204.56.254
+[21:13] Disconnected from 49.204.56.254
+[21:14] Trying server 134.60.4.198:6667
+[21:14] Connected to 134.60.4.198
+[21:14] Disconnected from 134.60.4.198
+[21:15] Trying server 134.60.4.198:6667
+[21:15] Connected to 134.60.4.198
+[21:15] Disconnected from 134.60.4.198
+[21:16] Trying server 49.204.56.254:6667
+[21:17] Connected to 49.204.56.254
+[21:17] Disconnected from 49.204.56.254
+[21:17] Trying server 134.60.4.198:6667
+[21:17] Connected to 134.60.4.198
+[21:17] Disconnected from 134.60.4.198
+[21:18] Trying server 134.60.4.198:6667
+[21:18] Connected to 134.60.4.198
+[21:18] Disconnected from 134.60.4.198
+[21:19] Trying server 49.204.56.254:6667
+[21:19] Connected to 49.204.56.254
+[21:19] Disconnected from 49.204.56.254
+[21:20] Trying server 134.60.4.198:6667
+[21:20] Connected to 134.60.4.198
+[21:20] Disconnected from 134.60.4.198
+[21:21] Trying server 134.60.4.198:6667
+[21:22] Connected to 134.60.4.198
+[21:22] Disconnected from 134.60.4.198
+[21:22] Trying server 49.204.56.254:6667
+[21:22] Connected to 49.204.56.254
+[21:22] Disconnected from 49.204.56.254
+[21:23] Trying server 134.60.4.198:6667
+[21:23] Connected to 134.60.4.198
+[21:23] Disconnected from 134.60.4.198
+[21:24] Trying server 134.60.4.198:6667
+[21:24] Connected to 134.60.4.198
+[21:24] Disconnected from 134.60.4.198
+[21:25] Trying server 49.204.56.254:6667
+[21:25] Connected to 49.204.56.254
+[21:25] Disconnected from 49.204.56.254
+[21:26] Trying server 134.60.4.198:6667
+[21:27] Connected to 134.60.4.198
+[21:27] Disconnected from 134.60.4.198
+[21:27] Trying server 134.60.4.198:6667
+[21:27] Connected to 134.60.4.198
+[21:27] Disconnected from 134.60.4.198
+[21:28] Trying server 49.204.56.254:6667
+[21:28] Connected to 49.204.56.254
+[21:28] Disconnected from 49.204.56.254
+[21:29] Trying server 134.60.4.198:6667
+[21:29] Connected to 134.60.4.198
+[21:29] Disconnected from 134.60.4.198
+[21:30] Trying server 134.60.4.198:6667
+[21:30] Connected to 134.60.4.198
+[21:30] Disconnected from 134.60.4.198
+[21:31] Trying server 49.204.56.254:6667
+[21:32] Connected to 49.204.56.254
+[21:32] Disconnected from 49.204.56.254
+[21:32] Trying server 134.60.4.198:6667
+[21:32] Connected to 134.60.4.198
+[21:32] Disconnected from 134.60.4.198
+[21:33] Trying server 134.60.4.198:6667
+[21:33] Connected to 134.60.4.198
+[21:33] Disconnected from 134.60.4.198
+[21:34] Trying server 49.204.56.254:6667
+[21:34] Connected to 49.204.56.254
+[21:34] Disconnected from 49.204.56.254
+[21:35] Trying server 134.60.4.198:6667
+[21:35] Connected to 134.60.4.198
+[21:35] Disconnected from 134.60.4.198
+[21:36] Trying server 134.60.4.198:6667
+[21:36] Connected to 134.60.4.198
+[21:36] Disconnected from 134.60.4.198
+[21:38] Trying server 49.204.56.254:6667
+[21:38] Connected to 49.204.56.254
+[21:38] Disconnected from 49.204.56.254
+[21:39] Trying server 134.60.4.198:6667
+[21:39] Connected to 134.60.4.198
+[21:39] Disconnected from 134.60.4.198
+[21:40] Trying server 134.60.4.198:6667
+[21:40] Connected to 134.60.4.198
+[21:40] Disconnected from 134.60.4.198
+[21:41] Trying server 49.204.56.254:6667
+[21:41] Connected to 49.204.56.254
+[21:41] Disconnected from 49.204.56.254
+[21:42] Trying server 134.60.4.198:6667
+[21:42] Connected to 134.60.4.198
+[21:42] Disconnected from 134.60.4.198
+[21:43] Trying server 134.60.4.198:6667
+[21:43] Connected to 134.60.4.198
+[21:43] Disconnected from 134.60.4.198
+[21:44] Trying server 49.204.56.254:6667
+[21:44] Connected to 49.204.56.254
+[21:44] Disconnected from 49.204.56.254
+[21:45] Trying server 134.60.4.198:6667
+[21:45] Connected to 134.60.4.198
+[21:45] Disconnected from 134.60.4.198
+[21:46] Trying server 134.60.4.198:6667
+[21:46] Connected to 134.60.4.198
+[21:46] Disconnected from 134.60.4.198
+[21:47] Trying server 49.204.56.254:6667
+[21:47] Connected to 49.204.56.254
+[21:47] Disconnected from 49.204.56.254
+[21:48] Trying server 134.60.4.198:6667
+[21:48] Connected to 134.60.4.198
+[21:48] Disconnected from 134.60.4.198
+[21:49] Trying server 134.60.4.198:6667
+[21:49] Connected to 134.60.4.198
+[21:49] Disconnected from 134.60.4.198
+[21:50] Trying server 49.204.56.254:6667
+[21:50] Connected to 49.204.56.254
+[21:50] Disconnected from 49.204.56.254
+[21:51] Trying server 134.60.4.198:6667
+[21:51] Connected to 134.60.4.198
+[21:51] Disconnected from 134.60.4.198
+[21:52] Trying server 134.60.4.198:6667
+[21:52] Connected to 134.60.4.198
+[21:52] Disconnected from 134.60.4.198
+[21:53] Trying server 49.204.56.254:6667
+[21:53] Connected to 49.204.56.254
+[21:53] Disconnected from 49.204.56.254
+[21:54] Trying server 134.60.4.198:6667
+[21:54] Connected to 134.60.4.198
+[21:54] Disconnected from 134.60.4.198
+[21:55] Trying server 134.60.4.198:6667
+[21:55] Connected to 134.60.4.198
+[21:55] Disconnected from 134.60.4.198
+[21:56] Trying server 49.204.56.254:6667
+[21:56] Connected to 49.204.56.254
+[21:56] Disconnected from 49.204.56.254
+[21:57] Trying server 134.60.4.198:6667
+[21:57] Connected to 134.60.4.198
+[21:57] Disconnected from 134.60.4.198
+[21:58] Trying server 134.60.4.198:6667
+[21:58] Connected to 134.60.4.198
+[21:58] Disconnected from 134.60.4.198
+[21:59] Trying server 49.204.56.254:6667
+[21:59] Connected to 49.204.56.254
+[21:59] Disconnected from 49.204.56.254
+[22:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[22:00] Writing user file...
+[22:00] Writing info file ...
+[22:00] Writing channel file...
+[22:00] Trying server 134.60.4.198:6667
+[22:00] Connected to 134.60.4.198
+[22:00] Disconnected from 134.60.4.198
+[22:01] Trying server 134.60.4.198:6667
+[22:01] Connected to 134.60.4.198
+[22:01] Disconnected from 134.60.4.198
+[22:02] Trying server 49.204.56.254:6667
+[22:02] Connected to 49.204.56.254
+[22:02] Disconnected from 49.204.56.254
+[22:03] Trying server 134.60.4.198:6667
+[22:03] Connected to 134.60.4.198
+[22:03] Disconnected from 134.60.4.198
+[22:04] Trying server 134.60.4.198:6667
+[22:04] Connected to 134.60.4.198
+[22:04] Disconnected from 134.60.4.198
+[22:05] Trying server 49.204.56.254:6667
+[22:05] Connected to 49.204.56.254
+[22:05] Disconnected from 49.204.56.254
+[22:06] Trying server 134.60.4.198:6667
+[22:06] Connected to 134.60.4.198
+[22:06] Disconnected from 134.60.4.198
+[22:07] Trying server 134.60.4.198:6667
+[22:07] Connected to 134.60.4.198
+[22:07] Disconnected from 134.60.4.198
+[22:08] Trying server 49.204.56.254:6667
+[22:08] Connected to 49.204.56.254
+[22:08] Disconnected from 49.204.56.254
+[22:09] Trying server 134.60.4.198:6667
+[22:09] Connected to 134.60.4.198
+[22:09] Disconnected from 134.60.4.198
+[22:10] Trying server 134.60.4.198:6667
+[22:10] Connected to 134.60.4.198
+[22:10] Disconnected from 134.60.4.198
+[22:11] Trying server 49.204.56.254:6667
+[22:11] Connected to 49.204.56.254
+[22:11] Disconnected from 49.204.56.254
+[22:12] Backing up seen data...
+[22:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[22:12] Trying server 134.60.4.198:6667
+[22:12] Connected to 134.60.4.198
+[22:12] Disconnected from 134.60.4.198
+[22:13] Trying server 134.60.4.198:6667
+[22:13] Connected to 134.60.4.198
+[22:13] Disconnected from 134.60.4.198
+[22:14] Trying server 49.204.56.254:6667
+[22:14] Connected to 49.204.56.254
+[22:14] Disconnected from 49.204.56.254
+[22:15] Trying server 134.60.4.198:6667
+[22:15] Connected to 134.60.4.198
+[22:15] Disconnected from 134.60.4.198
+[22:16] Trying server 134.60.4.198:6667
+[22:16] Connected to 134.60.4.198
+[22:16] Disconnected from 134.60.4.198
+[22:17] Trying server 49.204.56.254:6667
+[22:17] Connected to 49.204.56.254
+[22:17] Disconnected from 49.204.56.254
+[22:18] Trying server 134.60.4.198:6667
+[22:18] Connected to 134.60.4.198
+[22:18] Disconnected from 134.60.4.198
+[22:19] Trying server 134.60.4.198:6667
+[22:19] Connected to 134.60.4.198
+[22:19] Disconnected from 134.60.4.198
+[22:20] Trying server 49.204.56.254:6667
+[22:20] Connected to 49.204.56.254
+[22:20] Disconnected from 49.204.56.254
+[22:21] Trying server 134.60.4.198:6667
+[22:21] Connected to 134.60.4.198
+[22:21] Disconnected from 134.60.4.198
+[22:22] Trying server 134.60.4.198:6667
+[22:22] Connected to 134.60.4.198
+[22:22] Disconnected from 134.60.4.198
+[22:23] Trying server 49.204.56.254:6667
+[22:23] Connected to 49.204.56.254
+[22:23] Disconnected from 49.204.56.254
+[22:24] Trying server 134.60.4.198:6667
+[22:24] Connected to 134.60.4.198
+[22:24] Disconnected from 134.60.4.198
+[22:25] Trying server 134.60.4.198:6667
+[22:25] Connected to 134.60.4.198
+[22:25] Disconnected from 134.60.4.198
+[22:26] Trying server 49.204.56.254:6667
+[22:26] Connected to 49.204.56.254
+[22:26] Disconnected from 49.204.56.254
+[22:27] Trying server 134.60.4.198:6667
+[22:27] Connected to 134.60.4.198
+[22:27] Disconnected from 134.60.4.198
+[22:28] Trying server 134.60.4.198:6667
+[22:28] Connected to 134.60.4.198
+[22:28] Disconnected from 134.60.4.198
+[22:29] Trying server 49.204.56.254:6667
+[22:29] Connected to 49.204.56.254
+[22:29] Disconnected from 49.204.56.254
+[22:30] Trying server 134.60.4.198:6667
+[22:30] Connected to 134.60.4.198
+[22:30] Disconnected from 134.60.4.198
+[22:31] Trying server 134.60.4.198:6667
+[22:31] Connected to 134.60.4.198
+[22:31] Disconnected from 134.60.4.198
+[22:32] Trying server 49.204.56.254:6667
+[22:32] Connected to 49.204.56.254
+[22:32] Disconnected from 49.204.56.254
+[22:33] Trying server 134.60.4.198:6667
+[22:33] Connected to 134.60.4.198
+[22:33] Disconnected from 134.60.4.198
+[22:34] Trying server 134.60.4.198:6667
+[22:34] Connected to 134.60.4.198
+[22:34] Disconnected from 134.60.4.198
+[22:35] Trying server 49.204.56.254:6667
+[22:35] Connected to 49.204.56.254
+[22:35] Disconnected from 49.204.56.254
+[22:36] Trying server 134.60.4.198:6667
+[22:36] Connected to 134.60.4.198
+[22:36] Disconnected from 134.60.4.198
+[22:37] Trying server 134.60.4.198:6667
+[22:37] Connected to 134.60.4.198
+[22:37] Disconnected from 134.60.4.198
+[22:38] Trying server 49.204.56.254:6667
+[22:38] Connected to 49.204.56.254
+[22:38] Disconnected from 49.204.56.254
+[22:39] Trying server 134.60.4.198:6667
+[22:39] Connected to 134.60.4.198
+[22:39] Disconnected from 134.60.4.198
+[22:40] Trying server 134.60.4.198:6667
+[22:40] Connected to 134.60.4.198
+[22:40] Disconnected from 134.60.4.198
+[22:41] Trying server 49.204.56.254:6667
+[22:41] Connected to 49.204.56.254
+[22:41] Disconnected from 49.204.56.254
+[22:42] Trying server 134.60.4.198:6667
+[22:42] Connected to 134.60.4.198
+[22:42] Disconnected from 134.60.4.198
+[22:43] Trying server 134.60.4.198:6667
+[22:43] Connected to 134.60.4.198
+[22:43] Disconnected from 134.60.4.198
+[22:44] Trying server 49.204.56.254:6667
+[22:44] Connected to 49.204.56.254
+[22:44] Disconnected from 49.204.56.254
+[22:45] Trying server 134.60.4.198:6667
+[22:45] Connected to 134.60.4.198
+[22:45] Disconnected from 134.60.4.198
+[22:46] Trying server 134.60.4.198:6667
+[22:46] Connected to 134.60.4.198
+[22:46] Disconnected from 134.60.4.198
+[22:47] Trying server 49.204.56.254:6667
+[22:47] Connected to 49.204.56.254
+[22:47] Disconnected from 49.204.56.254
+[22:48] Trying server 134.60.4.198:6667
+[22:48] Connected to 134.60.4.198
+[22:48] Disconnected from 134.60.4.198
+[22:49] Trying server 134.60.4.198:6667
+[22:49] Connected to 134.60.4.198
+[22:49] Disconnected from 134.60.4.198
+[22:50] Trying server 49.204.56.254:6667
+[22:50] Connected to 49.204.56.254
+[22:50] Disconnected from 49.204.56.254
+[22:51] Trying server 134.60.4.198:6667
+[22:51] Connected to 134.60.4.198
+[22:51] Disconnected from 134.60.4.198
+[22:52] Trying server 134.60.4.198:6667
+[22:52] Connected to 134.60.4.198
+[22:52] Disconnected from 134.60.4.198
+[22:53] Trying server 49.204.56.254:6667
+[22:53] Connected to 49.204.56.254
+[22:53] Disconnected from 49.204.56.254
+[22:54] Trying server 134.60.4.198:6667
+[22:54] Connected to 134.60.4.198
+[22:54] Disconnected from 134.60.4.198
+[22:55] Trying server 134.60.4.198:6667
+[22:55] Connected to 134.60.4.198
+[22:55] Disconnected from 134.60.4.198
+[22:56] Trying server 49.204.56.254:6667
+[22:56] Connected to 49.204.56.254
+[22:56] Disconnected from 49.204.56.254
+[22:57] Trying server 134.60.4.198:6667
+[22:57] Connected to 134.60.4.198
+[22:57] Disconnected from 134.60.4.198
+[22:58] Trying server 134.60.4.198:6667
+[22:58] Connected to 134.60.4.198
+[22:58] Disconnected from 134.60.4.198
+[22:59] Trying server 49.204.56.254:6667
+[22:59] Connected to 49.204.56.254
+[22:59] Disconnected from 49.204.56.254
+[23:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[23:00] Writing user file...
+[23:00] Writing info file ...
+[23:00] Writing channel file...
+[23:00] Trying server 134.60.4.198:6667
+[23:00] Connected to 134.60.4.198
+[23:00] Disconnected from 134.60.4.198
+[23:01] Trying server 134.60.4.198:6667
+[23:01] Connected to 134.60.4.198
+[23:01] Disconnected from 134.60.4.198
+[23:02] Trying server 49.204.56.254:6667
+[23:02] Connected to 49.204.56.254
+[23:02] Disconnected from 49.204.56.254
+[23:03] Trying server 134.60.4.198:6667
+[23:03] Connected to 134.60.4.198
+[23:03] Disconnected from 134.60.4.198
+[23:04] Trying server 134.60.4.198:6667
+[23:04] Connected to 134.60.4.198
+[23:04] Disconnected from 134.60.4.198
+[23:05] Trying server 49.204.56.254:6667
+[23:05] Connected to 49.204.56.254
+[23:05] Disconnected from 49.204.56.254
+[23:06] Trying server 134.60.4.198:6667
+[23:06] Connected to 134.60.4.198
+[23:06] Disconnected from 134.60.4.198
+[23:07] Trying server 134.60.4.198:6667
+[23:07] Connected to 134.60.4.198
+[23:07] Disconnected from 134.60.4.198
+[23:08] Trying server 49.204.56.254:6667
+[23:08] Connected to 49.204.56.254
+[23:08] Disconnected from 49.204.56.254
+[23:09] Trying server 134.60.4.198:6667
+[23:09] Connected to 134.60.4.198
+[23:09] Disconnected from 134.60.4.198
+[23:10] Trying server 134.60.4.198:6667
+[23:10] Connected to 134.60.4.198
+[23:10] Disconnected from 134.60.4.198
+[23:11] Trying server 49.204.56.254:6667
+[23:11] Connected to 49.204.56.254
+[23:11] Disconnected from 49.204.56.254
+[23:12] Backing up seen data...
+[23:12] Tcl error [learn_sortFile]: couldn't open "data/learn.dat": no such file or directory
+[23:12] Trying server 134.60.4.198:6667
+[23:12] Connected to 134.60.4.198
+[23:12] Disconnected from 134.60.4.198
+[23:13] Trying server 134.60.4.198:6667
+[23:13] Connected to 134.60.4.198
+[23:13] Disconnected from 134.60.4.198
+[23:14] Trying server 49.204.56.254:6667
+[23:14] Connected to 49.204.56.254
+[23:14] Disconnected from 49.204.56.254
+[23:15] Trying server 134.60.4.198:6667
+[23:15] Connected to 134.60.4.198
+[23:15] Disconnected from 134.60.4.198
+[23:16] Trying server 134.60.4.198:6667
+[23:16] Connected to 134.60.4.198
+[23:16] Disconnected from 134.60.4.198
+[23:17] Trying server 49.204.56.254:6667
+[23:17] Connected to 49.204.56.254
+[23:17] Disconnected from 49.204.56.254
+[23:18] Trying server 134.60.4.198:6667
+[23:18] Connected to 134.60.4.198
+[23:18] Disconnected from 134.60.4.198
+[23:19] Trying server 134.60.4.198:6667
+[23:19] Connected to 134.60.4.198
+[23:19] Disconnected from 134.60.4.198
+[23:20] Trying server 49.204.56.254:6667
+[23:20] Connected to 49.204.56.254
+[23:20] Disconnected from 49.204.56.254
+[23:21] Trying server 134.60.4.198:6667
+[23:21] Connected to 134.60.4.198
+[23:21] Disconnected from 134.60.4.198
+[23:22] Trying server 134.60.4.198:6667
+[23:22] Connected to 134.60.4.198
+[23:22] Disconnected from 134.60.4.198
+[23:23] Trying server 49.204.56.254:6667
+[23:23] Connected to 49.204.56.254
+[23:23] Disconnected from 49.204.56.254
+[23:24] Trying server 134.60.4.198:6667
+[23:24] Connected to 134.60.4.198
+[23:24] Disconnected from 134.60.4.198
+[23:25] Trying server 134.60.4.198:6667
+[23:25] Connected to 134.60.4.198
+[23:25] Disconnected from 134.60.4.198
+[23:26] Trying server 49.204.56.254:6667
+[23:26] Connected to 49.204.56.254
+[23:26] Disconnected from 49.204.56.254
+[23:27] Trying server 134.60.4.198:6667
+[23:27] Connected to 134.60.4.198
+[23:27] Disconnected from 134.60.4.198
+[23:28] Trying server 134.60.4.198:6667
+[23:28] Connected to 134.60.4.198
+[23:28] Disconnected from 134.60.4.198
+[23:29] Trying server 49.204.56.254:6667
+[23:29] Connected to 49.204.56.254
+[23:29] Disconnected from 49.204.56.254
+[23:30] Trying server 134.60.4.198:6667
+[23:30] Connected to 134.60.4.198
+[23:30] Disconnected from 134.60.4.198
+[23:31] Trying server 134.60.4.198:6667
+[23:31] Connected to 134.60.4.198
+[23:31] Disconnected from 134.60.4.198
+[23:32] Trying server 49.204.56.254:6667
+[23:32] Connected to 49.204.56.254
+[23:32] Disconnected from 49.204.56.254
+[23:33] Trying server 134.60.4.198:6667
+[23:33] Connected to 134.60.4.198
+[23:33] Disconnected from 134.60.4.198
+[23:34] Trying server 134.60.4.198:6667
+[23:34] Connected to 134.60.4.198
+[23:34] Disconnected from 134.60.4.198
+[23:35] Trying server 49.204.56.254:6667
+[23:35] Connected to 49.204.56.254
+[23:35] Disconnected from 49.204.56.254
+[23:36] Trying server 134.60.4.198:6667
+[23:36] Connected to 134.60.4.198
+[23:36] Disconnected from 134.60.4.198
+[23:37] Trying server 134.60.4.198:6667
+[23:37] Connected to 134.60.4.198
+[23:37] Disconnected from 134.60.4.198
+[23:38] Trying server 49.204.56.254:6667
+[23:38] Connected to 49.204.56.254
+[23:38] Disconnected from 49.204.56.254
+[23:39] Trying server 134.60.4.198:6667
+[23:39] Connected to 134.60.4.198
+[23:39] Disconnected from 134.60.4.198
+[23:40] Trying server 134.60.4.198:6667
+[23:40] Connected to 134.60.4.198
+[23:40] Disconnected from 134.60.4.198
+[23:41] Trying server 49.204.56.254:6667
+[23:41] Connected to 49.204.56.254
+[23:41] Disconnected from 49.204.56.254
+[23:42] Trying server 134.60.4.198:6667
+[23:42] Connected to 134.60.4.198
+[23:42] Disconnected from 134.60.4.198
+[23:43] Trying server 134.60.4.198:6667
+[23:43] Connected to 134.60.4.198
+[23:43] Disconnected from 134.60.4.198
+[23:44] Trying server 49.204.56.254:6667
+[23:44] Connected to 49.204.56.254
+[23:44] Disconnected from 49.204.56.254
+[23:45] Trying server 134.60.4.198:6667
+[23:45] Connected to 134.60.4.198
+[23:45] Disconnected from 134.60.4.198
+[23:46] Trying server 134.60.4.198:6667
+[23:46] Connected to 134.60.4.198
+[23:46] Disconnected from 134.60.4.198
+[23:47] Trying server 49.204.56.254:6667
+[23:47] Connected to 49.204.56.254
+[23:47] Disconnected from 49.204.56.254
+[23:48] Trying server 134.60.4.198:6667
+[23:48] Connected to 134.60.4.198
+[23:48] Disconnected from 134.60.4.198
+[23:49] Trying server 134.60.4.198:6667
+[23:49] Connected to 134.60.4.198
+[23:49] Disconnected from 134.60.4.198
+[23:50] Trying server 49.204.56.254:6667
+[23:50] Connected to 49.204.56.254
+[23:50] Disconnected from 49.204.56.254
+[23:51] Trying server 134.60.4.198:6667
+[23:51] Connected to 134.60.4.198
+[23:51] Disconnected from 134.60.4.198
+[23:52] Trying server 134.60.4.198:6667
+[23:52] Connected to 134.60.4.198
+[23:52] Disconnected from 134.60.4.198
+[23:53] Trying server 49.204.56.254:6667
+[23:53] Connected to 49.204.56.254
+[23:53] Disconnected from 49.204.56.254
+[23:54] Trying server 134.60.4.198:6667
+[23:54] Connected to 134.60.4.198
+[23:54] Disconnected from 134.60.4.198
+[23:55] Trying server 134.60.4.198:6667
+[23:55] Connected to 134.60.4.198
+[23:55] Disconnected from 134.60.4.198
+[23:56] Trying server 49.204.56.254:6667
+[23:56] Connected to 49.204.56.254
+[23:56] Disconnected from 49.204.56.254
+[23:57] Trying server 134.60.4.198:6667
+[23:57] Connected to 134.60.4.198
+[23:57] Disconnected from 134.60.4.198
+[23:58] Trying server 134.60.4.198:6667
+[23:58] Connected to 134.60.4.198
+[23:58] Disconnected from 134.60.4.198
+[23:59] Trying server 49.204.56.254:6667
+[23:59] Connected to 49.204.56.254
+[23:59] Disconnected from 49.204.56.254
+[00:00] <<ju>> TIMED ROUTINE -- 1 HOUR
+[00:00] Tcl error [mc:sc:do_svs]: DNS lookup failed
+[00:00] --- Sat May 25 2013
+[00:00] Backing up user file...
+[00:00] Backing up channel file...

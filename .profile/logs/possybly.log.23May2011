@@ -1,0 +1,205 @@
+[20:26] Trying server Montreal.QC.CA.Undernet.org:6667
+[20:26] Connected to Montreal.QC.CA.Undernet.org
+[20:26] -NOTICE- *** Looking up your hostname
+[20:26] -NOTICE- *** Checking Ident
+[20:26] -NOTICE- *** Couldn't look up your hostname
+[20:26] -NOTICE- *** No ident response
+[20:26] <<possybly>> BIND ROUTINE -- posibly
+[20:26] -NOTICE- on 1 ca 2(4) ft 10(10) tr
+[20:26] posibly joined #helpUndernet.
+[20:26] Introduced to campionu (*!?izi@*.undernet.org)
+[20:26] Bot installation complete, first master is campionu
+[20:26] Writing user file...
+[20:26] Writing info file ...
+[20:26] Writing channel file...
+[20:27] <<campionu>> campionu!~izi@izi.users.undernet.org #helpundernet PASS ...
+[20:27] <<campionu>> campionu!~izi@izi.users.undernet.org #helpundernet AUTH as campionu succeeded
+[20:30] Writing user file...
+[20:30] Writing info file ...
+[20:30] Writing channel file...
+[20:30] Rehashing...
+[20:30] <<campionu>> campionu!~izi@izi.users.undernet.org #helpundernet REHASH ...
+[20:30] Listening at telnet port 3333 (all).
+[20:30] Can't load modules blowfish: Already loaded.
+[20:30] dNs Resolver bY Rafa
+[20:30] PORTCHECK: PortCheck.tcl Version 2.0 by Wcc is loaded.
+[20:30] Loaded words.tcl v1.0 by BLaCkShaDoW
+[20:30] Loaded: OPTools + UserMGR v3.0 by smart@UnderNet <e-mail: smart@ro-club.net>
+[20:30] Anti notice script loaded.
+[20:30] Script loaded: Blacklist :O by Interzisu
+[20:30] !learn TCL by Hal9000 @ irc.ptnet.org loaded.
+[20:30] Check CService Channel Aplication para #AyudaIRC @ UnderNet by 1BaRDaHL * 1bardahl@linuxmail.org 1v1.0 cargado.
+[20:30] Script loaded: Time Bomb - Translated to Romanian language by JoNi
+[20:30] .next v1.0@2010 by ArmannY loaded.
+[20:30] Spam Check v2.5.2 by MC_8 loaded.
+[20:30] bseen1.4.2c:  -- Bass's SEEN incarcata --
+[20:30] LOADED: Part/Revolving Door Flood Protection by fyre
+[20:30] TxTGreet 1.0 by darles successfully loaded
+[20:30] Ip Information Script 0.1 by Scorpyonul Successfuly loaded
+[20:30] TCL loaded: nochanctcps.tcl v1.04 by Sup <temex@iki.fi>
+[20:30] ALI: Loaded ThansFor1.0.1 made by Alien
+[20:30] Melts Anti-Overtake 0.9 loaded...
+[20:30] Injura TCL loaded !
+[20:30] private tcl by blackshadow loaded
+[20:30] GLine: gline.tcl 1.1 by Ionut <ionut@infoapex.com> is loaded.
+[20:30] VIP TCL by BLaCkShaDoW Loaded
+[20:30] Horoscop loaded sucessfully. Modificat de IuClik
+[20:30] 2TCL FlyBy3 uploaded 4succesfully.
+[20:30] Incarcat TCL Blackjack v1.1 modificat de Dudu - http://www.aditza.net
+[20:30] StrictOp tcl by BLaCkShaDoW Loaded
+[20:30] % youtube_title0.4: loaded
+[20:30] BlackToolS 2.4 by Celebru Loaded -> Celebru ProductionS ®
+[20:30] s4ve !nmap loaded..
+[20:30] **********************************
+[20:30] *loading a&a light eggdrop script*
+[20:30] **********************************
+[20:30] + LOADED core
+[20:30] + LOADED binds
+[20:30] + LOADED xservice module
+[20:30] + LOADED en dictionary
+[20:30] + LOADED ro dictionary
+[20:30] + LOADED owner commands
+[20:30] + LOADED global N commands
+[20:30] Last message repeated 1 time(s).
+[20:30] + LOADED global m commands
+[20:30] + LOADED global o commands
+[20:30] + LOADED global l commands
+[20:30] + LOADED global v commands
+[20:30] + LOADED global s commands
+[20:30] + LOADED global Q commands
+[20:30] + LOADED local N commands
+[20:30] + LOADED local X commands
+[20:30] + LOADED local n commands
+[20:30] + LOADED local m commands
+[20:30] + LOADED local o commands
+[20:30] + LOADED local l commands
+[20:30] + LOADED local v commands
+[20:30] + LOADED local q commands
+[20:30] + LOADED local s commands
+[20:30] + LOADED stats module
+[20:30] **********************************
+[20:30] *a&a light loaded successfully :)*
+[20:30] **********************************
+[20:30] Userfile loaded, unpacking...
+[20:30] Writing user file...
+[20:30] Writing info file ...
+[20:30] Writing channel file...
+[20:30] Restarting...
+[20:30] <<campionu>> campionu!~izi@izi.users.undernet.org #helpundernet RESTART ...
+[20:30] Module unloaded: wire
+[20:30] Module unloaded: assoc
+[20:30] Module unloaded: console
+[20:30] Module unloaded: notes
+[20:30] Module unloaded: compress
+[20:30] Sending 'share end' to all sharebots...
+[20:30] Unloaded sharing module, flushing tbuf's...
+[20:30] Module unloaded: share
+[20:30] Unloading transfer module, killing all transfer connections...
+[20:30] Module unloaded: transfer
+[20:30] Module unloaded: irc
+[20:30] Module unloaded: ctcp
+[20:30] Module unloaded: server
+[20:30] Writing channel file...
+[20:30] Module unloaded: channels
+[20:30] Module unloaded: dns
+[20:30] Listening at telnet port 3333 (all).
+[20:30] Module loaded: dns             
+[20:30] Module loaded: channels        
+[20:30] Module loaded: server          
+[20:30] Module loaded: ctcp            
+[20:30] Module loaded: irc             
+[20:30] Module loaded: transfer         (with lang support)
+[20:30] Module loaded: share           
+[20:30] Module loaded: compress        
+[20:30] Module loaded: notes            (with lang support)
+[20:30] Module loaded: console          (with lang support)
+[20:30] Can't load modules blowfish: Already loaded.
+[20:30] Module loaded: assoc            (with lang support)
+[20:30] Module loaded: wire             (with lang support)
+[20:30] dNs Resolver bY Rafa
+[20:30] PORTCHECK: PortCheck.tcl Version 2.0 by Wcc is loaded.
+[20:30] Loaded words.tcl v1.0 by BLaCkShaDoW
+[20:30] Loaded: OPTools + UserMGR v3.0 by smart@UnderNet <e-mail: smart@ro-club.net>
+[20:30] Anti notice script loaded.
+[20:30] Script loaded: Blacklist :O by Interzisu
+[20:30] !learn TCL by Hal9000 @ irc.ptnet.org loaded.
+[20:30] Check CService Channel Aplication para #AyudaIRC @ UnderNet by 1BaRDaHL * 1bardahl@linuxmail.org 1v1.0 cargado.
+[20:30] Script loaded: Time Bomb - Translated to Romanian language by JoNi
+[20:30] .next v1.0@2010 by ArmannY loaded.
+[20:30] Spam Check v2.5.2 by MC_8 loaded.
+[20:30] bseen1.4.2c:  -- Bass's SEEN incarcata --
+[20:30]      Se incarca baza de date seen...
+[20:30]      Nu au fost gasite inregistarile vechi!
+[20:30]      Daca aceasta este prima oara cand folositi acest script, nu va facti griji.
+[20:30]      Daca ar trebui sa exista inregistari mai vechi..chiar ar trebui sa va facti griji :).
+[20:30] LOADED: Part/Revolving Door Flood Protection by fyre
+[20:30] TxTGreet 1.0 by darles successfully loaded
+[20:30] Ip Information Script 0.1 by Scorpyonul Successfuly loaded
+[20:30] TCL loaded: nochanctcps.tcl v1.04 by Sup <temex@iki.fi>
+[20:30] ALI: Loaded ThansFor1.0.1 made by Alien
+[20:30] Melts Anti-Overtake 0.9 loaded...
+[20:30] Injura TCL loaded !
+[20:30] private tcl by blackshadow loaded
+[20:30] GLine: gline.tcl 1.1 by Ionut <ionut@infoapex.com> is loaded.
+[20:30] VIP TCL by BLaCkShaDoW Loaded
+[20:30] Horoscop loaded sucessfully. Modificat de IuClik
+[20:30] 2TCL FlyBy3 uploaded 4succesfully.
+[20:30] Incarcat TCL Blackjack v1.1 modificat de Dudu - http://www.aditza.net
+[20:30] StrictOp tcl by BLaCkShaDoW Loaded
+[20:30] % youtube_title0.4: loaded
+[20:30] BlackToolS 2.4 by Celebru Loaded -> Celebru ProductionS ®
+[20:30] s4ve !nmap loaded..
+[20:30] **********************************
+[20:30] *loading a&a light eggdrop script*
+[20:30] **********************************
+[20:30] + LOADED core
+[20:30] + LOADED binds
+[20:30] + LOADED xservice module
+[20:30] + LOADED en dictionary
+[20:30] + LOADED ro dictionary
+[20:30] + LOADED owner commands
+[20:30] + LOADED global N commands
+[20:30] Last message repeated 1 time(s).
+[20:30] + LOADED global m commands
+[20:30] + LOADED global o commands
+[20:30] + LOADED global l commands
+[20:30] + LOADED global v commands
+[20:30] + LOADED global s commands
+[20:30] + LOADED global Q commands
+[20:30] + LOADED local N commands
+[20:30] + LOADED local X commands
+[20:30] + LOADED local n commands
+[20:30] + LOADED local m commands
+[20:30] + LOADED local o commands
+[20:30] + LOADED local l commands
+[20:30] + LOADED local v commands
+[20:30] + LOADED local q commands
+[20:30] + LOADED local s commands
+[20:30] + LOADED stats module
+[20:30] **********************************
+[20:30] *a&a light loaded successfully :)*
+[20:30] **********************************
+[20:30] Userfile loaded, unpacking...
+[20:30] Trying server Montreal.QC.CA.Undernet.org:6667
+[20:30] Connected to Montreal.QC.CA.Undernet.org
+[20:30] -NOTICE- *** Looking up your hostname
+[20:30] -NOTICE- *** Checking Ident
+[20:30] -NOTICE- *** Couldn't look up your hostname
+[20:30] -NOTICE- *** No ident response
+[20:30] <<possybly>> BIND ROUTINE -- posibly
+[20:30] -NOTICE- on 1 ca 2(4) ft 10(10) tr
+[20:31] posibly joined #helpUndernet.
+[20:31] <<campionu>> campionu!~izi@izi.users.undernet.org #helpundernet AUTH as campionu succeeded
+[20:31] * IRC NICK CHANGE: posibly -> Possibly
+[20:31] <<campionu>> campionu!~izi@izi.users.undernet.org #helpundernet NICK Possibly
+[20:31] <<possybly>> BIND ROUTINE -- posibly >> Possibly
+[20:31] Regained nickname 'Possibly'.
+[20:31] <<*>> kids!~black@Rulls.users.undernet.org #helpundernet AUTH as campionu succeeded
+[20:32] <<campionu>> kids!~black@Rulls.users.undernet.org #helpundernet CHANINFO ...
+[20:51] <<*>> campionu!~izi@izi.users.undernet.org #helpundernet AUTH as campionu succeeded
+[20:52] <<*>> kids!~black@Rulls.users.undernet.org #helpundernet AUTH FAILED: unknown user
+[20:52] <<campionu>> campionu!~izi@izi.users.undernet.org #helpundernet USERSET antihack ON for campionu
+[21:00] <<possybly>> TIMED ROUTINE -- 1 HOUR
+[21:00] Writing user file...
+[21:00] Writing channel file...
+[21:00] Writing info file ...

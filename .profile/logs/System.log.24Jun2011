@@ -1,0 +1,38 @@
+[23:44] Trying server Tampa.Fl.us.undernet.org:6667
+[23:44] Connected to Tampa.Fl.us.undernet.org
+[23:44] -NOTICE- *** Looking up your hostname
+[23:44] -NOTICE- *** Checking Ident
+[23:44] NICK IN USE: Trying 'System0'
+[23:44] -NOTICE- *** Couldn't look up your hostname
+[23:44] -NOTICE- *** No ident response
+[23:44] <<System>> BIND ROUTINE -- System0
+[23:44] -NOTICE- on 1 ca 1(4) ft 10(10)
+[23:44] System0 joined #Mereny.
+[23:44] Introduced to Nokia (*!?daniel@*.undernet.org)
+[23:44] Bot installation complete, first master is Nokia
+[23:44] Writing user file...
+[23:44] Writing info file ...
+[23:44] Writing channel file...
+[23:44] <<Nokia>> Nokia!~daniel@Rulls.users.undernet.org #Mereny PASS ...
+[23:44] <<Nokia>> Nokia!~daniel@Rulls.users.undernet.org #Mereny AUTH as Nokia succeeded
+[23:45] Switching back to altnick system
+[23:45] NICK IN USE: system (keeping 'System0').
+[23:45] <<Nokia>> Nokia!~daniel@Rulls.users.undernet.org #Mereny USERSET permident to *!*@Rulls.users.undernet.org for Nokia
+[23:45] <<Nokia>> Nokia!~daniel@Rulls.users.undernet.org #Mereny USERSET antihack ON for Nokia
+[23:45] <<Nokia>> Nokia!~daniel@Rulls.users.undernet.org #Mereny OUTPUT REPLY chan 2 note
+[23:45] * IRC NICK CHANGE: System -> Chan
+[23:45] <<Nokia>> Nokia!~daniel@Rulls.users.undernet.org #Mereny NICK Chan
+[23:45] <<System>> BIND ROUTINE -- System0 >> Chan
+[23:45] Regained nickname 'Chan'.
+[23:48] Tcl error [learn_explain]: couldn't open "data/learn.dat": no such file or directory
+[23:49] Writing user file...
+[23:49] Writing info file ...
+[23:49] Writing channel file...
+[23:49] <<System>> SAVE ROUTINE -- user, chan, info files
+[23:49] <<Nokia>> Nokia!~daniel@Rulls.users.undernet.org #Hak JOIN #Hak
+[23:49] Chan joined #Hak.
+[00:00] <<System>> TIMED ROUTINE -- 1 HOUR
+[00:00] Tcl error [mc:sc:do_svs]: DNS lookup failed
+[00:00] --- Sat Jun 25 2011
+[00:00] Backing up user file...
+[00:00] Backing up channel file...

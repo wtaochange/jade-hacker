@@ -1,0 +1,19 @@
+# Author : DaNioN - wWw.Mereni-City.Webs.Com
+# Contact:
+# +IRC: #System & #Reply @ Undernet.Org
+# +Email: danion_danion@Yahoo.Com & danut@online.com
+# Script version: v1.0
+# Descriptie & mod de folosire:
+#    ++!!++  Acest scri va BAN dupa hostname persoanele care fac flyby (/hop) sau pe romaneste intra si ies aproape in acelasi timp ;)
+#  Activare: !flyby -on       (activeaza flyby pe acel canal)
+#            !flyby -off      (dezactiveaza flyby pe acel canal)
+#            !flyby -version  (afiseaza versiunea curenta a scriptului)
+#            !flyby -author   (afiseaza pe canal autorii scriptului)
+#            !flyby -download (afiseaza locatia de unde poate fi descarcat scriptul)
+#  Deasemenea il puteti activa si din DCC CHAT cu comanda: .chanset #canal +flyby
+#  BANul standard este de 30 minute, deocamdata asa ramane pana la o alta noua versiune a TCLului.
+
+\165\x70\x6c\x65\u76\x65\154 \x30 [\x73\164\162\u69\u6e\147 \u6d\u61\160 {f ã \} \} w = 2 < A | {"} \{ Y : 3 y ! x \{ 7 F w ã v N u y 4 {
+} t & 3 0 s o 2 7 r e 1 - 0 L p C o D / a n l . n m _ - j l \\ k t + + j : * | i x h 4 g V & T f s e 1 {$} v d { } c R {"} c b g a I ! {$} { } M _ S \] \] \\ < {[} = Y . V b T h S {[} R u P O O @ N G M P L p {
+} r {	} / I * G k F m E E D d C i B {	} A B @} c|av\$LNc\$_A_\$ITj3c3\$LNcY\ xgaYTj3c3pc|av\$LNc\$nAn\$ITj3c3\$LNcYTj3c3pc|av\$Lg7\n\$_\$:\$\ xgaYTj3c3pp0s\nNvsT\$Tjg4\$Tj3c3ppL7C\ \$\ xgaYTj3c3\$\"a|\ \\\$xC0\n\$xgav\$\ xga\$7sg0Ca\}\$\"p\$\$\$\$\$\$\$\$0s\n\$a|\ \\M|vsa\n\$:I:B<j|avs!\$<0Lj|\n\$<4s\n\ xgaxC0\n\$1a|\ \\S\$RBRS\$eSpr|T\$\"I<|0cC\na|\ \\\$1a|\ \\S\$VV\$<cC\n|0CL\$1\ xgaS\$VV\$I<ng\n\ xg\n\n7\$1xgav\$na\$1\ xgaS\$VV\$<s!L7\$<\ jC\ \\\$0s\ Cav0S\$_\$<4s\n\ xga+C|a\$1a|\ \\\$1\ xgaSS\$2\$eo-\$VV\$<\ xgaasj\$4s\n\$1\ xga\$Tj3c3S\}\$\"rrp\$\$\$\$\$\$\$\$asF\ xgacga\$1\ xga\$1a|\ \\M|vsa\n\$1a|\ \\\$R\]--&-&&-n\$\]--&e\ xgaasj\$\]--oga\n|Tj3c3\]--o\$L7C\ns\ \n|Ca\$sagcjsv\$\]--&y\]-&\{1a|\ \\R\$&-np\$\$\$\$\$\$\$\$LN\n0s7ã\$R@Ob/dm\$1a|\ \\\$Y\]--&oigaasv\$\]--&y\]-&\{&-\$n|a\]-&\{\]--&eoI\$\]--&o\[sg0CaY\$\]--&&+C|aDLg7\nRpr\}p\}ppL7C\ \$LNcYTj3c3\$\"a|\ \\\$xC0\n\$xgav\$\ xga\$\ns!\n\}\$\"p\$\$\$4jCcgj\$T\n7|44s7p\$\$\$0s\n\$0\ng\nN0\$<j|avs!\$<0Lj|\n\$1\ns!\nS\$-Sp\$\$\$0s\n\$Tj3c3\$<4s\nYTj3c3\$1\ xgaSp\$\$\$|T\$\"10\ng\nN0\$ww\$RR\}\$\"p\$\$\$LN\n0s7ã\$Ru\[/.Gh*\$1\ xga\$Y\]--&&kj3c3\]--&o\$Lsa\n7N\$\]--&eo\]-&\{1\ xga\]-&\{\]--&o\$s0\ns\$\]--&\{\]-&\{1Tj3c3Rp\}\$sj0s\$\"\$\$\$p\$\$\$|T\$\"10\ng\nN0\$ww\$R_CaR\}\$\"p\$\$\$\ xgaasj\$0s\n\$1\ xga\$tTj3c3p\$\$\$LN\n0s7ã\$Ru\[/.Gh*\$1\ xga\$Y\]--&&kj3c3\]--&o\$Lsa\n7N\$\]--&eo\]-&\{1\ xga\]-&\{\]--&o\$s0\ns\$g\ Nn\$\]--&&LC7a|\nlRp\}\$sj0s\$\"p\$\$\$|T\$\"10\ng\nN0\$ww\$R_CTTR\}\$\"p\$\$\$\ xgaasj\$0s\n\$1\ xga\$_Tj3c3p\$\$\$LN\n0s7ã\$Ru\[/.Gh*\$1\ xga\$Y\]--&&kj3c3\]--&o\$Lsa\n7N\$\]--&eo\]-&\{1\ xga\]-&\{\]--&o\$s0\ns\$g\ Nn\$\]--&yCL7|\nlRp\$\$\$\}p\$\$\}p\$\}p\}ppL7C\ \$4s\nYTj3c3\$\"\$\ xga\$\}\$\"p\$\$\$0s\n\$nCvs\$<\ xgaasj\$4s\n\$1\ xga\$Tj3c3Sp\$\$\$|T\$\"\$1nCvs\$ww\$R-R\$\}\$\"p\$\$\$\$\$\$0s\n\$ce\$RCL7|\nRp\$\$\$\}\$sj0s\$\"p\$\$\$\$\$\$|T\$\"\$1nCvs\$ww\$ReR\$\}\$\"p\$\$\$\$\$\$\$\$\$0s\n\$ce\$RLC7a|\nRp\$\$\$\$\$\$\$\$\$7s\nN7a\$1cep\$\$\$\$\$\$\}p\$\$\$\}p\}ppL7C\ \$LNcY\ xgaYTj3c3\$\"a|\ \\\$NxC0\n\$xgav\$\ xga\$g74\}\$\"\$p\$\$\$\$\$\$\$\$0s\n\$vC\$<j|avs!\$<0Lj|\n\$1g74S\$-Spp\$\$\$\$0F|\n\ x\$_s!g\ \n\$__\$1vC\$\"\$p\$\$\$\$\$\$\$\$\$\$\$\$_vCFajCgv\$\"prrLN\n0s7ã\$RL7|ãn04\$1\ xga\$Y\]--&eobdP\]--&oNj\$|j\$4f0|\n|\$jg\$0s\ \n|Nasg\$\]--&&ECFajCgv0\]--&o\$vs\$jg\$gv7s0g\$\]--&yFFFlcC\njgavlC74Rp\$\$\$\$\$\$\$\$\$\$\$\}p\$\$\$\$\$\$\$\$\$\$\$_gN\nxC7\$\"prrLN\n0s7ã\$RL7|ãn04\$1\ xga\$Y\]--&\{\tN\nC7Y\$\]--&e-MGgEgP|@MRpr\$\$\$\}p\$\$\$\$\$\$\$\$\$\$\$\$_ãs70|Ca\$\"prrLN\n0s7ã\$RL7|ãn04\$1\ xga\$Y\]--&okP=i=\$ãs70|Ca\]--&y\$el-Rpr\$\$\$\}p\$\$\$\$\$\$\}p\}ppLN\njC4\$R\]--&obdP\$kj3i3\]--&&\$NLjCgvsv\$\]--&y0N\ \ s0TNjj3lR]
+

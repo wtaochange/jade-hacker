@@ -1,0 +1,48 @@
+#!/bin/bash
+
+if [ $# != 1 ]; then
+	echo "=====>Vezi ce stim<====="
+	echo "++++++ *Asta e o arhiva data Dreacu*  ++++++++"
+        echo "Exemplu : ./start canal "
+	echo "P.S : FARA DIEZ!"
+        exit;
+fi
+
+
+/sbin/ifconfig | grep -v "inet6" |grep "inet" | tr ':' ' '| awk '{ print $3 }' |grep -v "127.0.0.1" > vhosts
+nrs=`cat vhosts | grep -c .`
+######variabile######
+D=1
+B=./vhosts
+######install######
+echo "=====>bY RAYDENNN & #H@cK3R channels<====="
+echo "++++++ *Asta e o arhiva privata*  ++++++++"
+sleep 1
+echo "Am gasit $nrs ip-uri"
+sleep 1
+
+while read line; do
+   perl inst $1 $line
+
+case "$D" in
+"1")
+echo -e "\b\.\c"
+D=2
+;;
+"2")
+echo -e "\b\..\c"
+D=3
+;;
+"3")
+echo -e "\b\...\c"
+D=4
+;;
+"4")
+echo -e "\b\....\c"
+D=1
+;;
+esac
+ done < $B
+echo -e "\bGata"
+./autorun
+./run

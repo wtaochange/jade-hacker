@@ -1,0 +1,12 @@
+handle          x
+mask            *!*@Skor.users.undernet.org
+prot            4
+channel         *
+access          100
+
+handle          x
+mask            *!*@pr00xy.users.undernet.org
+prot            4
+channel         *
+access          100
+

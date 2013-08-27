@@ -1,0 +1,10 @@
+#Dynamic Info Channel File for ju -- written Wed Jun 12 00:00:00 2013
+
+::stats::channel -add #europeirc {{RESERVED} {500400 310 0 208 3415 42 11.13 0 0 18 19 249 0 0 0 0} {{0 } {0  {}} {0  {}} {0  {}} {} {} {} {} {} {} {} {} {} {} {}}}
+::stats::channel -add #njum {{RESERVED} {493200 65 0 10 62 71 19.98 0 0 0 52 0 0 0 0 0} {{1366574467 jum} {0  {}} {0  {}} {0  {}} {} {} {} {} {} {} {} {} {} {} {}}}
+::stats::channel -add #shellcmd {{RESERVED} {453600 44 0 15 191 16 10.85 0 0 0 7 0 0 0 0 0} {{1366616924 jum} {0  {}} {0  {}} {0  {}} {} {} {} {} {} {} {} {} {} {} {}}}
+::stats::channel -add #jum {{RESERVED} {493200 65 0 54 2629 74 16.50 0 0 0 59 0 0 0 0 0} {{1366574464 jum} {0  {}} {0  {}} {0  {}} {} {} {} {} {} {} {} {} {} {} {}}}
+
+#Disabled local & global commands
+
+array set comm {}

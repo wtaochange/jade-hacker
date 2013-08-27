@@ -1,0 +1,2 @@
+#!/bin/sh
+./eggdrop-1.6.17 -m bot2.conf
